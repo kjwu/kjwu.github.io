@@ -1,0 +1,23 @@
+---
+layout: project
+title:  "TOPAOKO"
+date:   2009-09-01
+author: "Kuan-Ju Wu"
+categories:
+- project
+img: thumbnail_topaoko.jpg
+outline: outline_topaoko.svg
+showVideo: "block"
+video_url: "https://player.vimeo.com/video/138579016?color=ff9933&title=0&byline=0&portrait=0"
+showCarousel: "none"
+carousel:
+---
+####TOPAOKO
+
+![img1]({{ site.url }}/assets/img/project/topaoko/topaoko1.jpg)
+
+TOPAOKO is an interactive construction kit that encourages experimentation and play with pieces of laser cut hardboard based, embedded circuit, kit. We describe each component of the kit and examples of constructions built with it.
+
+![img2]({{ site.url }}/assets/img/project/topaoko/topaoko2.jpg)
+
+There are four elements in a TOPAOKO set: Chi, Li, Hsin, Guang. Each element represents a kind of electronic component. Chi means power, which, Li means force, Hsin means mind, and Guang means light. Just like a human being or a computer which are consists of power, input, output, and the processor, TOPAOKO has four basic function boxes which enable the players to create infinite kinds of combination.

@@ -1,0 +1,31 @@
+---
+layout: project
+title:  "Robobug"
+date:   2011-08-01
+author: "Kuan-Ju Wu, Eric Brockmeyer"
+categories:
+- project
+img: thumbnail_robobug.jpg
+outline: outline_robobug.svg
+showVideo: "none"
+video_url:
+showCarousel: "block"
+carousel:
+- rbg1.jpg
+- rbg2.jpg
+- rbg3.jpg
+- rbg4.jpg
+- rbg5.jpg
+- rbg6.jpg
+- rbg7.jpg
+- rbg8.jpg
+---
+####Robobug
+
+<!-- ![img1]({{ site.url }}/assets/img/project/robobug/rbg1.jpg) -->
+
+Robobug was designed in collaboration with [Eric Brockmeyer](http://ericbrockmeyer.com/Robobug) as a teaching tool. We were asked to build these robots as a part of the Live at Leslie event in the Lawrenceville neighborhood of Pittsburgh, PA. The event brought community children to a formerly abandoned pool and engaged them in multiple sensory activities including repairing bikes, making t-shirts, hoola hooping, listening to/performing music, and, of course, building Robobugs.
+
+The bugs were designed to react to sound so the kids could build and race them. A soldering workshop at the [ASSEMBLE](http://assemblepgh.org/) gallery made it possible to build a large number of Robobug circuit boards in a short amount of time. The circuit boards consist of a small microphone, op-amp, transistor, and various capacitors, resistors and diodes. As the kids talked to, or sang to the Robobugs, the circuit board drove a geared dc motor which in turn turned four legs. The locomotion of the Robobug was designed to imitate that of a scurrying insect.
+
+The results of the workshop were fantastic as the children patiently built, decorated, and discovered the functionality of each bug. Special thanks to Susan Englert and Deborah Knox for hosting the event and funding the research development and workshops that made Robobugs a reality!

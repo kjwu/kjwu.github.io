@@ -1,0 +1,17 @@
+---
+layout: project
+title:  "Leaf Radio"
+date:   2010-05-10
+author: "Kuan-Ju Wu"
+categories:
+- project
+img: thumbnail_leafradio.jpg
+outline: outline_leafradio.svg
+showVideo: "block"
+video_url: "https://player.vimeo.com/video/139892076?color=ff9933&title=0&byline=0&portrait=0"
+showCarousel: "none"
+carousel:
+---
+####Leaf Radio
+
+![img1]({{ site.url }}/assets/img/project/leafRadio/lr1.jpg)

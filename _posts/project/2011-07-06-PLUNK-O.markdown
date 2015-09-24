@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "Plunk-O"
+date:   2011-07-06
+author: "Kuan-Ju Wu, Eric Brockmeyer"
+categories:
+- project
+img: thumbnail_plunko.jpg
+outline: outline_plunko.svg
+showVideo: "block"
+video_url: "https://player.vimeo.com/video/26328593?color=ff9933&title=0&byline=0&portrait=0"
+showCarousel: "none"
+carousel:
+---
+####Plunk-O
+
+<!-- ![img1]({{ site.url }}/assets/img/project/binoculars/b1.jpg) -->
+
+On july 6, 2011, [Eric Brockmeyer](http://ericbrockmeyer.com/Robbbutterfly) and Kuan-Ju Wu put together a workshop/exhibition: Random Output at the community friendly space [ASSEMBLE](http://assemblepgh.org/), in Pittsburgh. Visitors consisted of students and professors from Carnegie Mellon University, local artists and neighborhood children. A night before the show a workshop/soldering party was held during which some of the exhibition materials were assembled.
+
+Two projects were developed for this event: Plunk-O and Robbbutterfly. Plunk-O is a ball run which uses steel balls extracts from old computer mice to roll across copper foil switches. Capacitors were removed from scrapped motherboards to smooth the led light.

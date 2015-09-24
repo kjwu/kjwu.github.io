@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% include nav.html %}
+
+<div class="container mt">
+    <div class="row">
+
+      <div class = "videoWrapper" style = "display:{{page.showVideo}}">
+        <iframe src="{{page.video_url}}" width="945" height="532" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+      <div class = "carouselWrapper" style = "display:{{page.showCarousel}}">
+        {% include carousel.html %}
+      </div>
+
+        <div class="col-lg-6 col-lg-offset-1">
+            <div class="spacing"></div>
+
+            {{ content }}
+
+        </div>
+        <div class="col-lg-3 col-lg-offset-1">
+            <div class="spacing"></div>
+            <!-- <h4>Project Details</h4> -->
+            <div class="hline"></div>
+            <p><b>Date:</b> {{ page.date | date: "%b, %Y" }}</p>
+            <p><b>Author:</b> {{ page.author }}</p>
+            <p><b>Tagged:</b> {{page.tag}}</p>
+        </div>
+    </div><! --/row -->
+</div><! --/container -->

@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "GIFFI"
+date:   2011-01-01
+author: "Kuan-Ju Wu"
+categories:
+- project
+img: thumbnail_giffi.jpg
+outline: outline_giffi.svg
+showVideo: "block"
+video_url: "https://player.vimeo.com/video/138488394?color=ff9933&title=0&byline=0&portrait=0"
+showCarousel: "none"
+carousel:
+---
+####GIFFI:Gift For Future Inventors
+
+![img1]({{ site.url }}/assets/img/project/giffi/giffi_robots.jpg)
+
+GIFFI is a computationally enhanced construction kit that enables children to build kinetic forms through purposeful play and discovery.It offers three types of movement blocks: axial / rotational, hinge / swinging, and extension / telescoping.
+
+User can set the block’s speed and range of movement with programming board. Adding a rotational block makes the squiggly snake robot turn its head.
