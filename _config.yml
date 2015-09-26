@@ -1,12 +1,13 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: KJWU.CO
+title: KUAN-JU WU
 description: "Play."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 # url: "http://yourdomain.com"
-url: "http://kjwu.github.io/"
+# url: "http://kjwu.github.io/"
+url: "http://localhost:4000"
 
 # Build settings
 markdown: kramdown
@@ -18,7 +19,8 @@ colors:  #in hex code if not noted else
   primary_rgb: "232,110,44" #"0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
   secondary: "#252624"
   third:  "#DAE0E0" #"#384452" #"#33004D"
-  fourth: "#fbfbfb"
+  # fourth: "#fbfbfb"
+  fourth: "#f2f2f2"
   link: "#428bca"
   link_hover: "#252624" #"#01b2fe"
   footer_heading: "#ffffff"

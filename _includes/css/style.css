@@ -22,7 +22,8 @@
 	}
 
 body {
-	background: #ffffff;
+	/*background: #ffffff;*/
+	background: {{site.colors.fourth}};
 	margin: 0;
 	height: 100%;
 	color: {{ site.colors.secondary }};
@@ -456,6 +457,9 @@ iframe, object, embed {
 				margin: auto;
 }
 .videoWrapper{
+	margin: auto;
+	width: 96.8%;
+	height: 38.5vw;
 	text-align: center;
 }
 
