@@ -8,7 +8,7 @@ categories:
 img: thumbnail_drawingmachine.jpg
 outline: outline_binoculars.svg
 showVideo: "block"
-video_url: "https://www.youtube.com/watch?v=3_edRsXMl08"
+video_url: "https://www.youtube.com/embed/3_edRsXMl08?rel=0&amp;controls=0&amp;showinfo=0"
 showCarousel: "none"
 carousel:
 ---
