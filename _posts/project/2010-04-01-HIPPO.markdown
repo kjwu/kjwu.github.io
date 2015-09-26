@@ -1,0 +1,20 @@
+---
+layout: project
+title:  "Hippo"
+date:   2010-04-01
+author: "Kuan-Ju Wu"
+categories:
+- project
+img: thumbnail_hippo.jpg
+outline: outline_hippo.svg
+showVideo: "none"
+video_url:
+showCarousel: "block"
+carousel:
+- hip1.jpg
+- hip2.jpg
+- hip3.jpg
+- hip4.jpg
+- hip5.jpg
+---
+####Hippo
