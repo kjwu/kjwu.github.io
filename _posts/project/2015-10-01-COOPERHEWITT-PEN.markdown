@@ -5,20 +5,12 @@ date:   2015-10-01
 author: "Cooper Hewitt Design Museum, Tellart, ,Sistelnetworks, Kuan-Ju Wu"
 categories:
 - project
-img: thumbnail_coffeeConnector.jpg
-outline: outline_coffeeConnector.svg
+img:
+outline: 
 showVideo: "none"
 video_url:
 showCarousel: "none"
 carousel:
-- rbg1.jpg
-- rbg2.jpg
-- rbg3.jpg
-- rbg4.jpg
-- rbg5.jpg
-- rbg6.jpg
-- rbg7.jpg
-- rbg8.jpg
 ---
 ####Cooper Hewitt Pen
 

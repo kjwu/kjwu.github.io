@@ -58,7 +58,4 @@ Some of the final projects are here:
 (Credit: Keyu Guo)
 
 
-
-[Course Site](https://sites.google.com/a/risd.edu/drawingmachines/home)
-
 [github](https://github.com/drawing-machines/ID-20ST-15)
