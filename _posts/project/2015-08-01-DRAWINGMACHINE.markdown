@@ -51,7 +51,7 @@ Some of the final projects are here:
 ![img9]({{ site.url }}/assets/img/project/drawingmachine/student4.jpg)
 (Credit: Tim Duschenes)
 
-![img16]({{ site.url }}/assets/img/project/drawingmachine/student10.jpg)
+![img16]({{ site.url }}/assets/img/project/drawingmachine/student11.jpg)
 (Credit: Peter Schwartz)
 
 ![img7]({{ site.url }}/assets/img/project/drawingmachine/student2.jpg)
