@@ -25,7 +25,24 @@ permalink: /
       </a>
       <a href="{{site.baseurl}}/work">
         <div class = "block" style="background-color:white;width:24vw;">
-          <span class = "blockText" style = "color:{{site.colors.secondary}}">こんにちは！</span>
+          <span  id = "greeting" class = "blockText" style = "color:{{site.colors.secondary}}"></span>
+
+          <script>
+          (function(){
+            var greetings = [
+              {text: "こんにちは！"},
+              {text: "你好！"},
+              {text: "Hello!"},
+            ];
+
+            setInterval(function(){
+              var greeting = greetings[Math.floor(Math.random() * greetings.length)];
+              document.getElementById("greeting").innerHTML = greeting.text;
+            }, 2000);
+
+          })();
+          </script>
+
         </div>
       </a>
 </div><! --/container -->
