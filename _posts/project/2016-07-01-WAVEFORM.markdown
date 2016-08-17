@@ -1,0 +1,30 @@
+---
+layout: project
+title:  "Waveform No.2"
+date:   2015-08-01
+author: "Mikhail Mansion, Kuan-Ju Wu, Fernando Diaz Smith"
+categories:
+- project
+img: thumbnail_waveform.jpg
+outline: outline_waveform.svg
+showVideo: "block"
+video_url: "https://player.vimeo.com/video/178129581?color=ff9933&title=0&byline=0&portrait=0"
+showCarousel: "none"
+carousel:
+---
+####Waveform No.2
+
+The waveform series is an ongoing body of creative research focused on building nature-driven, kinetic
+sculptures that explore new methods for making ecologically-engaging art, and which seek to enhance
+environmental sensibility.
+
+![img1]({{ site.url }}/assets/img/project/waveform/wf1.gif)
+![img2]({{ site.url }}/assets/img/project/waveform/wf2.gif)
+![img3]({{ site.url }}/assets/img/project/waveform/wf3.gif)
+![img4]({{ site.url }}/assets/img/project/waveform/wf4.gif)
+![img5]({{ site.url }}/assets/img/project/waveform/wf5.gif)
+![img6]({{ site.url }}/assets/img/project/waveform/wf6.gif)
+![img7]({{ site.url }}/assets/img/project/waveform/wf7.gif)
+
+Material: Sheer voile fabric, light aluminum frames, pulleys, stepper motors, code.
+![img8]({{ site.url }}/assets/img/project/waveform/architecture.png)
