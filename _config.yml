@@ -6,8 +6,8 @@ description: "Play."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 # url: "http://yourdomain.com"
-url: "http://kjwu.github.io"
-# url: "http://localhost:4000"
+# url: "http://kjwu.github.io"
+url: "http://localhost:4000"
 
 # Build settings
 markdown: kramdown

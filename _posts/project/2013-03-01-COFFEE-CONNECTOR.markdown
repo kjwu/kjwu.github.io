@@ -12,7 +12,7 @@ video_url: "https://player.vimeo.com/video/89347325?color=ff9933&title=0&byline=
 showCarousel: "none"
 carousel:
 ---
-####Coffee Connector
+#### Coffee Connector ####
 
 The Singapore Economic Development Board wanted a visually iconic statement piece for high-end conferences that would connect global professionals in a spectacular way, against the backdrop of commerce in Singapore. The Coffee Connector playfully encourages business networking by offering attendees an exquisitely brewed cup of coffee – but only when they pair up with a stranger and start a conversation.
 

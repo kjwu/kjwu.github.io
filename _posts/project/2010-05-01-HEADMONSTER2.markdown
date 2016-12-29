@@ -12,7 +12,7 @@ video_url: "https://player.vimeo.com/video/140513496?color=ff9933&title=0&byline
 showCarousel: "none"
 carousel:
 ---
-####Head Monster
+#### Head Monster ####
 
 Head Monster is an interactive game that the user uses a face shape control panel to drive a head like small robot. When the robot hit an object (projection), it will eat the object, and the face will change. Some objects represent good some mean bad. The player earns points by eating those good objects and get minus point by eating bad objects. In the limited time the user need to gain the points as high as possible.
 

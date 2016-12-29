@@ -12,6 +12,6 @@ video_url: "https://player.vimeo.com/video/68082632?color=ff9933&title=0&byline=
 showCarousel: "none"
 carousel:
 ---
-####Color Melody
+#### Color Melody ####
 
 Color Melody is a toy designed for young children to explore colors and sounds. The creative connection between colors and sounds elicit senses of pitch, melody, fraction, and color mix.
