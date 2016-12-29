@@ -16,6 +16,6 @@ carousel:
 - dg3.jpg
 - dg4.jpg
 ---
-####Dance Graphic
+#### Dance Graphic ####
 
 Visualizing dolphin dive moves in house dancing.

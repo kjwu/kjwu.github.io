@@ -12,7 +12,7 @@ video_url: "https://www.youtube.com/embed/3_edRsXMl08?rel=0&amp;controls=0&amp;s
 showCarousel: "none"
 carousel:
 ---
-####Drawing Machine
+#### Drawing Machine ####
 
 Drawing Machine KIT is designed for a studio course taught by Mikhail Mansion and Kuan-Ju Wu at Rhode Island School of Design Industrial Design Department.
 

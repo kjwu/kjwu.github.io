@@ -12,7 +12,7 @@ video_url:
 showCarousel: "none"
 carousel:
 ---
-####Cooper Hewitt Pen
+#### Cooper Hewitt Pen ####
 
 [The Pen](http://www.cooperhewitt.org/new-experience/designing-pen/) – a device given to visitors that allows them to save and collect anything they see (via NFC-enabled wall labels) and make on the interactive tables. Connected via our API to visitors’ tickets, The Pen creates a persistent diary of each visit and the collection becomes an open resource for future exploration and inspiration
 

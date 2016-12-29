@@ -12,7 +12,7 @@ video_url: "https://player.vimeo.com/video/26328593?color=ff9933&title=0&byline=
 showCarousel: "none"
 carousel:
 ---
-####Plunk-O
+#### Plunk-O ####
 
 <!-- ![img1]({{ site.url }}/assets/img/project/binoculars/b1.jpg) -->
 

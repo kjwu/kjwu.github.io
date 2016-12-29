@@ -12,7 +12,7 @@ video_url: "https://player.vimeo.com/video/138488394?color=ff9933&title=0&byline
 showCarousel: "none"
 carousel:
 ---
-####GIFFI:Gift For Future Inventors
+#### GIFFI:Gift For Future Inventors ####
 
 ![img1]({{ site.url }}/assets/img/project/giffi/giffi_robots.jpg)
 

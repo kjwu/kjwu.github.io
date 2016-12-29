@@ -3,6 +3,7 @@ layout: project
 title:  "Waveform No.2"
 date:   2016-07-01
 author: "Mikhail Mansion, Kuan-Ju Wu, Fernando Diaz Smith"
+tag: "art, kinetic sculpture"
 categories:
 - project
 img: thumbnail_waveform.jpg
@@ -12,7 +13,7 @@ video_url: "https://player.vimeo.com/video/178129581?color=ff9933&title=0&byline
 showCarousel: "none"
 carousel:
 ---
-####Waveform No.2
+#### Waveform No.2 ####
 
 The waveform series is an ongoing body of creative research focused on building nature-driven, kinetic
 sculptures that explore new methods for making ecologically-engaging art, and which seek to enhance

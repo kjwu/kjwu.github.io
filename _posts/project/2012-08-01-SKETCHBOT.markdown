@@ -13,7 +13,7 @@ video_url: "https://player.vimeo.com/video/114315654?color=ff9933&title=0&byline
 showCarousel: "none"
 carousel:
 ---
-####Sketchbot
+#### Sketchbot ####
 
 The Sketchbots were originally conceived as one of five experiments devised for an interactive exhibit at the Science Museum, London called Chrome Web Lab. These five experiments were created to demonstrate how modern Web technologies can be used together for purposes that go beyond “normal” webapps.
 

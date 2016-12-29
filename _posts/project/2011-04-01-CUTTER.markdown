@@ -12,7 +12,7 @@ video_url: "https://player.vimeo.com/video/140520490?color=ff9933&title=0&byline
 showCarousel: "none"
 carousel:
 ---
-####Cutter
+#### Cutter ####
 
 Cutter is a tangible interface for generating digital models by hand crafting polystyrene foam. The user pulls, pushes, and rotates a custom hotwire cutter to sculpt foam cubes. The position of the cutting path is processed in real-time to visualize the cutting process and generate a 3D model.
 

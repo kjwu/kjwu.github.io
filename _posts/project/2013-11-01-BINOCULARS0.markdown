@@ -12,7 +12,7 @@ video_url: "https://www.youtube.com/embed/rZpQ8y7XGIk?rel=0&amp;controls=0&amp;s
 showCarousel: "none"
 carousel:
 ---
-####Binoculars
+#### Binoculars ####
 
 ![img1]({{ site.url }}/assets/img/project/binoculars/b1.jpg)
 
