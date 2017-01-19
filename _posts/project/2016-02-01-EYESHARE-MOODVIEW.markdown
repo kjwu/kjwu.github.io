@@ -6,7 +6,7 @@ author: "Prime Minister's Office UAE, Tellart, OCTO, Sabrina Verhage, Kuan-Ju Wu
 categories:
 - project
 img: thumbnail_gs16.jpg
-outline: thumbnail_gs16.svg
+outline: outline_gs16.svg
 showVideo: "block"
 video_url: "https://player.vimeo.com/video/165411113?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
