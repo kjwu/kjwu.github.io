@@ -9,8 +9,9 @@ img: thumbnail_pen.jpg
 outline: outline_pen.svg
 showVideo: "none"
 video_url:
-showCarousel: "none"
+showCarousel: "block"
 carousel:
+- chpen0.png
 ---
 #### Cooper Hewitt Pen ####
 

@@ -19,3 +19,9 @@ carousel:
 #### Dance Graphic ####
 
 Visualizing dolphin dive moves in house dancing.
+
+![img2]({{ site.url }}/assets/img/project/danceGraphic/dg2.jpg)
+
+![img3]({{ site.url }}/assets/img/project/danceGraphic/dg3.jpg)
+
+![img4]({{ site.url }}/assets/img/project/danceGraphic/dg4.jpg)
