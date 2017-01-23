@@ -12,9 +12,6 @@ video_url:
 showCarousel: "block"
 carousel:
 - dg1.jpg
-- dg2.jpg
-- dg3.jpg
-- dg4.jpg
 ---
 #### Dance Graphic ####
 

@@ -12,13 +12,6 @@ video_url:
 showCarousel: "block"
 carousel:
 - rbg1.jpg
-- rbg2.jpg
-- rbg3.jpg
-- rbg4.jpg
-- rbg5.jpg
-- rbg6.jpg
-- rbg7.jpg
-- rbg8.jpg
 ---
 #### Robobug ####
 

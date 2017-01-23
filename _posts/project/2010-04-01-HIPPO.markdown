@@ -12,10 +12,6 @@ video_url:
 showCarousel: "block"
 carousel:
 - hip1.jpg
-- hip2.jpg
-- hip3.jpg
-- hip4.jpg
-- hip5.jpg
 ---
 #### Hippo ####
 CNC Fabricated White foam shaped in reminiscent of the mysterious Snow Hippo.
