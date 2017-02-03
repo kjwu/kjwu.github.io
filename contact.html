@@ -7,7 +7,7 @@ permalink: /contact/
           <!-- <h4>Contact</h4> -->
             <!-- <div class="hline"></div> -->
             {% for network in site.social %}
-                <!-- <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a> -->
+                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
             {% endfor %}
 
                 <p>
@@ -20,4 +20,7 @@ permalink: /contact/
                 <p>
                     <b>Email</b>: {{ site.email }}<br/>
                 </p>
+
+                <!-- <a target="_blank" class="socialIcon"  href="https://www.instagram.com/dooflower/"> <img class="img-responsive" src="{{ "/assets/img/glyph-logo_May2016.png" | prepend: site.baseurl }}" alt=""> -->
+</a>
 </div><! --/container -->

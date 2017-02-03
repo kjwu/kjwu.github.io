@@ -4,7 +4,7 @@ title:  "Color Melody"
 date:   2013-07-01
 author: "Meng-Ting, Kao, Kuan-Ju Wu"
 categories:
-- project
+- art
 img: thumbnail_colormelody.jpg
 outline: outline_colormelody.svg
 showVideo: "block"

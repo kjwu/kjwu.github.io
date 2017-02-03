@@ -5,7 +5,7 @@ date:   2016-07-01
 author: "Mikhail Mansion, Kuan-Ju Wu, Fernando Diaz Smith"
 tag: "art, kinetic sculpture"
 categories:
-- project
+- art
 img: thumbnail_waveform.jpg
 outline: outline_waveform.svg
 showVideo: "block"

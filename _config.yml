@@ -32,15 +32,21 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: instagram
-    url: "https://instagram.com/kjwu.co/"
+    # url: "https://instagram.com/kjwu.co/"
+    url: "https://instagram.com/dooflower/"
+  - title: github
+    url: "https://github.com/kuanju"
+  - title: linkedin
+    url: "https://www.linkedin.com/in/kuan-ju-wu-81243131"
+
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
     - Tellart, LLC.
     - One Sims Ave
-    - Providence, RI 02906
-email: kjwu.co@gmail.com
+    - Providence, RI 02909
+email: dooflower@gmail.com
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###

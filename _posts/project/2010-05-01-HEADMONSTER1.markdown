@@ -4,7 +4,7 @@ title:  "Head Monster"
 date:   2010-05-01
 author: "Kuan-Ju Wu"
 categories:
-- project
+- art
 img: thumbnail_headmonster.jpg
 outline: outline_headmonster.svg
 showVideo: "block"

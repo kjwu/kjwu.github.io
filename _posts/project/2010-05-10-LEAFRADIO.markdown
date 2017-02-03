@@ -4,7 +4,7 @@ title:  "Leaf Radio"
 date:   2010-05-10
 author: "Kuan-Ju Wu"
 categories:
-- project
+- art
 img: thumbnail_leafradio.jpg
 outline: outline_leafradio.svg
 showVideo: "block"

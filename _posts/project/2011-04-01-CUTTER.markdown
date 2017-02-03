@@ -4,7 +4,7 @@ title:  "Cutter"
 date:   2011-04-01
 author: "Kuan-Ju Wu"
 categories:
-- project
+- art
 img: thumbnail_cutter.jpg
 outline: outline_cutter.svg
 showVideo: "block"

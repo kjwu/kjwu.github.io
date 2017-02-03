@@ -124,6 +124,7 @@ a:focus {
 	BOOTSTRAP MODIFICATIONS & TWEAKS
 ################################################################# */
 .fa{
+	font-size: large;
 	color: {{site.colors.secondary}};
 }
 .fa:hover{
@@ -235,7 +236,8 @@ a:focus {
 }
 
 .mtb {
-	margin-top: 80px;
+	position: absolute;
+	margin-top: 380px;
 	/*margin-bottom: 80px;*/
 }
 

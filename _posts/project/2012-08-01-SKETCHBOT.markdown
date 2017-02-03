@@ -5,7 +5,7 @@ date:   2012-08-01
 author: "Tellart, Google Creative Lab, B-Reel, Walter Kim, Adam Meyer, Jasper Speicher, Kuan-Ju Wu, Don Nguyen
 , Jay Nutini"
 categories:
-- project
+- tech
 img: thumbnail_sketchbot.jpg
 outline: outline_sketchbot.svg
 showVideo: "block"

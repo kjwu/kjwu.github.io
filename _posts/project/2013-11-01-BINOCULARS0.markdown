@@ -4,7 +4,7 @@ title:  "Binoculars"
 date:   2013-11-01
 author: "Kuan-Ju Wu, Justin Couch, Fernando Diaz, Tellart, Google Creative Lab"
 categories:
-- project
+- tech
 img: thumbnail_binoculars.jpg
 outline: outline_binoculars.svg
 showVideo: "block"

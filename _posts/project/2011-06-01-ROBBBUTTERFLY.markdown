@@ -4,7 +4,7 @@ title:  "Robbbutterfly"
 date:   2011-06-01
 author: "Kuan-Ju Wu, Eric Brockmeyer"
 categories:
-- project
+- art
 img: thumbnail_robbbutterfly.jpg
 outline: outline_robbbutterfly.svg
 showVideo: "none"

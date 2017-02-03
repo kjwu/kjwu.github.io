@@ -4,7 +4,7 @@ title:  "The Pen"
 date:   2015-10-01
 author: "Cooper Hewitt Design Museum, Tellart, ,Sistelnetworks, Kuan-Ju Wu"
 categories:
-- project
+- tech
 img: thumbnail_pen.jpg
 outline: outline_pen.svg
 showVideo: "none"

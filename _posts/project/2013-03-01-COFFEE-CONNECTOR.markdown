@@ -4,7 +4,7 @@ title:  "Coffee Connector"
 date:   2013-03-01
 author: "Tellart, OCTO, TSLA, Justin Couch, Fernando Diaz, Kuan-Ju Wu"
 categories:
-- project
+- tech
 img: thumbnail_coffeeConnector.jpg
 outline: outline_coffeeConnector.svg
 showVideo: "block"

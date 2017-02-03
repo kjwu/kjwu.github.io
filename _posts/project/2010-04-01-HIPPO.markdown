@@ -4,7 +4,7 @@ title:  "Snow Hippo"
 date:   2010-04-01
 author: "Kuan-Ju Wu"
 categories:
-- project
+- art
 img: thumbnail_hippo.jpg
 outline: outline_hippo.svg
 showVideo: "none"

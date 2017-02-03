@@ -4,7 +4,7 @@ title:  "GIFFI"
 date:   2011-01-01
 author: "Kuan-Ju Wu"
 categories:
-- project
+- art
 img: thumbnail_giffi.jpg
 outline: outline_giffi.svg
 showVideo: "block"

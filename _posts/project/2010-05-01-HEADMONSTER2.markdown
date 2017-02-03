@@ -4,7 +4,7 @@ title:  "Head Monster Game"
 date:   2010-05-01
 author: "Kuan-Ju Wu"
 categories:
-- project
+- art
 img: thumbnail_headmonstergame.jpg
 outline: outline_headmonstergame.svg
 showVideo: "block"

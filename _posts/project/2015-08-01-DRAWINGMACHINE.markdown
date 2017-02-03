@@ -4,7 +4,7 @@ title:  "Drawing Machine"
 date:   2015-08-01
 author: "Tellart, Mikhail Mansion, Kuan-Ju Wu"
 categories:
-- project
+- teaching
 img: thumbnail_drawingmachine.jpg
 outline: outline_drawingmachine.svg
 showVideo: "block"

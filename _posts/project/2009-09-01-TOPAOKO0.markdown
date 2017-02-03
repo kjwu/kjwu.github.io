@@ -4,7 +4,7 @@ title:  "TOPAOKO"
 date:   2009-09-01
 author: "Kuan-Ju Wu"
 categories:
-- project
+- art
 img: thumbnail_topaoko.jpg
 outline: outline_topaoko.svg
 showVideo: "block"

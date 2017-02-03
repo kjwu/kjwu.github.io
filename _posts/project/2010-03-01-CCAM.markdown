@@ -4,7 +4,7 @@ title:  "Chocolate Chocolate Add Some Milk"
 date:   2010-03-01
 author: "Kuan-Ju Wu"
 categories:
-- project
+- art
 img: thumbnail_ccam.jpg
 outline: outline_ccam.svg
 showVideo: "block"

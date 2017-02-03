@@ -4,7 +4,7 @@ title:  "Dance Graphic"
 date:   2011-03-01
 author: "Kuan-Ju Wu"
 categories:
-- project
+- art
 img: thumbnail_dancegraphic.jpg
 outline: outline_dancegraphic.svg
 showVideo: "none"

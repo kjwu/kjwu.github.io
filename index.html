@@ -1,11 +1,33 @@
 ---
-layout: default
+layout: home
 title: Home
 permalink: /
 ---
 <!-- <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <script src="{{site.basurl}}/assets/js/playground.js"></script> -->
+
+<head>
+  <script src="{{site.basurl}}/assets/js/p5.min.js"></script>
+
+  <script>
+    var num = Math.floor(Math.random() * 3 + 1);
+    randomSketch = "{{site.basurl}}/assets/js/sketch" +num +".js";
+    // randomSketch = "{{site.basurl}}/assets/js/sketch3.js";
+
+    console.log(randomSketch);
+    var script = document.createElement('script');
+    script.src = randomSketch;
+    document.head.appendChild(script);
+
+  </script>
+</head>
+
+<body>
+  <!-- <p>Processing Sketch</p> -->
+  <div id="sketch-holder">
+    <!-- Our sketch will go here! -->
+
 
 <div class="container mtb">
       <a href="{{site.baseurl}}/work">
@@ -46,3 +68,8 @@ permalink: /
         </div>
       </a>
 </div><! --/container -->
+
+
+</div>
+
+</body>
