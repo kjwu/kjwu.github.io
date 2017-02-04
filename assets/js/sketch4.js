@@ -14,7 +14,7 @@ function draw(){
   var y = r*sin(theta);
 
   noStroke();
-  fill(r*0.1);
+  fill(r*0.5);
   ellipse(width*0.75+x,height/2+y, 16,16);
   theta+=0.02;
   r+=0.1;
