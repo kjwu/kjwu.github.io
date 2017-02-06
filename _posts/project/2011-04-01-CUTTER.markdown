@@ -16,6 +16,15 @@ carousel:
 
 Cutter is a tangible interface for generating digital models by hand crafting polystyrene foam. The user pulls, pushes, and rotates a custom hotwire cutter to sculpt foam cubes. The position of the cutting path is processed in real-time to visualize the cutting process and generate a 3D model.
 
-![img2]({{ site.url }}/assets/img/project/cutter/ct2.jpg)
+Cutter is part of Interactive Fabrication research collaborating with [Karl D.D. Willis](http://www.karlddwillis.com/) and [Cheng Xu](http://cheeriocheng.com/).
+Interaction Fabrication is accepted to present at the fifth international conference on Tangible, embedded, and embodied interaction (TEI 2011). The full paper can be viewed [here]({{ site.url }}/assets/img/project/cutter/p69-willis.pdf).
+
+![img2]({{ site.url }}/assets/img/project/cutter/cutter.jpg)
+
+![img2]({{ site.url }}/assets/img/project/cutter/poster.JPG)
+
+![img2]({{ site.url }}/assets/img/project/cutter/ct2.png)
 
 ![img3]({{ site.url }}/assets/img/project/cutter/ct3.jpg)
+
+![img3]({{ site.url }}/assets/img/project/cutter/Cutter-Cubes.jpg)

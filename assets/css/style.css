@@ -142,8 +142,8 @@ a:focus {
 }
 
 .navbar-brand {
-	/*font-family: 'Raleway', sans-serif;*/
-	font-family: 'LibreBaskerville-Regular';
+	font-family: 'Raleway', sans-serif;
+	/*font-family: 'LibreBaskerville-Regular';*/
 	font-weight: 900;
 }
 

@@ -12,13 +12,9 @@ video_url: "https://player.vimeo.com/video/140495506?color=ff9933&title=0&byline
 showCarousel: "none"
 carousel:
 ---
-#### Head Monster ####
+#### Head Monsters ####
 
-Lives in my head.
-It consists of my will.
-When it eats something, I have a feeling.
-
-It is hard to control my feeling, just like to control the head monster
+Head Monsters are small robots that follows simple rules. 
 
 ![img1]({{ site.url }}/assets/img/project/headmonster/h1.jpg)
 

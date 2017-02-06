@@ -19,3 +19,9 @@ carousel:
 Leaf Radio is an experimental form of rethinking a portable radio.
 The circuit is embedded in the base made out of paper stone, while the sensor
 is inside the shape changeable rubber. The user bends the leaf to adjust the volume, and change the direction to tune the station.
+
+![img1]({{ site.url }}/assets/img/project/leafRadio/lr2.jpg)
+
+![img1]({{ site.url }}/assets/img/project/leafRadio/lr3.jpg)
+
+![img1]({{ site.url }}/assets/img/project/leafRadio/lr4.jpg)
