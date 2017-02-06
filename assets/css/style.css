@@ -96,7 +96,7 @@ a:focus {
 
 .block{
 	display: table;
-	height: 40vw;
+	height: 10vw;
 	float: left;
 	text-align: center;
 }
@@ -237,13 +237,25 @@ a:focus {
 }
 
 .mtb {
+	/*z-index: 999;*/
+
+	/*position: absolute;*/
+	margin-top: 10vh;
+	margin-left: 15vw;
+	/*margin-bottom: 80px;*/
+	/*margin-bottom: 10vh;*/
+}
+
+.landing {
 	z-index: 999;
 
 	position: absolute;
-	margin-top: 10vh;
-	margin-left: 10vw;
+	margin-top: -30vh;
+	margin-left: 5vw;
 	/*margin-bottom: 80px;*/
+	/*margin-bottom: 10vh;*/
 }
+
 
 .mb {
 	margin-bottom: 60px;

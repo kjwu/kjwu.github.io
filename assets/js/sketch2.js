@@ -1,128 +1,94 @@
-// BasicWave[] bws = new BasicWave[15];
-// ComplexWave[] cws = new ComplexWave[2];
-var bws = [];
-var count =16;
-var cws = [];
-function setup() {
+var movers = [];
+var attractor;
+var count = 100;
+
+function setup(){
   var canvas = createCanvas(windowWidth, windowHeight);
 
   // Move the canvas so it's inside our <div id="sketch-holder">.
   canvas.parent('sketch-holder');
+  for(var i = 0; i< count; i++){
+    movers[i] = new Mover(random(width),random(height), random(0.1,1));
+  }
 
-  for(var i=0;i<count;i++){
-    bws[i] = new BasicWave(50,random(0.05,0.1),random(0.1,0.5));
-  }
-  for(var j = 0;j<count/4;j++){
-    cws[j] = new ComplexWave(50,random(0.05,0.1),random(0.1,0.5));
-  }
+  attractor = new Attractor();
 }
 
-function draw() {
-  background('#f2f2f2');
-   for(var i=0;i<count;i++){
-    bws[i].update();
-    bws[i].display();
+function draw(){
+  //background(255,1);
+  push();
+  noStroke();
+  rectMode(CENTER);
+  fill(242,242,242,40);
+  rect(width/2,height/2,width,height);
+  pop();
+  for(var i = 0 ; i < count; i++){
+    var force = attractor.attract(movers[i]);
+    movers[i].applyForce(force);
+
+    movers[i].update();
+    movers[i].display();
+
   }
-  for(var j = 0;j<count/4;j++){
-    cws[j].update();
-    cws[j].display();
-  }
+
+  //attractor.display();
 }
 
-function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
-}
 
 
-function BasicWave( ln,  sp, pd){
-  this.location = createVector(random(width),random(height));
-  this.velocity = createVector(1,0);
-  this.speed= sp;
-  this.period= pd;
-  this.waveLength= ln;
-  this.startAngle = 0;
-  this.amplitude = 50;
-  this.brightness = random(100);
+function Attractor(){
+    this.location = createVector(width/2,height/2);
+    this.mass = 20;
+    this.G = 0.4;
+
+  this.attract = function(m) {
+    var force = p5.Vector.sub(this.location,m.location);
+    var distance = force.mag();
+//Remember, we need to constrain the distance so that our circle doesn’t spin out of control.
+    distance = constrain(distance,5.0,25.0);
+
+
+    force.normalize();
+    var strength = (this.G * this.mass * m.mass) / (distance * distance);
+    force.mult(strength);
+    return force;
+  }
+
+  this.display = function() {
+    stroke(0);
+    fill(175,200);
+    ellipse(this.location.x,this.location.y,this.mass*2,this.mass*2);
+  }
+};
+
+
+
+function Mover(_x,_y,_m){
+    this.location = createVector(_x,_y);
+    this.velocity = createVector(1,0);
+    this.acceleration = createVector(0,0);
+    this.mass = _m;
 
 
   this.update = function(){
-    this.startAngle+=this.speed;
+    this.velocity.add(this.acceleration);
     this.location.add(this.velocity);
-    if(this.location.x>width+50){
-      this.location.x = 0;
-    }else if(this.location.x<0){
-      this.location.x = width;
-    }
-
-    if(this.location.y>height){
-      this.location.y = 0;
-    }else if(this.location.y<0){
-      this.location.y = height;
-    }
+    this.acceleration.mult(0);
   };
 
   this.display = function(){
     push();
-    //noFill();
-
-    //stroke(brightness);
-
-    translate(this.location.x,this.location.y);
-    rotate(this.startAngle/10);
-    this.angle = this.startAngle;
-
-    for(var i = 0; i<this.waveLength; i++){
-      var y = map(sin(this.angle),-1,1,-this.amplitude/2,this.amplitude/2);
-      noStroke();
-      fill(this.brightness);
-      ellipse(-i*5,y,8/(i+1),8/(i+1));
-      this.angle-=this.period;
-    }
-    pop();
-
-  }
-}
-
-
-
-function ComplexWave(ln, sp, pd){
-  this.location = createVector(random(width),random(height));
-  this.velocity = createVector(1,0);
-  this.speed= sp;
-  this.period= pd;
-  this.waveLength= ln;
-  this.startAngle = 0;
-  this.amplitude = 50;
-
-  this.update=function(){
-    this.startAngle+=this.speed;
-    this.location.add(this.velocity);
-    if(this.location.x>width+200){
-      this.location.x = 0;
-    }else if(this.location.x<0){
-      this.location.x = width;
-    }
-
-    if(this.location.y>height){
-      this.location.y = 0;
-    }else if(this.location.y<0){
-      this.location.y = height;
-    }
+    //noStroke();
+    //fill(127,2);
+    stroke(0,80);
+    ellipse(this.location.x,this.location.y,this.mass,this.mass);
   };
 
-  this.display=function(){
-    //noFill();
-    push();
-    noStroke();
-    translate(this.location.x,this.location.y);
-    var angle = this.startAngle;
 
-    for(var i = 0; i<this.waveLength; i++){
-      fill(255/this.waveLength*i);
-      var y = map(sin(angle)+2*cos(angle/3),-1,1,-this.amplitude/2,this.amplitude/2);
-      ellipse(-i*5,y,8,8);
-      angle-=this.period;
-    }
-    pop();
-  }
+  this.applyForce = function(force){
+    var f = p5.Vector.div(force,this.mass);
+    this.acceleration.add(f);
+  };
+
+
 };

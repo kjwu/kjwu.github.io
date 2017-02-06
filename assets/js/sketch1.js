@@ -1,55 +1,128 @@
-var os = []
-function setup(){
+// BasicWave[] bws = new BasicWave[15];
+// ComplexWave[] cws = new ComplexWave[2];
+var bws = [];
+var count =16;
+var cws = [];
+function setup() {
   var canvas = createCanvas(windowWidth, windowHeight);
 
   // Move the canvas so it's inside our <div id="sketch-holder">.
   canvas.parent('sketch-holder');
 
-  for(var i = 0; i < 5; i++){
-    os[i] = new Oscillator();
+  for(var i=0;i<count;i++){
+    bws[i] = new BasicWave(50,random(0.05,0.1),random(0.1,0.5));
+  }
+  for(var j = 0;j<count/4;j++){
+    cws[j] = new ComplexWave(50,random(0.05,0.1),random(0.1,0.5));
   }
 }
 
-function draw(){
-  push();
-  // fill(255,3);
-  noStroke();
-  fill(242,242,242,50);
-
-  rect(0,0,width,height);
-  pop();
-  for(var i = 0; i < 5; i++){
-    os[i].update();
-    os[i].display();
-
+function draw() {
+  background('#f2f2f2');
+   for(var i=0;i<count;i++){
+    bws[i].update();
+    bws[i].display();
+  }
+  for(var j = 0;j<count/4;j++){
+    cws[j].update();
+    cws[j].display();
   }
 }
 
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
 
-function Oscillator(){
 
-  this.angle = createVector(0,20);
-  //aVelocity = new PVector(random(-0.05,0.05),random(-0.05,0.05));
-  this.aVelocity = createVector(random(-0.05,0.05),0);
-  this.amplitude = createVector(random(width/2),random(height/2));
-  this.aAcceleration = createVector(0,0.0001);
+function BasicWave( ln,  sp, pd){
+  this.location = createVector(random(width),random(height));
+  this.velocity = createVector(1,0);
+  this.speed= sp;
+  this.period= pd;
+  this.waveLength= ln;
+  this.startAngle = 0;
+  this.amplitude = 50;
+  this.brightness = random(100);
+
 
   this.update = function(){
-    this.angle.add(this.aVelocity);
-    this.aVelocity.add(this.aAcceleration);
-  }
+    this.startAngle+=this.speed;
+    this.location.add(this.velocity);
+    if(this.location.x>width+50){
+      this.location.x = 0;
+    }else if(this.location.x<0){
+      this.location.x = width;
+    }
+
+    if(this.location.y>height){
+      this.location.y = 0;
+    }else if(this.location.y<0){
+      this.location.y = height;
+    }
+  };
 
   this.display = function(){
-
-    var x = sin(this.angle.x)*this.amplitude.x;
-    var y = sin(this.angle.y)*this.amplitude.y;
     push();
-    translate(width*0.75,height/2);
-    stroke(0);
-    fill(175);
-//Drawing the Oscillator as a line connecting a circle
-    line(0,0,x,y);
-    ellipse(x,y,16,16);
+    //noFill();
+
+    //stroke(brightness);
+
+    translate(this.location.x,this.location.y);
+    rotate(this.startAngle/10);
+    this.angle = this.startAngle;
+
+    for(var i = 0; i<this.waveLength; i++){
+      var y = map(sin(this.angle),-1,1,-this.amplitude/2,this.amplitude/2);
+      noStroke();
+      fill(this.brightness);
+      ellipse(-i*5,y,8/(i+1),8/(i+1));
+      this.angle-=this.period;
+    }
+    pop();
+
+  }
+}
+
+
+
+function ComplexWave(ln, sp, pd){
+  this.location = createVector(random(width),random(height));
+  this.velocity = createVector(1,0);
+  this.speed= sp;
+  this.period= pd;
+  this.waveLength= ln;
+  this.startAngle = 0;
+  this.amplitude = 50;
+
+  this.update=function(){
+    this.startAngle+=this.speed;
+    this.location.add(this.velocity);
+    if(this.location.x>width+200){
+      this.location.x = 0;
+    }else if(this.location.x<0){
+      this.location.x = width;
+    }
+
+    if(this.location.y>height){
+      this.location.y = 0;
+    }else if(this.location.y<0){
+      this.location.y = height;
+    }
+  };
+
+  this.display=function(){
+    //noFill();
+    push();
+    noStroke();
+    translate(this.location.x,this.location.y);
+    var angle = this.startAngle;
+
+    for(var i = 0; i<this.waveLength; i++){
+      fill(255/this.waveLength*i);
+      var y = map(sin(angle)+2*cos(angle/3),-1,1,-this.amplitude/2,this.amplitude/2);
+      ellipse(-i*5,y,8,8);
+      angle-=this.period;
+    }
     pop();
   }
 };
