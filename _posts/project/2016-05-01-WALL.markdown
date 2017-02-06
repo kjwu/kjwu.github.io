@@ -1,0 +1,32 @@
+---
+layout: project
+title:  "Grand Salon Interactive Wall"
+date:   2015-07-01
+author: "Tellart, Kuan-Ju Wu, Mikhail Mansion, Charlie Ledbetter"
+categories:
+- tech
+img: thumbnail_wall.jpg
+outline: outline_wall.svg
+showVideo: "none"
+video_url:
+showCarousel: "block"
+carousel:
+- wall.JPG
+---
+#### Grand Salon Interactive Wall ####
+
+The wall uses video tracking technology (Kinect) to view the bodies of event attendees who are standing or moving within a designated area. The software system connected to this array of sensors will use this 3D data to control an abstract visualization that appears on the video wall.
+
+This visualization comprises of 2 ‘modes - Fluid and Particle’ each with a related but distinct appearance and behavior.
+
+![img2]({{ site.url }}/assets/img/project/wall/particleScreen.gif)
+
+![img2]({{ site.url }}/assets/img/project/wall/particleScreens.gif)
+
+![img2]({{ site.url }}/assets/img/project/wall/fluid.gif)
+
+![img2]({{ site.url }}/assets/img/project/wall/fluids.gif)
+
+![img2]({{ site.url }}/assets/img/project/wall/IMG_2306.JPG)
+
+![img2]({{ site.url }}/assets/img/project/wall/IMG_0907.JPG)

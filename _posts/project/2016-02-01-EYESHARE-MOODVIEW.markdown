@@ -2,7 +2,7 @@
 layout: project
 title:  "EYESHARE + MOODVIEW"
 date:   2016-02-01
-author: "Prime Minister's Office UAE, Tellart, OCTO, Sabrina Verhage, Kuan-Ju Wu"
+author: "Prime Minister's Office UAE, Tellart, OCTO, Kuan-Ju Wu, Sabrina Verhage"
 categories:
 - tech
 img: thumbnail_gs16.jpg
