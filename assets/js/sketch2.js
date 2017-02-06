@@ -3,7 +3,7 @@ var attractor;
 var count = 100;
 
 function setup(){
-  var canvas = createCanvas(windowWidth, windowHeight);
+  var canvas = createCanvas(windowWidth/2, windowHeight/2);
 
   // Move the canvas so it's inside our <div id="sketch-holder">.
   canvas.parent('sketch-holder');
@@ -20,6 +20,7 @@ function draw(){
   noStroke();
   rectMode(CENTER);
   fill(242,242,242,40);
+
   rect(width/2,height/2,width,height);
   pop();
   for(var i = 0 ; i < count; i++){

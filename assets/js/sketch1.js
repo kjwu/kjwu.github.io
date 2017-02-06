@@ -4,7 +4,7 @@ var bws = [];
 var count =16;
 var cws = [];
 function setup() {
-  var canvas = createCanvas(windowWidth, windowHeight);
+  var canvas = createCanvas(windowWidth/2, windowHeight/2);
 
   // Move the canvas so it's inside our <div id="sketch-holder">.
   canvas.parent('sketch-holder');
@@ -118,7 +118,8 @@ function ComplexWave(ln, sp, pd){
     var angle = this.startAngle;
 
     for(var i = 0; i<this.waveLength; i++){
-      fill(255/this.waveLength*i);
+
+      fill(232, 110, 44	,255/i*10);
       var y = map(sin(angle)+2*cos(angle/3),-1,1,-this.amplitude/2,this.amplitude/2);
       ellipse(-i*5,y,8,8);
       angle-=this.period;

@@ -96,7 +96,7 @@ a:focus {
 
 .block{
 	display: table;
-	height: 10vw;
+	height: 5vw;
 	float: left;
 	text-align: center;
 }
@@ -129,6 +129,14 @@ a:focus {
 }
 .fa:hover{
 	color: #E86E2C;
+}
+
+#sketch-holder{
+	margin-left: 25vw;
+	margin-top: 25vh;
+	margin-bottom: 25vh;
+
+	/*margin-right: auto;*/
 }
 
 .container{
@@ -250,8 +258,8 @@ a:focus {
 	z-index: 999;
 
 	position: absolute;
-	margin-top: -30vh;
-	margin-left: 5vw;
+	margin-top: -20vh;
+	margin-left: 24vw;
 	/*margin-bottom: 80px;*/
 	/*margin-bottom: 10vh;*/
 }
