@@ -22,8 +22,10 @@
 	}
 
 body {
+
 	/*background: #ffffff;*/
 	background: #f2f2f2;
+
 	margin: 0;
 	height: 100%;
 	color: #252624;
@@ -101,6 +103,18 @@ a:focus {
 	text-align: center;
 }
 
+.b1{
+	width:15%;
+}
+.b2{
+	width:15%;
+}
+.b3{
+	width:25%;
+}
+.b4{
+	width:45%;
+}
 
 .blockText{
 	display: table-cell;
@@ -132,14 +146,14 @@ a:focus {
 }
 
 #sketch-holder{
-	margin-left: 25vw;
+	/*display: block;*/
+	width: 50vw;
+	margin: auto;
 	margin-top: 25vh;
-	margin-bottom: 25vh;
-
-	/*margin-right: auto;*/
 }
 
 .container{
+	margin: auto;
 	width: 70%;
 }
 
@@ -256,14 +270,20 @@ a:focus {
 
 .landing {
 	z-index: 999;
-
-	position: absolute;
-	margin-top: -20vh;
-	margin-left: 24vw;
+	width: 50vw;
+	position: block;
+	margin: auto;
+	margin-top: 5px;
 	/*margin-bottom: 80px;*/
 	/*margin-bottom: 10vh;*/
 }
 
+.landing_title{
+	width: 50vw;
+	position: block;
+	margin: auto;
+	text-align: center;
+}
 
 .mb {
 	margin-bottom: 60px;
@@ -604,4 +624,28 @@ a.anchor{
     position: relative;
     top: -80px;
     visibility: hidden;
+}
+
+
+@media only screen and (max-width: 500px) {
+    body {
+        /*background-color: lightblue;*/
+    }
+
+		.block{
+			font-size: 0.7em;
+		}
+		.b1{
+			width:15%;
+		}
+		.b2{
+			width:15%;
+		}
+		.b3{
+			width:25%;
+		}
+		.b4{
+			width:45%;
+		}
+
 }

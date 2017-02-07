@@ -38,7 +38,7 @@ GIFFI project was accepted to show case at the Sixth International Conference on
 
 ![img6]({{ site.url }}/assets/img/project/giffi/inside.jpg)
 
-GIFFI is featured on couple interactive art sites.
+GIFFI was featured on several media.
 
 ![img7]({{ site.url }}/assets/img/project/giffi/giffi-on-ca.jpg)
 
