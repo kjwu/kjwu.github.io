@@ -55,6 +55,10 @@ function Attractor(){
     return force;
   }
 
+  this.update = function(){
+    this.location.set(mouseX,mouseY);
+  }
+
   this.display = function() {
     stroke(0);
     fill(175,200);
