@@ -34,11 +34,11 @@ social:
     url: "https://instagram.com/kjwu.co/"
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-address:
-  - lines:
-    - Tellart, LLC.
-    - One Sims Ave
-    - Providence, RI 02906
+# address:
+#   - lines:
+#     - Tellart, LLC.
+#     - One Sims Ave
+#     - Providence, RI 02906
 email: kjwu.co@gmail.com
 
 
