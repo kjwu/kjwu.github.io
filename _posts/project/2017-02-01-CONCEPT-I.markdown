@@ -1,0 +1,23 @@
+---
+layout: project
+title:  "Concept I"
+date:   2017-02-01
+author: "Calty, ICI, Tellart"
+categories:
+- tech
+img: thumbnail_concepti.jpg
+outline: outline_concepti.svg
+showVideo: "block"
+video_url: "https://player.vimeo.com/video/211694214?color=ff9933&title=0&byline=0&portrait=0"
+showCarousel: "none"
+carousel:
+---
+#### Toyota Concept-I ####
+
+"*Toyota’s Concept-i is a groundbreaking vehicle that highlights the critical importance of user experience in the development of highly automated vehicles. Concept-i debuted at the 2017 Consumer Electronics Show in Las Vegas. Tellart collaborated with Toyota’s CALTY Design Research team and the Institute for Creative Integration for eighteen months leading up to the launch, prototyping new energetic and immersive user experiences for the automated vehicle. Tellart, along with automotive model experts PHIARO inc., built two full scale prototypes to represent CALTY’s overall design intention for Concept-i.*" ---Tellart.
+
+![img0]({{ site.url }}/assets/img/project/concept-i/c0.jpg)
+
+![img1]({{ site.url }}/assets/img/project/concept-i/c1.jpg)
+
+![img2]({{ site.url }}/assets/img/project/concept-i/c2.jpg)
