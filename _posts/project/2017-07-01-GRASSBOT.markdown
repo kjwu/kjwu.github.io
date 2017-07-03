@@ -1,0 +1,57 @@
+---
+layout: project
+title:  "Grass Bot"
+date:   2017-02-01
+author: "Kuan-Ju Wu, Yasuaki Kakehi Lab"
+categories:
+- art
+img: thumbnail_grassbot.png
+outline: outline_grassbot.svg
+showVideo: "none"
+video_url:
+showCarousel: "block"
+carousel:
+- gs1.png
+
+---
+#### Grass Bot ####
+
+Elastomer, Cat Grass, Pumps, Micro Controller
+矽膠，貓草，小型幫浦馬達，微處理器
+
+
+After “The Last Day” when all the human beings have gone, what’s left on earth are nature and machines. Following the rule of evolution, some of the machines and nature established the relationship of symbiosis.
+
+Grass Bot is a type of grass bot that can be found mostly in Subtropics.
+Originally it was designed (by human) for agricultural purpose micro amphibia robot. It uses the plant sensor on its back to look for water source and the suitable sprouting environment for cat grass, which was the most popular highly valuable space crop for space travel.
+
+Several centuries after “The Last Day”, the high mobility and low pH soft body of Grass Bot became the best habitat of wild cat grass and other soilless plants.
+
+According the parameter of the environment: sun, rain, CO2, bio stressness, Grass Bot will bring the plant to its best habitat, and in exchange the plant provide the energy (Bio Mass). In addition, plant is also the best camouflage, helping Grass Bot disguise from the attack of the drone.
+
+
+末日過後，當所有人類都已離去，留在地球上的，只剩下自然與機器。
+而根據演化的法則，自然與機器發展出了互利共生的關係。
+
+*互利共生是在兩種不同物種之間因某種利益交換的機制而形成互相共處的平衡狀態。*
+
+Grass Bot是大多出現在亞熱帶地區的草皮機器人。
+一開始被人類設計出來是作為農業用的微型兩棲移動載具。其主要的的功能是透過背上的生物感測器來尋找水源，與人類宇宙旅行所需的高營養作物（貓草）的最佳種植環境。
+
+由於其高移動性與弱酸性的柔軟身體，在人類離開地球後的百年後，Grass Bot成為野生貓草和其他無土植物的最佳棲息地。
+
+根據環境的狀態：陽光，雨水，CO2值，生物壓力，Grass Bot會帶著植物往最適合生長的棲息地移動而植物則為Grass Bot提供移動所需的動力（生物能源）除此之外，植物也是最佳的偽裝植披，幫助Grass Bot躲過 附有機器視覺辨識功能的飛行器的攻擊。
+
+![img1]({{ site.url }}/assets/img/project/grassBot/gs1.gif)
+
+![img2]({{ site.url }}/assets/img/project/grassBot/gs2.png)
+
+![img3]({{ site.url }}/assets/img/project/grassBot/gs3.png)
+
+![img4]({{ site.url }}/assets/img/project/grassBot/gs4.png)
+
+![img5]({{ site.url }}/assets/img/project/grassBot/gs5.png)
+
+![img6]({{ site.url }}/assets/img/project/grassBot/gs6.png)
+
+![img7]({{ site.url }}/assets/img/project/grassBot/gs7.png)
