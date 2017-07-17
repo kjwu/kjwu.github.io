@@ -27,7 +27,7 @@ Originally it was designed (by human) for agricultural purpose micro amphibia ro
 
 Several centuries after “The Last Day”, the high mobility and low pH soft body of Grass Bot became the best habitat of wild cat grass and other soilless plants.
 
-According the parameter of the environment: sun, rain, CO2, bio stressness, Grass Bot will bring the plant to its best habitat, and in exchange the plant provide the energy (Bio Mass). In addition, plant is also the best camouflage, helping Grass Bot disguise from the attack of the drone.
+According the parameter of the environment: sun, rain, CO2, bio stress, Grass Bot will bring the plant to its best habitat, and in exchange the plant provide the energy (Bio Mass). In addition, plant is also the best camouflage, helping Grass Bot disguise from the attack of the drone.
 
 
 末日過後，當所有人類都已離去，留在地球上的，只剩下自然與機器。
