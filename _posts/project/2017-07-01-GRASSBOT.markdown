@@ -7,9 +7,9 @@ categories:
 - art
 img: thumbnail_grassbot.png
 outline: outline_grassbot.svg
-showVideo: "none"
-video_url:
-showCarousel: "block"
+showVideo: "block"
+video_url: "https://player.vimeo.com/video/225913515?color=ff9933&title=0&byline=0&portrait=0"
+showCarousel: "none"
 carousel:
 - gs1.png
 
