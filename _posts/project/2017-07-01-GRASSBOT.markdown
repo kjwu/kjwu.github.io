@@ -1,14 +1,14 @@
 ---
 layout: project
 title:  "Grass Bot"
-date:   2017-02-01
+date:   2017-07-01
 author: "Kuan-Ju Wu, Yasuaki Kakehi Lab"
 categories:
 - art
 img: thumbnail_grassbot.png
 outline: outline_grassbot.svg
 showVideo: "block"
-video_url: "https://player.vimeo.com/video/225913515?color=ff9933&title=0&byline=0&portrait=0"
+video_url: "https://player.vimeo.com/video/227394734?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
 - gs1.png
@@ -19,6 +19,13 @@ carousel:
 Elastomer, Cat Grass, Pumps, Micro Controller
 矽膠，貓草，小型幫浦馬達，微處理器
 
+Symbiosis :  Interaction between two different organisms living in close physical association, typically to the advantage of both. - Oxford dictionary
+
+Grass Bot is a concept model of a symbiosis system between machine and nature.
+
+
+
+Story:
 
 After “The Last Day” when all the human beings have gone, what’s left on earth are nature and machines. Following the rule of evolution, some of the machines and nature established the relationship of symbiosis.
 
@@ -29,6 +36,7 @@ Several centuries after “The Last Day”, the high mobility and low pH soft bo
 
 According the parameter of the environment: sun, rain, CO2, bio stress, Grass Bot will bring the plant to its best habitat, and in exchange the plant provide the energy (Bio Mass). In addition, plant is also the best camouflage, helping Grass Bot disguise from the attack of the drone.
 
+**The Morphology of the Grass Bot is greatly inspired by the [research](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bgg6RFEAAAAJ&citation_for_view=Bgg6RFEAAAAJ:ufrVoPGSRksC) from Wyss Institute for Biologically Inspired Engineering at Harvard University.**
 
 末日過後，當所有人類都已離去，留在地球上的，只剩下自然與機器。
 而根據演化的法則，自然與機器發展出了互利共生的關係。
