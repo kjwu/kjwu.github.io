@@ -21,20 +21,20 @@ Elastomer, Cat Grass, Pumps, Micro Controller
 
 Symbiosis :  Interaction between two different organisms living in close physical association, typically to the advantage of both. - Oxford dictionary
 
-Grass Bot is a concept model of a symbiosis system between machine and nature.
+Half plant half robot, Grass Bot is a symbiosis system between machine and nature.
 
 
 
-Story:
+<!-- Story: -->
 
-After “The Last Day” when all the human beings have gone, what’s left on earth are nature and machines. Following the rule of evolution, some of the machines and nature established the relationship of symbiosis.
+<!-- After “The Last Day” when all the human beings have gone, what’s left on earth are nature and machines. Following the rule of evolution, some of the machines and nature established the relationship of symbiosis.
 
 Grass Bot is a type of grass bot that can be found mostly in Subtropics.
 Originally it was designed (by human) for agricultural purpose micro amphibia robot. It uses the plant sensor on its back to look for water source and the suitable sprouting environment for cat grass, which was the most popular highly valuable space crop for space travel.
 
 Several centuries after “The Last Day”, the high mobility and low pH soft body of Grass Bot became the best habitat of wild cat grass and other soilless plants.
 
-According the parameter of the environment: sun, rain, CO2, bio stress, Grass Bot will bring the plant to its best habitat, and in exchange the plant provide the energy (Bio Mass). In addition, plant is also the best camouflage, helping Grass Bot disguise from the attack of the drone.
+According the parameter of the environment: sun, rain, CO2, bio stress, Grass Bot will bring the plant to its best habitat, and in exchange the plant provide the energy (Bio Mass). In addition, plant is also the best camouflage, helping Grass Bot disguise from the attack of the drone. -->
 
 **The Morphology of the Grass Bot is greatly inspired by the [research](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bgg6RFEAAAAJ&citation_for_view=Bgg6RFEAAAAJ:ufrVoPGSRksC) from Wyss Institute for Biologically Inspired Engineering at Harvard University.**
 
