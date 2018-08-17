@@ -8,7 +8,7 @@ categories:
 img: thumbnail_coffeeConnector.jpg
 outline: outline_coffeeConnector.svg
 showVideo: "block"
-video_url: "https://player.vimeo.com/video/89347325?color=ff9933&title=0&byline=0&portrait=0"
+video_url: "https://player.vimeo.com/video/109426039?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
 ---

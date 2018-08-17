@@ -8,7 +8,8 @@ categories:
 img: thumbnail_gs16.jpg
 outline: outline_gs16.svg
 showVideo: "block"
-video_url: "https://player.vimeo.com/video/165411113?color=ff9933&title=0&byline=0&portrait=0"
+video_url: "https://www.youtube.com/embed/QnFGOYSbbE0?rel=0&amp;controls=0&amp;showinfo=0"
+#video_url: "https://player.vimeo.com/video/165411113?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
 ---
