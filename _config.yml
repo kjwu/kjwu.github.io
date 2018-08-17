@@ -7,7 +7,7 @@ analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 # url: "http://yourdomain.com"
 # url: "http://127.0.0.1"
-url: "http://kjwu.github.io"
+url: "https://kjwu.github.io"
 
 # Build settings
 markdown: kramdown
