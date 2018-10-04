@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Plunk-O"
+title:  "Plunk O"
 date:   2011-07-06
 author: "Kuan-Ju Wu, Eric Brockmeyer"
 categories:

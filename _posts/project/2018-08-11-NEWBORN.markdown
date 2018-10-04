@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Natura Machina: Newborn"
+title:  "Natura Machina Newborn"
 date:   2018-08-11
 author: "Kuan-Ju Wu"
 categories:
@@ -25,6 +25,12 @@ The movement of the sculpture mimics a baby's breathing pattern - fast and shall
 
 ![img1]({{ site.url }}/assets/img/project/newborn/nb1.jpg)
 
+![img2]({{ site.url }}/assets/img/project/newborn/nb2.jpg)
+
+![img3]({{ site.url }}/assets/img/project/newborn/nb3.png)
+
+![img4]({{ site.url }}/assets/img/project/newborn/nb4.png)
+
 Pumping Mechanism
 
-![img2]({{ site.url }}/assets/img/project/newborn/nb2.jpg)
+![img5]({{ site.url }}/assets/img/project/newborn/nb5.jpg)

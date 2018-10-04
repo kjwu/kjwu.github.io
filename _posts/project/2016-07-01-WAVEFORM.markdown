@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Waveform No.2"
+title:  "Waveform No2"
 date:   2016-07-01
 author: "Mikhail Mansion, Kuan-Ju Wu, Fernando Diaz Smith"
 tag: "art, kinetic sculpture"
