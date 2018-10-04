@@ -8,12 +8,12 @@ categories:
 img: thumbnail_softrobotic.png
 outline: outline_softrobotic.svg
 showVideo: "block"
-video_url: "https://www.youtube.com/embed/35m4v3-vYWI?rel=0&amp;controls=0&amp;showinfo=0"
+video_url: "https://player.vimeo.com/video/293417760?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
 ---
 #### SOFT ROBOT Tutorial ####
-
+293417760
 An Instructables tutorial for making a Walking/Crawling Soft Robot.
 
 [Instructables Link](https://www.instructables.com/id/Walking-Crawling-Soft-Robot/)
