@@ -4,7 +4,7 @@ var bws = [];
 var count =16;
 var cws = [];
 function setup() {
-  var canvas = createCanvas(windowWidth/2, windowHeight/2);
+  var canvas = createCanvas(windowWidth, windowHeight);
 
   // Move the canvas so it's inside our <div id="sketch-holder">.
   canvas.parent('sketch-holder');
