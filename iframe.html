@@ -1,2 +1,28 @@
-<script async src=https://p5js.org/assets/js/p5.min.js></script>
-<script defer src="{{site.basurl}}/assets/js/sketch1.js"></script>
+
+<head>
+  <!-- <meta http-equiv="refresh"  content="2; url={{site.basurl}}/work/"> -->
+
+
+  <script src="https://wukuanju.com/assets/js/p5.min.js"></script>
+
+  <script>
+    var num = Math.floor(Math.random() * 2 + 1);
+    randomSketch = "https://wukuanju.com/assets/js/sketch" +num +".js";
+
+    console.log(randomSketch);
+    var script = document.createElement('script');
+    script.src = randomSketch;
+    document.head.appendChild(script);
+
+  </script>
+</head>
+
+<!-- <script async src="https://CDN.JSDelivr.net/p5.js/latest/mainfile"></script>
+<script defer src="https://wukuanju.com/assets/js/sketch1.js"></script> -->
+
+
+<a href="{{site.baseurl}}/work">
+  <div id="sketch-holder">
+  <!-- Our sketch will go here! -->
+  </div>
+</a>
