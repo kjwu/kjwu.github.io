@@ -42,7 +42,7 @@ function BasicWave( ln,  sp, pd){
   this.waveLength= ln;
   this.startAngle = 0;
   this.amplitude = 50;
-  this.brightness = random(100);
+  this.brightness = random(255);
 
 
   this.update = function(){

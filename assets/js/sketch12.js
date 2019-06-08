@@ -63,7 +63,7 @@ function Attractor(){
 
   this.display = function() {
     stroke(0);
-    fill(175,200);
+    fill(255,200);
     ellipse(this.location.x,this.location.y,this.mass*2,this.mass*2);
   }
 };
