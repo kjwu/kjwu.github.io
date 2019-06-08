@@ -21,7 +21,7 @@ function draw(){
   push();
   noStroke();
   rectMode(CENTER);
-  fill(255,255,255,40);
+  fill(0,0,0,40);
 
   rect(width/2,height/2,width,height);
   pop();

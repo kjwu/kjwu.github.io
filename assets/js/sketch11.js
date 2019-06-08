@@ -18,7 +18,7 @@ function setup() {
 }
 
 function draw() {
-  background('#ffffff');
+  background('#000000');
    for(var i=0;i<count;i++){
     bws[i].update();
     bws[i].display();
