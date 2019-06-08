@@ -87,7 +87,7 @@ function Mover(_x,_y,_m){
     push();
     //noStroke();
     //fill(127,2);
-    stroke(0,80);
+    stroke(255,80);
     ellipse(this.location.x,this.location.y,this.mass,this.mass);
   };
 
