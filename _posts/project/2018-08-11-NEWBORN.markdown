@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Natura Machina Newborn"
+title:  "Newborn"
 date:   2018-08-11
 author: "Kuan-Ju Wu"
 categories:
