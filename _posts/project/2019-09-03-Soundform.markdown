@@ -5,7 +5,7 @@ date:   2019-09-03
 author: "Yasuaki Kakehi, Mikhail Mansion, Kuan-Ju Wu"
 categories:
 - art
-img: thumbnail_soundformNo1.jpg
+img: thumbnail_soundformNo1.JPG
 outline: outline_soundformNo1.svg
 showVideo: "block"
 video_url: "https://player.vimeo.com/video/363209142?color=ff9933&title=0&byline=0&portrait=0"
