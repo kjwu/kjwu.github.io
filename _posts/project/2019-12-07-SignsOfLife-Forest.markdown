@@ -11,6 +11,8 @@ showVideo: "block"
 video_url: "https://player.vimeo.com/video/386903853?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
+shortTitle: "Signs of Life"
+description: "Artificial plant sculpture"
 
 ---
 #### Signs of Life: Forest ####

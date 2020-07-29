@@ -11,6 +11,9 @@ showVideo: "block"
 video_url: "https://player.vimeo.com/video/138488394?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
+shortTitle: "GIFFI"
+description: "Robotics construction kit"
+
 ---
 #### GIFFI:Gift For Future Inventors ####
 

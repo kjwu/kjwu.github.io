@@ -12,6 +12,9 @@ video_url:
 showCarousel: "block"
 carousel:
 - rbg1.jpg
+shortTitle: "Robobug"
+description: "Robotics and Electronics"
+
 ---
 #### Robobug ####
 

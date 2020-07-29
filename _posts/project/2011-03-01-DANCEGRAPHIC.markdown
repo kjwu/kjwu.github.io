@@ -12,6 +12,9 @@ video_url:
 showCarousel: "block"
 carousel:
 - dg1.jpg
+shortTitle: "Dance Graphic"
+description: "Data visualization"
+
 ---
 #### Dance Graphic ####
 

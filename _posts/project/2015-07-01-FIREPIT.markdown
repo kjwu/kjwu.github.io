@@ -12,6 +12,9 @@ video_url:
 showCarousel: "block"
 carousel:
 - fp1.JPG
+shortTitle: "Fire Pit"
+description: "Metal welding art"
+
 ---
 #### Fire Pit ####
 

@@ -11,8 +11,24 @@ showVideo: "block"
 video_url: "https://www.youtube.com/embed/FAdK8MEej9k?rel=0&amp;controls=0&amp;showinfo=0"
 showCarousel: "none"
 carousel:
+shortTitle: "Google - Binoculars"
+description: "Telepresence VR"
+
 ---
 #### Binoculars ####
+
+Role - Technology Lead
+
+Responsibility
+
+- Viewfinder and display construction
+- Wiring and sensor mounting
+- Panoramic images production
+- Sofware build
+- Client communication
+- Project management
+- On site install
+
 ![img1]({{ site.url }}/assets/img/project/binoculars/b1.jpg)
 
 In November 2013, to help celebrate the Sydney Opera House's 40th birthday, Google Creative Lab and [Tellart](http://tellart.com) installed a special pair of binoculars on the footsteps of one of the world's most iconic buildings.

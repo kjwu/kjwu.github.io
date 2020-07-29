@@ -12,6 +12,8 @@ showVideo: "block"
 video_url: "https://player.vimeo.com/video/202690742?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
+shortTitle: "Motion Sketch"
+description: "Bio-inspired mechanism"
 
 ---
 #### Motion Sketch ####

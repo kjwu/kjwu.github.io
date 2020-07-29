@@ -137,6 +137,23 @@ a:focus {
 /*	################################################################
 	BOOTSTRAP MODIFICATIONS & TWEAKS
 ################################################################# */
+
+.shortTitle{
+	font-size: small;
+	padding-top: 5px;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	color: #252624;
+}
+
+.description{
+	font-size: small;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	color: #B7B7B7;
+	padding-bottom: 2px;
+}
+
 .fa{
 	font-size: large;
 	color: #252624;

@@ -4,7 +4,7 @@ title:  "Soft Robot Tutorial"
 date:   2017-06-15
 author: "Kuan-Ju Wu, Yasuaki Kakehi Lab"
 categories:
-- tech
+- art
 img: thumbnail_softrobotic.png
 outline: outline_softrobotic.svg
 showVideo: "block"

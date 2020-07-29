@@ -11,10 +11,13 @@ showVideo: "block"
 video_url: "https://player.vimeo.com/video/140495506?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
+shortTitle: "Head Monster"
+description: "robotics toy"
+
 ---
 #### Head Monsters ####
 
-Head Monsters are small robots that follows simple rules. 
+Head Monsters are small robots that follows simple rules.
 
 ![img1]({{ site.url }}/assets/img/project/headmonster/h1.jpg)
 

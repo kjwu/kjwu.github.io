@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Grand Salon Interactive Wall"
+title:  "Wall"
 date:   2015-07-01
 author: "Tellart, Kuan-Ju Wu, Mikhail Mansion, Charlie Ledbetter"
 categories:
@@ -12,10 +12,22 @@ video_url:
 showCarousel: "block"
 carousel:
 - wall.JPG
+shortTitle: "White House - Wall"
+description: "Body tracking interactive display"
+
 ---
 #### Grand Salon Interactive Wall ####
 
-The wall uses video tracking technology (Kinect) to view the bodies of event attendees who are standing or moving within a designated area. The software system connected to this array of sensors will use this 3D data to control an abstract visualization that appears on the video wall.
+Role - Technology Lead
+
+Responsibility
+
+- Art direction
+- Fluid and Particle system build
+- Kinect body tracking system
+- Deployment
+
+The wall was designed and built for White House Correspondents' Dinner party in 2015. It uses video tracking technology (Kinect) to view the bodies of event attendees who are standing or moving within a designated area. The software system connected to this array of sensors will use this 3D data to control an abstract visualization that appears on the video wall.
 
 This visualization comprises of 2 ‘modes - Fluid and Particle’ each with a related but distinct appearance and behavior.
 

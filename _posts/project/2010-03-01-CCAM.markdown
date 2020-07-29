@@ -11,6 +11,9 @@ showVideo: "block"
 video_url: "https://player.vimeo.com/video/140514460?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
+shortTitle: "CCAM"
+description: "Interactive video art"
+
 ---
 #### Chocolate Chocolate Add Some Milk ####
 

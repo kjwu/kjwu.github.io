@@ -12,6 +12,9 @@ video_url: "https://player.vimeo.com/video/225913515?color=ff9933&title=0&byline
 showCarousel: "block"
 carousel:
 - cv1.jpg
+shortTitle: "Crows Vending Machine"
+description: "Animal computer interfacet"
+
 
 ---
 #### Crow's Vending Machine ####

@@ -11,8 +11,21 @@ showVideo: "block"
 video_url: "https://player.vimeo.com/video/83457205?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
+shortTitle: "Target - Lights"
+description: "Interactive light installation"
+
 ---
 #### Target Thursday Lights ####
+
+Role - Technologist
+
+Responsibility
+
+- Capacitance sensing
+- Podium build
+- On site install
+
+
 
 "_In 2013 The Minneapolis Sculpture Garden was celebrating it’s 25th anniversary. Target, the lead sponsor, wanted to create an interactive installation piece in the Sculpture Garden that invited the audience to affect Target Lights (the largest LED display in the Midwest) from the Sculpture Garden, about a mile away.
 

@@ -12,8 +12,25 @@ video_url: "https://www.youtube.com/embed/8yCKtRHM-h0?rel=0&amp;controls=0&amp;s
 #video_url: "https://player.vimeo.com/video/211694214?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
+shortTitle: "Toyota - Concept-I"
+description: "Future car experience"
 ---
 #### Toyota Concept-I ####
+
+Role - Technology Lead
+
+Responsibility
+
+- Technology assessment
+- Hardware and software system architecture
+- Client Communication / Team Leading
+- Research, prototype and build for projection display and LED lighting
+- Multi-displays Show control system
+- Wiring management
+- Deployment coordination
+- Onsite support
+- Produce technical documents
+
 
 "*Toyota’s Concept-i is a groundbreaking vehicle that highlights the critical importance of user experience in the development of highly automated vehicles. Concept-i debuted at the 2017 Consumer Electronics Show in Las Vegas. Tellart collaborated with Toyota’s CALTY Design Research team and the Institute for Creative Integration for eighteen months leading up to the launch, prototyping new energetic and immersive user experiences for the automated vehicle. Tellart, along with automotive model experts PHIARO inc., built two full scale prototypes to represent CALTY’s overall design intention for Concept-i.*" ---Tellart.
 

@@ -12,6 +12,9 @@ video_url:
 showCarousel: "block"
 carousel:
 - hip1.jpg
+shortTitle: "Hippo"
+description: "Digital fabrication sculpture"
+
 ---
 #### Snow Hippo ####
 

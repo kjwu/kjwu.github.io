@@ -12,6 +12,8 @@ video_url: "https://player.vimeo.com/video/227394734?color=ff9933&title=0&byline
 showCarousel: "none"
 carousel:
 - gs1.png
+shortTitle: "Grass Bot"
+description: "Speculative designed robot"
 
 ---
 #### Grass Bot ####

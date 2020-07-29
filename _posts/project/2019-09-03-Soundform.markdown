@@ -11,6 +11,8 @@ showVideo: "block"
 video_url: "https://player.vimeo.com/video/363209142?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
+shortTitle: "Soundform No.1"
+description: "Sound installation"
 
 ---
 #### Soundform No.1 ####

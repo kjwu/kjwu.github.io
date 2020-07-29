@@ -1,0 +1,13 @@
+I"�<h4 id="to-cedar">To Cedar</h4>
+
+<p><strong>Art (Sungjae Lee)</strong></p>
+
+<p>To Cedar is a 12-channel video installation that represents multiple impressions of the artist Sunjae Lee’s journey to Cedar City. The 12 individual videos synchronize each other by sharing small figures and have a unified scene every 6 minutes.</p>
+
+<p>This video installation is specifically created for a video room that is like a tunnel at the Southern Utah Museum of Art in a special group show of Korean artists from October 13 through December 28, 2018.</p>
+
+<p><strong>Tech (Kuan-Ju Wu)</strong></p>
+
+<p>12 Displays are synchronized using BrightSign LS media players and a local network switch with custom script.
+In addition to the 12-channel displays, there are also 3 interactive TVs installed across the corridor playing Sungjae’s art animations. Those 3 TVs utilize temperature based sensor to detect human presence and trigger the video loops host on Raspberry Pi.</p>
+:ET

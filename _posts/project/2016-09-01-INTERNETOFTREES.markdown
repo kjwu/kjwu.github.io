@@ -12,6 +12,9 @@ showVideo: "none"
 video_url:
 showCarousel: "block"
 carousel:
+shortTitle: "Internet of Trees"
+description: "IOT and storytelling"
+
 
 ---
 #### Sensor Driven Story Telling - Internet of Trees ####

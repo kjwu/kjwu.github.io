@@ -12,6 +12,9 @@ video_url:
 showCarousel: "block"
 carousel:
 - rby1.jpg
+shortTitle: "Robo-butterfly"
+description: "Robotics toy"
+
 ---
 #### Robbbutterfly ####
 

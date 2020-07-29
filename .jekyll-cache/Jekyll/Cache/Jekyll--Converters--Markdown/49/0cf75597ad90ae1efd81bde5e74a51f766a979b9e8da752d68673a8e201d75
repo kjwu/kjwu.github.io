@@ -1,0 +1,34 @@
+I"�<h4 id="museum-of-the-future">Museum of the Future</h4>
+
+<p>Eyeshare by Du, and Moodview are speculative augmented reality experiences in <a href="http://www.tellart.com/project/museum-of-the-future-machinic-life/">“The Museum of the Future: Machinic Life”</a> exhibition at World Government Summit in Dubai. They are part of the “Augmentation Spa” session. Imaging in the near future of 2034, when machines could evolve to enhance our body and mind, what does that mean for society and the our families?</p>
+
+<p><em>“Eyeshare by Du allows users to broadcast visual and sensory feed to their friends or colleagues, or tune into the vision stream of millions of others…
+Moodview boosts users’s social intelligence by providing real-time analysis of the emotions of others, offering instant feedback on what to say and how to act for maximum social impact.”</em>  <em>(Tellart)</em></p>
+
+<p><img src="http://localhost:4000/assets/img/project/eyeshare-moodview/em2.jpg" alt="img0" /></p>
+
+<p>Eyeshare unwrap the stereoscopic 360 degree panorama video and then map them to Oculus Rift’s virtual environment.</p>
+
+<p><img src="http://localhost:4000/assets/img/project/eyeshare-moodview/em1.jpg" alt="img1" /></p>
+
+<p>Moodview uses <a href="http://ovrvision.com/setup-en/">Ovrvision Pro</a> stereoscopic camera as a live feed to the <a href="http://sightcorp.com/insight/">InSight SDK</a> emotion detection software. Advisory interface are augmented to the stereoscopic view as real-time feedback.</p>
+
+<p>Some custom Openframeworks addons were built for developing these AR experiences.</p>
+
+<p><a href="https://github.com/kuanju/ofxOculusDK2">oculus rift addon</a></p>
+
+<p><a href="https://github.com/kuanju/ofxOvrvision">ovrvision addon</a></p>
+
+<p>Some of the early prototype:</p>
+
+<p><img src="http://localhost:4000/assets/img/project/eyeshare-moodview/faceSwap.gif" alt="img4" /></p>
+
+<p><img src="http://localhost:4000/assets/img/project/eyeshare-moodview/oculus+emotionTracking.gif" alt="img5" /></p>
+
+<p><img src="http://localhost:4000/assets/img/project/eyeshare-moodview/affectivaTest.gif" alt="img6" /></p>
+
+<p>PROJECT PARTNERS:
+Prime Minister Office, UAE,
+<a href="http://tellart.com">Tellart</a>,
+<a href="http://www.octopd.com/">OCTO</a></p>
+:ET

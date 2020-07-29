@@ -4,13 +4,15 @@ title:  "To Cedar"
 date:   2018-11-01
 author: "Sungjae Lee, Kuan-Ju Wu"
 categories:
-- tech
+- art
 img: thumbnail_toCedar.png
 outline: outline_toCedar.svg
 showVideo: "block"
 video_url: "https://player.vimeo.com/video/296399181?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
+shortTitle: "To Cedar"
+description: "Interactive art displays"
 
 ---
 #### To Cedar ####
