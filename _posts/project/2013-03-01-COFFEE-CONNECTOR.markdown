@@ -1,7 +1,8 @@
 ---
 layout: project
 title:  "Coffee Connector"
-date:   2013-03-01
+date:   2015-12-01
+realdate: 2013-03-01
 author: "Tellart, OCTO, TSLA, Justin Couch, Fernando Diaz, Kuan-Ju Wu"
 categories:
 - tech

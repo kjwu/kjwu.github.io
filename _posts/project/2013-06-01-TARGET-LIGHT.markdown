@@ -2,6 +2,7 @@
 layout: project
 title:  "Thursday Lights"
 date:   2013-06-01
+realdate:   2013-06-01
 author: "Target, Tellart, Walker Art Center"
 categories:
 - tech

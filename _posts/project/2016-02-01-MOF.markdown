@@ -2,6 +2,7 @@
 layout: project
 title:  "Museum of the Future"
 date:   2016-02-01
+realdate:   2016-02-01
 author: "Prime Minister's Office UAE, Tellart, OCTO, Kuan-Ju Wu, Sabrina Verhage"
 categories:
 - tech

@@ -2,6 +2,7 @@
 layout: project
 title:  "Binoculars"
 date:   2013-11-01
+realdate:   2016-02-01
 author: "Kuan-Ju Wu, Justin Couch, Fernando Diaz, Tellart, Google Creative Lab"
 categories:
 - tech

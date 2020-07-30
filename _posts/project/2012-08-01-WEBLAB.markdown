@@ -1,7 +1,8 @@
 ---
 layout: project
 title:  "Weblab"
-date:   2012-08-01
+date:   2017-01-01
+realdate: 2012-08-01
 author: "Tellart, Google Creative Lab, B-Reel, Walter Kim, Adam Meyer, Jasper Speicher, Kuan-Ju Wu, Don Nguyen
 , Jay Nutini"
 categories:
@@ -40,10 +41,22 @@ Web visitors interact with Sketchbots by first taking a photo of their face via 
 
 One of the original Sketchbots - No.5 is acquired by [Cooper Hewitt National Design Museum](https://collection.cooperhewitt.org/objects/68250943/).
 
-![img0]({{ site.url }}/assets/img/project/sketchbot/DSC01887.JPG)
+![img0]({{ site.url }}/assets/img/project/sketchbot/w1.jpg)Photography by Andrew Meredith
+![img0]({{ site.url }}/assets/img/project/sketchbot/w2.jpg)Photography by Andrew Meredith
+![img0]({{ site.url }}/assets/img/project/sketchbot/w3.jpg)Photography by Andrew Meredith
+![img0]({{ site.url }}/assets/img/project/sketchbot/w4.jpg)Photography by Andrew Meredith
+![img0]({{ site.url }}/assets/img/project/sketchbot/w5.jpg)Photography by Andrew Meredith
+![img0]({{ site.url }}/assets/img/project/sketchbot/w6.jpg)Photography by Andrew Meredith
 
-![img0]({{ site.url }}/assets/img/project/sketchbot/DSC01890.JPG)
+Behind the scene:
+![img0]({{ site.url }}/assets/img/project/sketchbot/w7.JPG)
 
-![img0]({{ site.url }}/assets/img/project/sketchbot/DSC01913.JPG)
+![img0]({{ site.url }}/assets/img/project/sketchbot/w8.JPG)
 
-![img0]({{ site.url }}/assets/img/project/sketchbot/kjtop2.gif)
+![img0]({{ site.url }}/assets/img/project/sketchbot/w9.png)
+
+![img0]({{ site.url }}/assets/img/project/sketchbot/w10.JPG)
+
+![img0]({{ site.url }}/assets/img/project/sketchbot/w11.JPG)
+
+![img0]({{ site.url }}/assets/img/project/sketchbot/w12.gif)

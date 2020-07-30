@@ -1,0 +1,54 @@
+I"f<h4 id="toyota-concept-i">Toyota Concept-I</h4>
+
+<p>Role - Technology Lead</p>
+
+<p>Responsibility</p>
+
+<ul>
+  <li>Technology assessment</li>
+  <li>Hardware and software system architecture</li>
+  <li>Client Communication / Team Leading</li>
+  <li>Research, prototype and build for projection display and LED lighting</li>
+  <li>Multi-displays Show control system</li>
+  <li>Wiring management</li>
+  <li>Deployment coordination</li>
+  <li>Onsite support</li>
+  <li>Produce technical documents</li>
+</ul>
+
+<p>“<em>Toyota’s Concept-i is a groundbreaking vehicle that highlights the critical importance of user experience in the development of highly automated vehicles. Concept-i debuted at the 2017 Consumer Electronics Show in Las Vegas. Tellart collaborated with Toyota’s CALTY Design Research team and the Institute for Creative Integration for eighteen months leading up to the launch, prototyping new energetic and immersive user experiences for the automated vehicle. Tellart, along with automotive model experts PHIARO inc., built two full scale prototypes to represent CALTY’s overall design intention for Concept-i.</em>” —Tellart.</p>
+
+<p><img src="http://localhost:4000/assets/img/project/concept-i/c0.jpg" alt="img0" /></p>
+
+<p><img src="http://localhost:4000/assets/img/project/concept-i/c1.jpg" alt="img1" /></p>
+
+<p><img src="http://localhost:4000/assets/img/project/concept-i/c2.jpg" alt="img2" /></p>
+
+<p>Behind the scene:</p>
+
+<p>In the hardware side there are about 15 displays embedded through out the vehicle, including hight lumen projectors, compact pocket projectors, flexible led screens, tablets, led stripes etc. There are also moving mechanism such as haptic actuators and the start button that we talked about earlier.</p>
+
+<p><img src="http://localhost:4000/assets/img/project/concept-i/c3.png" alt="img3" /></p>
+
+<p>A lot of labor goes into physically solder and wire the LEDs, there are thousands of LED laid on the wheel hub,</p>
+
+<p><img src="http://localhost:4000/assets/img/project/concept-i/c4.png" alt="img4" /></p>
+
+<p>floor, steering wheel, pedals, even a trail along frames across A,B and C pillar</p>
+
+<p><img src="http://localhost:4000/assets/img/project/concept-i/c7.png" alt="img7" /></p>
+
+<p>A system like this generate a lot of heat so we built a custom made cooling system to circulate the air flow throughout the projector area and provide cool air in the passenger seats.</p>
+
+<p><img src="http://localhost:4000/assets/img/project/concept-i/c5.jpg" alt="img5" /></p>
+
+<p>On the software side we used Watchout Show Control system to synchronize and playback the contents across displays, including external HUD display and stage projection. We also built a server to automatically play through the scenes or  for the wizard the choose the scene directly from a tablet.</p>
+
+<p><img src="http://localhost:4000/assets/img/project/concept-i/c8.png" alt="img5" /></p>
+
+<p>After CES we did a couple deployments including Tokyo motor show, and from there we hand off to the Toyota internal team so that They can operate the model themselves and take it to a tour.</p>
+
+<p>This is a really quick high-level overview of what we have done for Toyota Concept-I, If you have any questions feel free to ask me later on in the discussion session. For now I will pass it over to Nathaniel</p>
+
+<p><img src="http://localhost:4000/assets/img/project/concept-i/c6.png" alt="img6" /></p>
+:ET
