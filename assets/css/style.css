@@ -138,6 +138,15 @@ a:focus {
 	BOOTSTRAP MODIFICATIONS & TWEAKS
 ################################################################# */
 
+.intro{
+	font-size: medium;
+	line-height: 25px;
+	padding-top: 10px;
+	padding-left: 10px;
+
+	color: #252624;
+}
+
 .shortTitle{
 	font-size: small;
 	padding-top: 5px;
