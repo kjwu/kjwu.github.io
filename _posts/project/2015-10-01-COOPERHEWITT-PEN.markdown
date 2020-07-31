@@ -24,7 +24,7 @@ Role - Technologist
 Responsibility
 
 - Prototype of early concept
-- Pen reader and registration station firmware builds
+- Pen reader and registration station firmware builds (Python on raspberry pi + Arduino + NFC sensor)
 - Client communication
 - Project management
 

@@ -1,0 +1,44 @@
+I"Y<h4 id="purina---better-with-pets">Purina - Better with Pets</h4>
+
+<p>Role - Technologist</p>
+
+<p>Responsibility</p>
+
+<ul>
+  <li>Dog movement tracking application build (Openframeworks)</li>
+  <li>Onsite installation</li>
+</ul>
+
+<p>The Purina “Better With Pets Summit” is an event that reveals Purina’s commitment to innovation and research. The event brings together employees, pet innovators and influencers to discuss and discover all things related to pet health and wellness. We partnered with Purina’s scientists to bring the company’s innovation to life in an interactive, museum-like installation.</p>
+
+<p><img src="http://localhost:4000/assets/img/project/eyeshare-moodview/mof1.jpg" alt="img2" />Photography by Tellart</p>
+
+<p>Behind the scene:</p>
+
+<p><img src="http://localhost:4000/assets/img/project/eyeshare-moodview/em2.jpg" alt="img0" /></p>
+
+<p>Eyeshare unwrap the stereoscopic 360 degree panorama video and then map them to Oculus Rift’s virtual environment.</p>
+
+<p><img src="http://localhost:4000/assets/img/project/eyeshare-moodview/em1.jpg" alt="img1" /></p>
+
+<p>Moodview uses <a href="http://ovrvision.com/setup-en/">Ovrvision Pro</a> stereoscopic camera as a live feed to the <a href="http://sightcorp.com/insight/">InSight SDK</a> emotion detection software. Advisory interface are augmented to the stereoscopic view as real-time feedback.</p>
+
+<p>Some custom Openframeworks addons were built for developing these AR experiences.</p>
+
+<p><a href="https://github.com/kuanju/ofxOculusDK2">oculus rift addon</a></p>
+
+<p><a href="https://github.com/kuanju/ofxOvrvision">ovrvision addon</a></p>
+
+<p>Some of the early prototype:</p>
+
+<p><img src="http://localhost:4000/assets/img/project/eyeshare-moodview/faceSwap.gif" alt="img4" /></p>
+
+<p><img src="http://localhost:4000/assets/img/project/eyeshare-moodview/oculus+emotionTracking.gif" alt="img5" /></p>
+
+<p><img src="http://localhost:4000/assets/img/project/eyeshare-moodview/affectivaTest.gif" alt="img6" /></p>
+
+<p>PROJECT PARTNERS:
+Prime Minister Office, UAE,
+<a href="http://tellart.com">Tellart</a>,
+<a href="http://www.octopd.com/">OCTO</a></p>
+:ET

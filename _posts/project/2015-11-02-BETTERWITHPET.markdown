@@ -1,86 +1,44 @@
 ---
 layout: project
-title:  "Museum of the Future"
-date:   2016-02-01
+title:  "Better with Pets"
+date:   2013-07-01
 realdate:   2016-02-01
-author: "Prime Minister's Office UAE, Tellart, OCTO, Kuan-Ju Wu, Sabrina Verhage"
+author: "Tellart, Zeus Jones, Stacia Service, Type A Events "
 categories:
-- 
-img: thumbnail_gs16.jpg
-outline: outline_gs16.svg
+- tech
+img: thumbnail_betterWithPets.png
+outline: outline_betterWithPets.svg
 showVideo: "block"
-video_url: "https://www.youtube.com/embed/QnFGOYSbbE0?rel=0&amp;controls=0&amp;showinfo=0"
+video_url: "https://player.vimeo.com/video/208142532?color=ff9933&title=0&byline=0&portrait=0"
 #video_url: "https://player.vimeo.com/video/165411113?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
-shortTitle: "UAE - Museum of the Future"
-description: "VR/AR + AI exhibition"
+shortTitle: "Purina - Better with Pets"
+description: "Dog tracking visualization"
 
 ---
-#### Museum of the Future - Machinic-Life ####
+#### Purina - Better with Pets ####
 
-Role - Technology Lead
+Role - Technologist
 
 Responsibility
 
-- Technology assessment
-- Software system architecture
-- Stereoscopic camera integration
-- Moodview and Eyeshare AR/VR + Emotion Tracking Experience Build
-- Robotics rocking crib mechanism
+- Early stage concept development
+- Play Lab - Dog tracking visualization build (Openframeworks)
 - Onsite installation
 
-_"This exhibition for the World Government Summit in Dubai explored how rapidly advancing technologies like artificial intelligence and robotics will impact human life in the near future. In partnership with the Prime Minister's Office of the UAE, Tellart led futures research, concept development, design and production for this major strategic endeavor. Sentient machines could evolve to enhance our bodies and minds, restructure our family lives and manage complex social and economic systems. This transition will present new opportunities and challenges. Our goal with this exhibition was to viscerally immerse visitors in the possible futures flowing from decisions being made today.
+The Purina “Better With Pets Summit” is an event that reveals Purina’s commitment to innovation and research. The event brings together employees, pet innovators and influencers to discuss and discover all things related to pet health and wellness. We partnered with Purina's scientists to bring the company's innovation to life in an interactive, museum-like installation.
 
-This was the third in a series of exhibitions Tellart has created for the World Government Summit. These projects have directly inspired numerous government initiatives in the UAE, including the creation of a permanent Museum of the Future.
-
-"_ _(Tellart)_
-
-
-Eyeshare by Du, and Moodview are speculative augmented reality experiences in ["The Museum of the Future: Machinic Life"](http://www.tellart.com/project/museum-of-the-future-machinic-life/) exhibition at World Government Summit in Dubai. They are part of the "Augmentation Spa" session. Imaging in the near future of 2034, when machines could evolve to enhance our body and mind, what does that mean for society and the our families?
-
-_"Eyeshare by Du allows users to broadcast visual and sensory feed to their friends or colleagues, or tune into the vision stream of millions of others...
-Moodview boosts users's social intelligence by providing real-time analysis of the emotions of others, offering instant feedback on what to say and how to act for maximum social impact."_  _(Tellart)_
-
-
-![img2]({{ site.url }}/assets/img/project/eyeshare-moodview/mof1.jpg)Photography by Tellart
-![img2]({{ site.url }}/assets/img/project/eyeshare-moodview/mof2.jpg)Photography by Tellart
-![img2]({{ site.url }}/assets/img/project/eyeshare-moodview/mof3.jpg)Photography by Tellart
-![img2]({{ site.url }}/assets/img/project/eyeshare-moodview/mof4.jpg)Photography by Tellart
-![img2]({{ site.url }}/assets/img/project/eyeshare-moodview/mof6.jpg)Photography by Tellart
-![img2]({{ site.url }}/assets/img/project/eyeshare-moodview/mof7.jpg)Photography by Tellart
+![img2]({{ site.url }}/assets/img/project/betterWithPet/bw1.png)
 
 
 Behind the scene:
 
 
-![img0]({{ site.url }}/assets/img/project/eyeshare-moodview/em2.jpg)
+![img0]({{ site.url }}/assets/img/project/betterWithPet/bw2.JPG)
 
-Eyeshare unwrap the stereoscopic 360 degree panorama video and then map them to Oculus Rift's virtual environment.
+![img0]({{ site.url }}/assets/img/project/betterWithPet/bw3.JPG)
 
-![img1]({{ site.url }}/assets/img/project/eyeshare-moodview/em1.jpg)
+![img0]({{ site.url }}/assets/img/project/betterWithPet/bw4.JPG)
 
-Moodview uses [Ovrvision Pro](http://ovrvision.com/setup-en/) stereoscopic camera as a live feed to the [InSight SDK](http://sightcorp.com/insight/) emotion detection software. Advisory interface are augmented to the stereoscopic view as real-time feedback.
-
-
-
-
-Some custom Openframeworks addons were built for developing these AR experiences.
-
-[oculus rift addon](https://github.com/kuanju/ofxOculusDK2)
-
-[ovrvision addon](https://github.com/kuanju/ofxOvrvision)
-
-Some of the early prototype:
-
-![img4]({{ site.url }}/assets/img/project/eyeshare-moodview/faceSwap.gif)
-
-![img5]({{ site.url }}/assets/img/project/eyeshare-moodview/oculus+emotionTracking.gif)
-
-![img6]({{ site.url }}/assets/img/project/eyeshare-moodview/affectivaTest.gif)
-
-
-PROJECT PARTNERS:
-Prime Minister Office, UAE,
-[Tellart](http://tellart.com),
-[OCTO](http://www.octopd.com/)
+![img0]({{ site.url }}/assets/img/project/betterWithPet/bw5.JPG)

@@ -32,6 +32,15 @@ The wall was designed and built for White House Correspondents' Dinner party in 
 
 This visualization comprises of 2 ‘modes - Fluid and Particle’ each with a related but distinct appearance and behavior.
 
+Behind the scene:
+
+![img2]({{ site.url }}/assets/img/project/wall/w1.JPG)
+
+![img2]({{ site.url }}/assets/img/project/wall/IMG_2306.JPG)
+
+![img2]({{ site.url }}/assets/img/project/wall/IMG_0907.JPG)
+
+
 ![img2]({{ site.url }}/assets/img/project/wall/particleScreen.gif)
 
 ![img2]({{ site.url }}/assets/img/project/wall/particleScreens.gif)
@@ -39,7 +48,3 @@ This visualization comprises of 2 ‘modes - Fluid and Particle’ each with a r
 ![img2]({{ site.url }}/assets/img/project/wall/fluid.gif)
 
 ![img2]({{ site.url }}/assets/img/project/wall/fluids.gif)
-
-![img2]({{ site.url }}/assets/img/project/wall/IMG_2306.JPG)
-
-![img2]({{ site.url }}/assets/img/project/wall/IMG_0907.JPG)

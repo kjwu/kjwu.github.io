@@ -25,7 +25,7 @@ Responsibility
 
 - Technology assessment
 - SW/HW Architecture
-- Software development
+- Software development (Pygame on Raspberry Pi)
 - Wiring and Mounting
 - On site install
 - Client communication

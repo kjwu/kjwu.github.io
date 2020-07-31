@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Binoculars"
-date:   2013-11-01
+date:   2015-10-01
 realdate:   2016-02-01
 author: "Kuan-Ju Wu, Justin Couch, Fernando Diaz, Tellart, Google Creative Lab"
 categories:
@@ -23,9 +23,9 @@ Role - Technology Lead
 Responsibility
 
 - Viewfinder and display construction
-- Wiring and sensor mounting
+- Wiring and sensor mounting (Rotary encoder)
 - Panoramic images production
-- Sofware build
+- Sofware build (Python on Raspberry Pi)
 - Client communication
 - Project management
 - On site install

@@ -1,0 +1,28 @@
+I"Ú<h4 id="knox-college---portrait-wall">Knox College - Portrait Wall</h4>
+
+<p>Role - Technology Lead / Fabricator</p>
+
+<p>Responsibility</p>
+
+<ul>
+  <li>Technology assessment</li>
+  <li>SW/HW Architecture</li>
+  <li>Software development (Python on Raspberry Pi)</li>
+  <li>Wiring and Mounting</li>
+  <li>On site install</li>
+  <li>Client communication</li>
+  <li>Project management</li>
+</ul>
+
+<p>Portrait Wall is a photo wall showcasing what campus life is like in Knox College. A collage of historical figure portraits and modern student activities, the wall tells the story of this liberal art schoolâ€™s legacy and how it continues with the young generation. Portrait Wall is powered by multiple raspberry pi single board computers and tv screens embedded in picture frames. When a view touch a category icon from the capacitance sensing panel, the wall update all the displays asynchronously.</p>
+
+<p><img src="http://localhost:4000/assets/img/project/knox/pw2.JPG" alt="img2" /></p>
+
+<p><img src="http://localhost:4000/assets/img/project/knox/pw3.JPG" alt="img2" /></p>
+
+<p><img src="http://localhost:4000/assets/img/project/knox/pw4.JPG" alt="img2" /></p>
+
+<p>PROJECT PARTNERS:
+Knox College,
+<a href="http://tellart.com">Tellart</a></p>
+:ET
