@@ -6,7 +6,7 @@ realdate:   2015-10-06
 author: "Tellart, Kuan-Ju Wu, Randy Snow"
 categories:
 - tech
-img: thumbnail_knox.jpg
+img: thumbnail_knox.JPG
 outline: outline_knox.svg
 showVideo: "none"
 video_url:
