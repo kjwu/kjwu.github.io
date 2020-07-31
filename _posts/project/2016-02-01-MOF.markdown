@@ -27,13 +27,31 @@ Responsibility
 - Software system architecture
 - Stereoscopic camera integration
 - Moodview and Eyeshare AR/VR + Emotion Tracking Experience Build
+- Robotics rocking crib mechanism
 - Onsite installation
+
+_"This exhibition for the World Government Summit in Dubai explored how rapidly advancing technologies like artificial intelligence and robotics will impact human life in the near future. In partnership with the Prime Minister's Office of the UAE, Tellart led futures research, concept development, design and production for this major strategic endeavor. Sentient machines could evolve to enhance our bodies and minds, restructure our family lives and manage complex social and economic systems. This transition will present new opportunities and challenges. Our goal with this exhibition was to viscerally immerse visitors in the possible futures flowing from decisions being made today.
+
+This was the third in a series of exhibitions Tellart has created for the World Government Summit. These projects have directly inspired numerous government initiatives in the UAE, including the creation of a permanent Museum of the Future.
+
+"_ _(Tellart)_
 
 
 Eyeshare by Du, and Moodview are speculative augmented reality experiences in ["The Museum of the Future: Machinic Life"](http://www.tellart.com/project/museum-of-the-future-machinic-life/) exhibition at World Government Summit in Dubai. They are part of the "Augmentation Spa" session. Imaging in the near future of 2034, when machines could evolve to enhance our body and mind, what does that mean for society and the our families?
 
 _"Eyeshare by Du allows users to broadcast visual and sensory feed to their friends or colleagues, or tune into the vision stream of millions of others...
 Moodview boosts users's social intelligence by providing real-time analysis of the emotions of others, offering instant feedback on what to say and how to act for maximum social impact."_  _(Tellart)_
+
+
+![img2]({{ site.url }}/assets/img/project/eyeshare-moodview/mof1.jpg)Photography by Tellart
+![img2]({{ site.url }}/assets/img/project/eyeshare-moodview/mof2.jpg)Photography by Tellart
+![img2]({{ site.url }}/assets/img/project/eyeshare-moodview/mof3.jpg)Photography by Tellart
+![img2]({{ site.url }}/assets/img/project/eyeshare-moodview/mof4.jpg)Photography by Tellart
+![img2]({{ site.url }}/assets/img/project/eyeshare-moodview/mof6.jpg)Photography by Tellart
+![img2]({{ site.url }}/assets/img/project/eyeshare-moodview/mof7.jpg)Photography by Tellart
+
+
+Behind the scene:
 
 
 ![img0]({{ site.url }}/assets/img/project/eyeshare-moodview/em2.jpg)

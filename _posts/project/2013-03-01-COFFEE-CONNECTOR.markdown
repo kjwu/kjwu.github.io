@@ -34,6 +34,12 @@ Responsibility
 
 The Singapore Economic Development Board wanted a visually iconic statement piece for high-end conferences that would connect global professionals in a spectacular way, against the backdrop of commerce in Singapore. The Coffee Connector playfully encourages business networking by offering attendees an exquisitely brewed cup of coffee – but only when they pair up with a stranger and start a conversation.
 
+![img2]({{ site.url }}/assets/img/project/coffee/cc1.jpg)Photography by Tellart
+![img2]({{ site.url }}/assets/img/project/coffee/cc2.jpg)Photography by Tellart
+![img2]({{ site.url }}/assets/img/project/coffee/cc3.jpg)Photography by Tellart
+![img2]({{ site.url }}/assets/img/project/coffee/cc4.jpg)Photography by Tellart
+
+
 PROJECT PARTNERS:
 [The Secret Little Agency](http://thesecretlittleagency.com/),
 [Tellart](http://tellart.com),
