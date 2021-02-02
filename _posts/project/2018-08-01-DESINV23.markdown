@@ -1,11 +1,11 @@
 ---
 layout: project
 title:  "DES-INV 23"
-date:   2015-08-01
+date:   2018-08-01
 author: "Tellart, Mikhail Mansion, Kuan-Ju Wu"
 categories:
 - teaching
-img: thumbnail_desinv23.JPG
+img: thumbnail_desinv23.jpg
 outline: outline_desinv23.svg
 showVideo: "block"
 video_url: "https://www.youtube.com/embed/NiUU-0Z71Eg?rel=0&amp;controls=0&amp;showinfo=0"
