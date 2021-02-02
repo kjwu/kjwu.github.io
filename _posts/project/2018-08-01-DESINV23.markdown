@@ -1,0 +1,43 @@
+---
+layout: project
+title:  "DES-INV 23"
+date:   2015-08-01
+author: "Tellart, Mikhail Mansion, Kuan-Ju Wu"
+categories:
+- teaching
+img: thumbnail_desinv23.JPG
+outline: outline_desinv23.svg
+showVideo: "block"
+video_url: "https://www.youtube.com/embed/NiUU-0Z71Eg?rel=0&amp;controls=0&amp;showinfo=0"
+showCarousel: "none"
+carousel:
+shortTitle: "DES-INV 23"
+description: "Creative Programming and Electronics"
+
+---
+#### DES-INV 23 Programming and Electronics ####
+
+DES-INV 23 Creative Programming and Electronics teaches computational skills such as coding and circuitry through creative practices and art making.
+
+Over the course of the semester, students learn how to write code and build electronics for a series of art machine projects, including robotic instruments, kinetic sculptures, and interactive installations. We will primarily be using the Arduino, an open-source library and integrated development environment (IDE) built for makers—students, hobbyists, artists, programmers, and professionals communities—while briefly exploring Processing, another creative software, as a tool for augmenting the physical world with digital information.
+
+Along the way, we will also look at a variety of strange, whimsical, and beautiful works created by historical and contemporary artists and technologists, and we will re-think computation from a poetic, provocative perspective.
+
+At the end of the class students will showcase their creations at Jacobs Design Showcase and in a gallery as a curated exhibition.  
+
+
+![img13]({{ site.url }}/assets/img/project/drawingmachine/student8.jpg)
+(Credit: Ryan Ferguson)
+
+
+Adapting the creative process utilized by the Exploratorium, DES-INV 23 Creative Programming and Electronics explores the Art as a fundamental method of discovery, and aims to inspire curiosity and to acquire new knowledge, skills, and ways of understanding the world. The primary goals of the course are to help students think like artists and build like engineers.
+
+Through the process of making a series of art machines, the students will assume the roles of creative thinkers and technologists. The course provides the skills and tools for students to become an interdisciplinary individuals who can think outside of the box and experiment with challenging ideas, treating technology as a medium and master it like a craftsman to build robust systems.
+
+DES-INV 23 Creative Programming and Electronics takes a unique approach to teaching techniques to conceptualize, design, and prototype interactive objects. Unlike the traditional engineering trainings that focus on the efficiency and accuracy, we will explore the opposite—the creative and expressive nature of computational design. Students will approach writing code like creative writing, to tell a story or to express feelings. They will build machines like creating artworks, to embrace vagueness and to adventure into the unknown. Most assignments are open-ended projects without defined answers. Students are encouraged to build things that are speculative, humorous, or even nonsensical, and to emulate the works of alma mater Rube Goldberg, who produced machines that inspire wonder and which reflect on abstract concepts. Taeyoon Choi, the founder of School of Poetic Comping, stated in his mission:  For us, computation is poetic when technology is used for critical thinking and aesthetic inquiry – a space where logic meets electricity (hardware), math meets language (software) and analytical thinking meets creative experimentation. 
+
+
+
+[2020 Fall Course Site](https://sites.google.com/berkeley.edu/des-inv23-spring2020/final-showcase)
+[2019 Summer Course Site](https://sites.google.com/site/desinv23summer2019/)
+[2018 Fall Course Site](https://sites.google.com/site/desinv23/spring2019/assignments/final)

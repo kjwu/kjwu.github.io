@@ -10,6 +10,8 @@ outline: outline_softrobotic.svg
 showVideo: "block"
 video_url: "https://player.vimeo.com/video/293417760?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
+shortTitle: "Soft Robot Instruction"
+description: "DIY Soft Actuator Demo"
 carousel:
 ---
 #### SOFT ROBOT Tutorial ####
