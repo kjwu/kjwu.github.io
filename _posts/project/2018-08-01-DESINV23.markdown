@@ -5,7 +5,7 @@ date:   2018-08-01
 author: "Kuan-Ju Wu"
 categories:
 - teaching
-img:    thumbnail_desinv23.jpg
+img:thumbnail_desinv23.jpg
 outline: outline_desinv23.svg
 showVideo: "block"
 video_url: "https://www.youtube.com/embed/NiUU-0Z71Eg?rel=0&amp;controls=0&amp;showinfo=0"
@@ -59,7 +59,7 @@ DES-INV 23 Creative Programming and Electronics takes a unique approach to teach
 
 
 
-[2020 Fall Course Site](https://sites.google.com/berkeley.edu/des-inv23-spring2020/final-showcase)
+[2020 Fall Course Site (LATEST!)](https://sites.google.com/berkeley.edu/des-inv23-spring2020/final-showcase)
 
 [2019 Summer Course Site](https://sites.google.com/site/desinv23summer2019/)
 
