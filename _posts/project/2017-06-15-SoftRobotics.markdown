@@ -15,7 +15,7 @@ description: "DIY Soft Actuator Demo"
 carousel:
 ---
 #### SOFT ROBOT Tutorial ####
-293417760
+
 An Instructables tutorial for making a Walking/Crawling Soft Robot.
 
 [Instructables Link](https://www.instructables.com/id/Walking-Crawling-Soft-Robot/)

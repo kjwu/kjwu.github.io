@@ -2,10 +2,10 @@
 layout: project
 title:  "DES-INV 23"
 date:   2018-08-01
-author: "Tellart, Mikhail Mansion, Kuan-Ju Wu"
+author: "Kuan-Ju Wu"
 categories:
 - teaching
-img: thumbnail_desinv23.jpg
+img:    thumbnail_desinv23.jpg
 outline: outline_desinv23.svg
 showVideo: "block"
 video_url: "https://www.youtube.com/embed/NiUU-0Z71Eg?rel=0&amp;controls=0&amp;showinfo=0"
@@ -26,9 +26,30 @@ Along the way, we will also look at a variety of strange, whimsical, and beautif
 At the end of the class students will showcase their creations at Jacobs Design Showcase and in a gallery as a curated exhibition.  
 
 
-![img13]({{ site.url }}/assets/img/project/drawingmachine/student8.jpg)
-(Credit: Ryan Ferguson)
+![img13]({{ site.url }}/assets/img/project/desinv23/2019F-1.gif)
+(Credit: Kuan-Ju Wu )
 
+![img14]({{ site.url }}/assets/img/project/desinv23/2019F-2.gif)
+(Credit: Robert Hoogsteden & Tushar Jain )
+
+![img15]({{ site.url }}/assets/img/project/desinv23/2019F-3.gif)
+(Credit: Robert Hoogsteden & Tushar Jain  )
+
+![img16]({{ site.url }}/assets/img/project/desinv23/2019F-4.gif)
+(Credit: Fruity Loops (( Silvia Clara Kim & Scott Numamoto  ))
+
+![img17]({{ site.url }}/assets/img/project/desinv23/2019F-5.gif)
+(Credit:  Enso (Cassidy Mountjoy & Mason Ziedonis))
+
+![img18]({{ site.url }}/assets/img/project/desinv23/2019S-6.gif)
+(Credit: Emily Wang & Rio Hayakawa )
+
+![img19]({{ site.url }}/assets/img/project/desinv23/2019S-7.gif)
+(Credit: Akhil Sharma & Chancellor Tran )
+
+
+![img20]({{ site.url }}/assets/img/project/desinv23/2019S-8.gif)
+(Credit: Ramess Rogers & Soohyun Cho )
 
 Adapting the creative process utilized by the Exploratorium, DES-INV 23 Creative Programming and Electronics explores the Art as a fundamental method of discovery, and aims to inspire curiosity and to acquire new knowledge, skills, and ways of understanding the world. The primary goals of the course are to help students think like artists and build like engineers.
 
@@ -39,5 +60,7 @@ DES-INV 23 Creative Programming and Electronics takes a unique approach to teach
 
 
 [2020 Fall Course Site](https://sites.google.com/berkeley.edu/des-inv23-spring2020/final-showcase)
+
 [2019 Summer Course Site](https://sites.google.com/site/desinv23summer2019/)
+
 [2018 Fall Course Site](https://sites.google.com/site/desinv23/spring2019/assignments/final)
