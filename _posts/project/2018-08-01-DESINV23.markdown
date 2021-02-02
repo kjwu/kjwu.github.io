@@ -6,7 +6,7 @@ author: "Kuan-Ju Wu"
 categories:
 - teaching
 img: thumbnail_desinv23.png
-outline: outline_desinv23.svg
+outline: outline_desinv23-1.svg
 showVideo: "block"
 video_url: "https://www.youtube.com/embed/NiUU-0Z71Eg?rel=0&amp;controls=0&amp;showinfo=0"
 showCarousel: "none"
