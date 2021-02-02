@@ -29,8 +29,8 @@ Over the course of the semester, students learn how to write code and build elec
 
 Along the way, we will also look at a variety of strange, whimsical, and beautiful works created by historical and contemporary artists and technologists, and we will re-think computation from a poetic, provocative perspective.
 
+===============
 
----
 
 At the end of the class students will showcase their creations at Jacobs Design Showcase and in a gallery as a curated exhibition.  
 
