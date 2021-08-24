@@ -4,14 +4,19 @@ title:  "Chocolate Chocolate Add Some Milk"
 date:   2010-03-01
 author: "Kuan-Ju Wu"
 categories:
-- project
+- art
 img: thumbnail_ccam.jpg
 outline: outline_ccam.svg
 showVideo: "block"
 video_url: "https://player.vimeo.com/video/140514460?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
+shortTitle: "CCAM"
+description: "Interactive video art"
+
 ---
 #### Chocolate Chocolate Add Some Milk ####
 
-Chocolate Chocolate Add Some Milk is a game played by one and 4 virtual selves standing in a line. The player starts by doing some moves with in the rhythm of “chocolate chocolate add some milk”.And after the first round the virtual self duplicate the player's move while the  player is creating a new move. And the second virtual self duplicate the first virtual self's move and so on.\r\n\r\n
+![img5]({{ site.url }}/assets/img/project/ccam/ccam.png)
+
+Chocolate Chocolate Add Some Milk is a game played by one and 4 virtual selves standing in a line. The player starts by doing some moves with in the rhythm of “chocolate chocolate add some milk”.And after the first round the virtual self duplicate the player's move while the  player is creating a new move. And the second virtual self duplicate the first virtual self's move and so on.

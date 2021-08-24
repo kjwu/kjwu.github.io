@@ -5,13 +5,16 @@ date:   2016-09-01
 author: "Kuan-Ju Wu, Laila Aukee, James Smalls, Mikhail Mansion"
 tag: "teaching, ioT, nature, storytelling"
 categories:
-- project
+- teaching
 img: thumbnail_iot.jpg
 outline: outline_iot.svg
 showVideo: "none"
 video_url:
 showCarousel: "block"
 carousel:
+shortTitle: "Internet of Trees"
+description: "IOT and storytelling"
+
 
 ---
 #### Sensor Driven Story Telling - Internet of Trees ####

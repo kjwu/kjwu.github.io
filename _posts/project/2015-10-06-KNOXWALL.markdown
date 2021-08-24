@@ -1,0 +1,46 @@
+---
+layout: project
+title:  "Portrait Wall"
+date:   2014-02-01
+realdate:   2015-10-06
+author: "Tellart, Kuan-Ju Wu, Randy Snow"
+categories:
+- tech
+img: thumbnail_knox.JPG
+outline: outline_knox.svg
+showVideo: "none"
+video_url:
+showCarousel: "block"
+carousel:
+- pw1.JPG
+shortTitle: "Knox College - Portrait Wall"
+description: "Multi-Display Image Wall"
+
+---
+#### Knox College - Portrait Wall ####
+
+Role - Technology Lead / Fabricator
+
+Responsibility
+
+- Technology assessment
+- SW/HW Architecture
+- Software development (Pygame on Raspberry Pi)
+- Wiring and Mounting
+- On site install
+- Client communication
+- Project management
+
+Portrait Wall is a photo wall showcasing what campus life is like in Knox College. A collage of historical figure portraits and modern student activities, the wall tells the story of this liberal art school's legacy and how it continues with the young generation. Portrait Wall is powered by multiple raspberry pi single board computers and tv screens embedded in picture frames. When a view touch a category icon from the capacitance sensing panel, the wall update all the displays asynchronously.
+
+
+![img2]({{ site.url }}/assets/img/project/knox/pw2.JPG)
+
+![img2]({{ site.url }}/assets/img/project/knox/pw3.JPG)
+
+![img2]({{ site.url }}/assets/img/project/knox/pw4.JPG)
+
+
+PROJECT PARTNERS:
+Knox College,
+[Tellart](http://tellart.com)

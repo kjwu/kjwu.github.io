@@ -1,0 +1,62 @@
+---
+layout: project
+title:  "Weblab"
+date:   2017-01-01
+realdate: 2012-08-01
+author: "Tellart, Google Creative Lab, B-Reel, Walter Kim, Adam Meyer, Jasper Speicher, Kuan-Ju Wu, Don Nguyen
+, Jay Nutini"
+categories:
+- tech
+img: thumbnail_sketchbot.jpg
+outline: outline_sketchbot.svg
+showVideo: "block"
+video_url: "https://player.vimeo.com/video/114315654?color=ff9933&title=0&byline=0&portrait=0"
+showCarousel: "none"
+carousel:
+shortTitle: "Google - Web Lab"
+description: "Robotics and Interactive Exhibition"
+
+---
+#### Web Lab ####
+
+Role - Technologist
+
+Responsibility
+
+- Sketchbot design and production
+- Exhibition maintenance
+- Client communication
+- On site install
+- Technical documents
+
+
+
+This exhibition about the magic of the modern Web ran for a full year in Science Museum, London. Museum visitors collaborated with millions of online visitors on a series of “experiments” designed to explain how the Web works—and inspire a sense of wonder at how its underlying technology allows us to explore, create and communicate with each other in new ways.
+
+My involvement took place in two part: the build of sketchbot and the exhibition support.
+
+The Sketchbots were originally conceived as one of five experiments devised for an interactive exhibit at the Science Museum, London called Chrome Web Lab. These five experiments were created to demonstrate how modern Web technologies can be used together for purposes that go beyond “normal” webapps.
+
+Web visitors interact with Sketchbots by first taking a photo of their face via a webcam. Software then renders the image into a line drawing. This line drawing is sent to a Sketchbot, which resides at the Science Museum in London, whereupon the Sketchbot draws the visitor's portrait in a sandbox.
+
+One of the original Sketchbots - No.5 is acquired by [Cooper Hewitt National Design Museum](https://collection.cooperhewitt.org/objects/68250943/).
+
+![img0]({{ site.url }}/assets/img/project/sketchbot/w1.jpg)Photography by Andrew Meredith
+![img0]({{ site.url }}/assets/img/project/sketchbot/w2.jpg)Photography by Andrew Meredith
+![img0]({{ site.url }}/assets/img/project/sketchbot/w3.jpg)Photography by Andrew Meredith
+![img0]({{ site.url }}/assets/img/project/sketchbot/w4.jpg)Photography by Andrew Meredith
+![img0]({{ site.url }}/assets/img/project/sketchbot/w5.jpg)Photography by Andrew Meredith
+![img0]({{ site.url }}/assets/img/project/sketchbot/w6.jpg)Photography by Andrew Meredith
+
+Behind the scene:
+![img0]({{ site.url }}/assets/img/project/sketchbot/w7.JPG)
+
+![img0]({{ site.url }}/assets/img/project/sketchbot/w8.JPG)
+
+![img0]({{ site.url }}/assets/img/project/sketchbot/w9.png)
+
+![img0]({{ site.url }}/assets/img/project/sketchbot/w10.JPG)
+
+![img0]({{ site.url }}/assets/img/project/sketchbot/w11.JPG)
+
+![img0]({{ site.url }}/assets/img/project/sketchbot/w12.gif)

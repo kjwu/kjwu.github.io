@@ -1,10 +1,10 @@
 ---
 layout: project
-title:  "Hippo"
+title:  "Snow Hippo"
 date:   2010-04-01
 author: "Kuan-Ju Wu"
 categories:
-- project
+- art
 img: thumbnail_hippo.jpg
 outline: outline_hippo.svg
 showVideo: "none"
@@ -12,9 +12,20 @@ video_url:
 showCarousel: "block"
 carousel:
 - hip1.jpg
-- hip2.jpg
-- hip3.jpg
-- hip4.jpg
-- hip5.jpg
+shortTitle: "Hippo"
+description: "Digital fabrication sculpture"
+
 ---
-#### Hippo ####
+#### Snow Hippo ####
+
+Material: White foam.
+
+![img2]({{ site.url }}/assets/img/project/hippo/hip2.jpg)
+
+![img3]({{ site.url }}/assets/img/project/hippo/hip3.jpg)
+
+![img4]({{ site.url }}/assets/img/project/hippo/hip4.jpg)
+
+![img5]({{ site.url }}/assets/img/project/hippo/hip5.jpg)
+
+![img5]({{ site.url }}/assets/img/project/hippo/397.jpg)

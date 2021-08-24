@@ -4,15 +4,20 @@ title:  "Head Monster Game"
 date:   2010-05-01
 author: "Kuan-Ju Wu"
 categories:
-- project
+- art
 img: thumbnail_headmonstergame.jpg
 outline: outline_headmonstergame.svg
 showVideo: "block"
 video_url: "https://player.vimeo.com/video/140513496?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
+shortTitle: "Head Monster Game"
+description: "Augmented Reality Game"
+
 ---
 #### Head Monster ####
+
+![img0]({{ site.url }}/assets/img/project/headmonstergame/headmonster poster.jpg)
 
 Head Monster is an interactive game that the user uses a face shape control panel to drive a head like small robot. When the robot hit an object (projection), it will eat the object, and the face will change. Some objects represent good some mean bad. The player earns points by eating those good objects and get minus point by eating bad objects. In the limited time the user need to gain the points as high as possible.
 
@@ -23,3 +28,9 @@ Head Monster is an interactive game that the user uses a face shape control pane
 ![img2]({{ site.url }}/assets/img/project/headmonstergame/hg2.jpg)
 
 ![img4]({{ site.url }}/assets/img/project/headmonstergame/hg4.jpg)
+
+![img4]({{ site.url }}/assets/img/project/headmonstergame/PHOTO3.jpg)
+
+![img4]({{ site.url }}/assets/img/project/headmonstergame/PHOTO1.jpg)
+
+![img4]({{ site.url }}/assets/img/project/headmonstergame/PHOTO2.jpg)

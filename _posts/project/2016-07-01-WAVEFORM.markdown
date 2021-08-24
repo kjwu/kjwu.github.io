@@ -1,17 +1,20 @@
 ---
 layout: project
-title:  "Waveform No.2"
+title:  "Waveform No2"
 date:   2016-07-01
 author: "Mikhail Mansion, Kuan-Ju Wu, Fernando Diaz Smith"
 tag: "art, kinetic sculpture"
 categories:
-- project
+- art
 img: thumbnail_waveform.jpg
 outline: outline_waveform.svg
 showVideo: "block"
 video_url: "https://player.vimeo.com/video/178129581?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
+shortTitle: "Waveform No.2"
+description: "Kinetic sculpture"
+
 ---
 #### Waveform No.2 ####
 
@@ -19,8 +22,17 @@ The waveform series is an ongoing body of creative research focused on building 
 sculptures that explore new methods for making ecologically-engaging art, and which seek to enhance
 environmental sensibility.
 
+As a general design framework, we use Miller’s definition for a living system [1], as well as other aspects of systems and control theory. Each part of the artwork can thus be described in general terms of its inputs, outputs and throughputs—pathways by which we connect environment to experience.
+
+![img0]({{ site.url }}/assets/img/project/waveform/system.png)
+
+We chose to create sculptural waveforms as a thematic object because 1) it represents a captivating sculptural form when set in motion; 2) because many dynamic signal transmissions emanating from the physical forces of nature, over time, can be described as energy-waves; and 3) because the movement of energy, matter and information, is a framework for any living ecosystem. Through an iterative design process, each new generation of our artwork seeks to advance the interplay between material, movement, and space, while investigating systems of human-to-nature, and nature-to-human interaction. But using art as a research vehicle, we
+are also exploring cultural definitions of nature itself, and asking: if by exposing humans to more environmental sensory inputs, can we actually cultivate new consciousness,
+care and appreciation for nature?
+
+[1]James G. Miller. 1978. Living systems.
+
 Material: Sheer voile fabric, light aluminum frames, pulleys, stepper motors, code.
-![img8]({{ site.url }}/assets/img/project/waveform/architecture.png)
 
 ![img1]({{ site.url }}/assets/img/project/waveform/wf1.gif)
 
@@ -35,3 +47,5 @@ Material: Sheer voile fabric, light aluminum frames, pulleys, stepper motors, co
 ![img6]({{ site.url }}/assets/img/project/waveform/wf6.gif)
 
 ![img7]({{ site.url }}/assets/img/project/waveform/wf7.gif)
+
+![img8]({{ site.url }}/assets/img/project/waveform/architecture.png)

@@ -4,13 +4,16 @@ title:  "Drawing Machine"
 date:   2015-08-01
 author: "Tellart, Mikhail Mansion, Kuan-Ju Wu"
 categories:
-- project
+- teaching
 img: thumbnail_drawingmachine.jpg
 outline: outline_drawingmachine.svg
 showVideo: "block"
 video_url: "https://www.youtube.com/embed/3_edRsXMl08?rel=0&amp;controls=0&amp;showinfo=0"
 showCarousel: "none"
 carousel:
+shortTitle: "Drawing Machine"
+description: "Physical Computing"
+
 ---
 #### Drawing Machine ####
 

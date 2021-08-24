@@ -1,0 +1,38 @@
+---
+layout: project
+title:  "Newborn"
+date:   2018-08-11
+author: "Kuan-Ju Wu"
+categories:
+- art
+img: thumbnail_newborn.jpg
+outline: outline_newborn.svg
+showVideo: "block"
+video_url: "https://player.vimeo.com/video/285583471?color=ff9933&title=0&byline=0&portrait=0"
+showCarousel: "none"
+carousel:
+shortTitle: "Newborn"
+description: "Pneumatic sculpture"
+
+---
+#### Natura Machina: Newborn ####
+
+Moss, silicone rubber, electronics 12” x 12” x 1”
+
+A new species was born. The world of Alexa and Millennial Homo Sapiens had vanished. Hidden forces were transforming the Earth's climate, with ameliorative consequences for the American landscape. Natura Machina - a hybrid Symbiosis between machine and nature.
+
+Newborn is an interactive pneumatic sculpture. It simulates a new kind life form - a machine and nature combined.
+The movement of the sculpture mimics a baby's breathing pattern - fast and shallow. But when someone touches it, the breathing becomes slow and deep, just like calming the baby.
+
+
+![img1]({{ site.url }}/assets/img/project/newborn/nb1.jpg)
+
+![img2]({{ site.url }}/assets/img/project/newborn/nb2.jpg)
+
+![img3]({{ site.url }}/assets/img/project/newborn/nb3.png)
+
+![img4]({{ site.url }}/assets/img/project/newborn/nb4.png)
+
+Pumping Mechanism
+
+![img5]({{ site.url }}/assets/img/project/newborn/nb5.jpg)

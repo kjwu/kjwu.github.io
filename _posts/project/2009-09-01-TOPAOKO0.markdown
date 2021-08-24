@@ -4,20 +4,34 @@ title:  "TOPAOKO"
 date:   2009-09-01
 author: "Kuan-Ju Wu"
 categories:
-- project
+- art
 img: thumbnail_topaoko.jpg
 outline: outline_topaoko.svg
 showVideo: "block"
 video_url: "https://player.vimeo.com/video/138579016?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "none"
 carousel:
+shortTitle: "TOPAOBO"
+description: "Electronics construction kit"
+
 ---
 #### TOPAOKO ####
 
 ![img1]({{ site.url }}/assets/img/project/topaoko/topaoko1.jpg)
 
-TOPAOKO is an interactive construction kit that encourages experimentation and play with pieces of laser cut hardboard based, embedded circuit, kit. We describe each component of the kit and examples of constructions built with it.
+TOPAOKO is a new generation interactive construction kit intended for high school students and college freshmen. Students in these ages are creative and have enough experience making things. Students can learn electronics and make toys while playing with TOPAOKO. It allows the students not only to create buildings or machines, but also to make the kit themselves.
+
+![img2]({{ site.url }}/assets/img/project/topaoko/topaoko3.jpg)
+
+The name of TOPAOKO comes from Ch’ing dynasty in China, which means the curio boxes with surprising twists and hidden construction for emperors to store their collections of prized objects or treasures. In this project students can download our TOPAOKO pdf pattern files and use the laser cutter to print them out; also, they can design their own patterns in graphic design or CAD software such as Adobe Illustrator or Rhino. TOPAOKO is a construction kit that allows students to build not only spatial structures but also a “behaving machine” [1]. We introduce how to embed the electronic components in the modular TOPAOKO kit. Also, we briefly describe some TOPAOKO constructions.
+
+[1] Fischer, G. and Lemke, A.C. Construction Kits and Design Environments: Steps Toward Human Problem - Domain. ACM SIGCHI Bulletin 20, 1(1988), 81
+
+TOPAOKO is accepted to present at ACM Conference on Human Factors in Computing Systems at 2010.
+The full paper can be viewed [here]({{ site.url }}/assets/img/project/topaoko/wip292-wu.pdf)
 
 ![img2]({{ site.url }}/assets/img/project/topaoko/topaoko2.jpg)
 
 There are four elements in a TOPAOKO set: Chi, Li, Hsin, Guang. Each element represents a kind of electronic component. Chi means power, which, Li means force, Hsin means mind, and Guang means light. Just like a human being or a computer which are consists of power, input, output, and the processor, TOPAOKO has four basic function boxes which enable the players to create infinite kinds of combination.
+
+![img1]({{ site.url }}/assets/img/project/topaoko/chi-topaoko-a4.jpg)

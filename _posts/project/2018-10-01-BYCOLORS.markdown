@@ -1,0 +1,49 @@
+---
+layout: project
+title:  "byColors"
+date:   2011-09-01
+realdate:   2018-12-01
+author: "Hsiao-Han Ni 倪筱涵, Kuan-Ju Wu, Chih-Kang Hsu 許志綱"
+categories:
+- tech
+img: thumbnail_bycolors.jpg
+outline: outline_bycolors.svg
+showVideo: "block"
+video_url: "https://player.vimeo.com/video/443216624?color=ff9933&title=0&byline=0&portrait=0"
+#video_url: "https://player.vimeo.com/video/165411113?color=ff9933&title=0&byline=0&portrait=0"
+showCarousel: "none"
+carousel:
+shortTitle: "タイム堂 - byColors"
+description: "Interactive store front experience"
+
+---
+#### byCOLORS Kyoto meet Taiwan ####
+
+Role - Technologist
+
+Responsibility
+
+- Color sensor build
+- Concept ideation
+- Interactive display software (Openframeworks)
+- Porject management
+- Client communication
+
+To celebrate Kyoto based coffee and shop タイム堂's 2 year anniversary, I partnered with designer Hsiao-Han Ni and photographer Chih-Kang Hsu to create an interactive game that connect Kyoto and Taiwan by colors. The system uses AS73211 True color sensor to trigger a rear projected animation. The visitor can play the game by holding a colored woodblock to the screen and it triggers the video and images of where this particular color can be found in both Kyoto and Taiwan. The experience was simple but quite poetic and beautiful.
+
+２周年イベントの期間、ファサードで遊べる「Tsunagu Vision」を少しだけご紹介します。
+京都の色キューブをセンサーにタッチすると、それと似た色を、60枚の台湾の景色からコンピュータがランダムに選んでくれます。
+遊びながら京都から台湾をヴァーチャルトリップできる楽しいゲームプログラムです。
+
+
+![img2]({{ site.url }}/assets/img/project/byColors/bc3.gif)
+
+![img2]({{ site.url }}/assets/img/project/byColors/bc0.jpg)
+
+![img2]({{ site.url }}/assets/img/project/byColors/bc1.jpg)
+
+![img2]({{ site.url }}/assets/img/project/byColors/bc2.jpg)
+
+PROJECT PARTNERS:
+主催 : タイム堂・洛景工房株式会社
+協賛 : 台湾観光協会　大阪事務所
