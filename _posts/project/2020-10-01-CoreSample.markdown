@@ -8,7 +8,7 @@ categories:
 img: thumbnail_coreSample2.png
 outline: outline_coreSample2.svg
 showVideo: "block"
-video_url: "https://player.vimeo.com/video/484997660?color=ff9933&title=0&byline=0&portrait=0"
+video_url: "https://www.youtube.com/embed/1JgEjDGElcs?rel=0&amp;controls=0&amp;showinfo=0"
 showCarousel: "none"
 carousel:
 shortTitle: "Core Sample"
@@ -19,7 +19,7 @@ description: "Kinetic Sculpture in Nature"
 
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c1.png)
-核芯樣本提案模擬圖
+核芯樣本提案模擬圖 Rendering of Core Sample Proposal
 
 By the year 2300, all of the world’s biomes have endured chaotic shifts in climate: changing weather patterns and decades of mass extinction. The piece we are proposing speculates about a portal into the future, where natural life cohabitates with new, exotic lifeforms that emerge after the holocene, and where the balance of life depends on a single, elemental seed.
  
@@ -54,7 +54,7 @@ By the year 2300, all of the world’s biomes have endured chaotic shifts in cli
 對於這樣可悲的現實，「核芯樣本」不只是表達批判，更積極地探索可能存在的一線希望。這塊來自另一個時空的小土丘裡，有著來自外星球的發光花朵、搖擺伸縮的蘑菇、以及漂浮在中心的神聖種子。「核芯樣本」是一個獨立的生態系統 : 所有在這裡的植物與真菌都能夠從寶貴種子得到養分，相對地提供保護的機制，而這反重力的種子力量強大到能將地表向其提升拉近。 從這肚臍般的土丘中散出光與霧，帶給觀者一種超現實但明亮的生命感受。
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c2.jpg)
-拍攝最終版的影片前，我們先在加州大學柏克萊分校的校園裡測試安裝，以了解所需的器材與時間。期間遇到許多學生好奇經過，剛好形成一個小型展，大家圍坐在土丘的周圍分享感想。
+拍攝最終版的影片前，我們先在加州大學柏克萊分校的校園裡測試安裝，以了解所需的器材與時間。期間遇到許多學生好奇經過，剛好形成一個小型展，大家圍坐在土丘的周圍分享感想。The test install in UC Berkeley Campus
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c3.jpg)
 上方的樹木剛好形成一個拱形，罩著核芯樣本
@@ -71,19 +71,23 @@ By the year 2300, all of the world’s biomes have endured chaotic shifts in cli
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c4.jpg)
 高雄駁二特區2020 DigiWave 無條件進位｜CeilToInt(); 數位潮科技藝術展
+Mini version of Core Sample shown at DigiWave Art and Tech Festival in Kaohsiung, Taiwan
 
 
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c5.jpg)
 高雄駁二特區2020 DigiWave 無條件進位｜CeilToInt(); 數位潮科技藝術展
+Mini version of Core Sample shown at DigiWave Art and Tech Festival in Kaohsiung, Taiwan
 
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c6.JPG)
-
 科幻原型實驗創作-文化部科技藝術實驗創新及輔導推動計畫階段性成果展實際佈展情況
+Mini version of Core Sample shown at C-Lab Taipei, Taiwan
+
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c7.jpg)
 科幻原型實驗創作-文化部科技藝術實驗創新及輔導推動計畫階段性成果展實際佈展情況
+Mini version of Core Sample shown at C-Lab Taipei, Taiwan
 
 
 
