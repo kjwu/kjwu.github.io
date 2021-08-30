@@ -31,4 +31,4 @@ Through a modulation of heat, light and motion, Soundform No.1 creates an ever-c
 
 ![img3]({{ site.url }}/assets/img/project/soundformNo1/s2.JPG)
 
-![img4]({{ site.url }}/assets/img/project/soundformNo1/s1.JPG)
+![img4]({{ site.url }}/assets/img/project/soundformNo1/s1.jpg)
