@@ -8,7 +8,7 @@ categories:
 img: thumbnail_coreSample2.png
 outline: outline_coreSample2.svg
 showVideo: "block"
-video_url: "https://www.youtube.com/embed/1JgEjDGElcs?rel=0&amp;controls=0&amp;showinfo=0"
+video_url: "https://www.youtube.com/embed/1JgEjDGElcs?rel=0&amp;controls=1&amp;showinfo=0"
 showCarousel: "none"
 carousel:
 shortTitle: "Core Sample"
@@ -19,8 +19,7 @@ description: "Kinetic Sculpture in Nature"
 
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c1.png)
-
-核芯樣本提案模擬圖 Rendering of Core Sample Proposal
+*核芯樣本提案模擬圖 Rendering of Core Sample Proposal*
 
 By the year 2100, all of the world’s biomes have endured chaotic shifts in climate: rising sea levels, changing weather patterns, and decades of mass extinction have rendered Earth less hospitable for more living species than during any era since the last ice age (IPCC 2018). In “Core Sample,” we respond to several speculative narratives of ecological collapse, like E. E. Cummings’ poem “pity this busy monster, manunkind,” and Jean Giono’s allegory “L'homme qui plantait des arbres,” imagining a portal that opens upon the future. In a distant time and place, hundreds of years beyond our catastrophic moment, natural life cohabitates with the new and exotic lifeforms that emerge after the holocene. Unlike typical core samples—archives of deep time that reveal the world’s intractable past—our core sample summons a future of fragility and potential, where the balance of life depends on a single, elemental seed.
 
@@ -28,13 +27,13 @@ By the year 2100, all of the world’s biomes have endured chaotic shifts in cli
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c2.jpg)
 
-(拍攝最終版的影片前，我們先在加州大學柏克萊分校的校園裡測試安裝，以了解所需的器材與時間。期間遇到許多學生好奇經過，剛好形成一個小型展，大家圍坐在土丘的周圍分享感想。The test install in UC Berkeley Campus)
+*(拍攝最終版的影片前，我們先在加州大學柏克萊分校的校園裡測試安裝，以了解所需的器材與時間。期間遇到許多學生好奇經過，剛好形成一個小型展，大家圍坐在土丘的周圍分享感想。The test install in UC Berkeley Campus)*
 
 
 Responding to  “Core Sample” illustrates the power of a single seed to redeem an environment and give new life to even the most impoverished wasteland.
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c3.jpg)
-上方的樹木剛好形成一個拱形，罩著核芯樣本
+*上方的樹木剛好形成一個拱形，罩著核芯樣本*
 
 
 The primary technical requirement for displaying “Core Sample” is a constant power source. It needs one 120V 15A circuit (or 230V 10A) or sustainable energy source such as solar panels and batteries if connection to the grid is not available. The footprint of the piece is a diameter and height of two meters each, so viewers can walk around it. It needs a hanging structure above for hanging the top ring light (less than 3kg)
@@ -43,24 +42,24 @@ We have also shown “Core Sample” in the museum context. The Exhibition in 20
 
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c4.jpg)
-高雄駁二特區2020 DigiWave 無條件進位｜CeilToInt(); 數位潮科技藝術展
-Mini version of Core Sample shown at DigiWave Art and Tech Festival in Kaohsiung, Taiwan
+*高雄駁二特區2020 DigiWave 無條件進位｜CeilToInt(); 數位潮科技藝術展
+Mini version of Core Sample shown at DigiWave Art and Tech Festival in Kaohsiung, Taiwan*
 
 
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c5.jpg)
-高雄駁二特區2020 DigiWave 無條件進位｜CeilToInt(); 數位潮科技藝術展
-Mini version of Core Sample shown at DigiWave Art and Tech Festival in Kaohsiung, Taiwan
+*高雄駁二特區2020 DigiWave 無條件進位｜CeilToInt(); 數位潮科技藝術展
+Mini version of Core Sample shown at DigiWave Art and Tech Festival in Kaohsiung, Taiwan*
 
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c6.JPG)
-科幻原型實驗創作-文化部科技藝術實驗創新及輔導推動計畫階段性成果展實際佈展情況
-Mini version of Core Sample shown at C-Lab Taipei, Taiwan
+*科幻原型實驗創作-文化部科技藝術實驗創新及輔導推動計畫階段性成果展實際佈展情況
+Mini version of Core Sample shown at C-Lab Taipei, Taiwan*
 
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c7.jpg)
-科幻原型實驗創作-文化部科技藝術實驗創新及輔導推動計畫階段性成果展實際佈展情況
-Mini version of Core Sample shown at C-Lab Taipei, Taiwan
+*科幻原型實驗創作-文化部科技藝術實驗創新及輔導推動計畫階段性成果展實際佈展情況
+Mini version of Core Sample shown at C-Lab Taipei, Taiwan*
 
 
 “Core Sample” is an on-going research project. We want to see how technology and nature can develop a symbiosis relationship, thus we are not only interested in having the piece sitting in nature for a long period of time, but also install it in different natural environments such as rain forest or desert. We are especially interested in how native species react to the appearance of “Core Sample,” growing over and around it ***
