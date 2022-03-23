@@ -43,9 +43,15 @@ Responsibility
 
 Behind the scene:
 
-In the hardware side there are about 15 displays embedded through out the vehicle, including hight lumen projectors, compact pocket projectors, flexible led screens, tablets, led stripes etc. There are also moving mechanism such as haptic actuators and the start button that we talked about earlier.
+In the hardware side there are about 15 displays embedded through out the vehicle, including 3 hight lumen projectors, 2 compact pocket projectors, flexible led screens, tablets, led stripes etc. There are also moving mechanism such as haptic actuators and the start button that we talked about earlier.
 
-![img3]({{ site.url }}/assets/img/project/concept-i/c3.png)
+
+For the blind spot alert system, we use a mirror to reflect the projection from a hidden projector.
+
+![img3]({{ site.url }}/assets/img/project/concept-i/c9.jepg)
+
+![img3]({{ site.url }}/assets/img/project/concept-i/c10.jepg)
+
 
 A lot of labor goes into physically solder and wire the LEDs, there are thousands of LED laid on the wheel hub,
 
