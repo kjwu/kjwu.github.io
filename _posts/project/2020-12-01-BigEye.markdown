@@ -7,16 +7,17 @@ categories:
 - art
 img: thumbnail_bigEye.png
 outline: outline_bigEye.svg
-showCarousel: "none"
+showVideo: "none"
+video_url:
+showCarousel: "block"
 carousel:
+- be1.JPG
 shortTitle: "Big Eye"
 description: "DIY Projection Microscope"
 
 ---
 #### Big Eye ####
 
-
-![img1]({{ site.url }}/assets/img/project/bigEye/be1.JPG)
 
 One day someone donated an assembly of a old projector lens to the lab. It was in a very good condition but I wasn't sure what to do with it so it has been sitting on my desk for a while. 
 
