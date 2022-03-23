@@ -4,7 +4,7 @@ title:  "Big Eye"
 date:   2020-12-01
 author: "Kuan-Ju Wu"
 categories:
-- art
+- tech
 img: thumbnail_bigEye.png
 outline: outline_bigEye.svg
 showVideo: "none"
