@@ -1,0 +1,47 @@
+---
+layout: project
+title:  "Big Eye"
+date:   2020-12-01
+author: "Kuan-Ju Wu"
+categories:
+- art
+img: thumbnail_bigEye.png
+outline: outline_bigEye.svg
+showCarousel: "none"
+carousel:
+shortTitle: "Big Eye"
+description: "DIY Projection Microscope"
+
+---
+#### Big Eye ####
+
+
+![img1]({{ site.url }}/assets/img/project/bigEye/be1.JPG)
+
+One day someone donated an assembly of a old projector lens to the lab. It was in a very good condition but I wasn't sure what to do with it. Thinking about the concept of a projector which is to turn something small into a big picture, I decided to build a projection microscope. It turned to be a fun DIY project and a good educational tool for discovering nature.
+
+Materials:
+
+1x Aluminum Handle Bar
+1x 5k Lumen 50W LED
+1x Old Minolta Projector Lens
+1x Sheet Metal
+1x Laser Cut Acrylic/Wood
+
+![img2]({{ site.url }}/assets/img/project/bigEye/be2-info.jpg)
+
+![img2]({{ site.url }}/assets/img/project/bigEye/be3.JPG)
+
+![img2]({{ site.url }}/assets/img/project/bigEye/be4.JPG)
+
+![img2]({{ site.url }}/assets/img/project/bigEye/be-bon.gif)
+
+
+
+
+
+
+
+
+
+
