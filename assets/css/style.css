@@ -54,6 +54,12 @@ img {
 	max-width: 100%;
 }
 
+
+img.animated-gif{
+	height: auto;
+	max-width: 100%;
+}
+
 ul {
     margin-left: 0;
     padding-left: 20px;
