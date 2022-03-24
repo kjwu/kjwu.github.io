@@ -2,6 +2,7 @@
 layout: project
 title:  "Robbbutterfly"
 date:   2011-06-01
+realdate:	2011-06-01
 author: "Kuan-Ju Wu, Eric Brockmeyer"
 categories:
 - art

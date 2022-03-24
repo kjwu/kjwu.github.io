@@ -1,7 +1,8 @@
 ---
 layout: project
 title:  "Frog-o-Lily"
-date:   2022-01-07
+date:		2022-01-07
+realdate:	2022-01-07
 author: "Kuan-Ju Wu"
 categories:
 - art

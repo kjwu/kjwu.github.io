@@ -1,7 +1,8 @@
 ---
 layout: project
 title:  "DES-INV 23"
-date:   2018-08-01
+date:  		2018-08-01
+realdate:	2018-08-01
 author: "Kuan-Ju Wu"
 categories:
 - teaching

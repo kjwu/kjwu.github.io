@@ -1,7 +1,8 @@
 ---
 layout: project
 title:  "Newborn"
-date:   2018-08-11
+date:   	2018-08-11
+realdate:	2018-08-11
 author: "Kuan-Ju Wu"
 categories:
 - art

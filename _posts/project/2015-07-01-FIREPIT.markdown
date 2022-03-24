@@ -2,6 +2,7 @@
 layout: project
 title:  "Fire Pit"
 date:   2015-07-01
+realdate:	2015-07-01
 author: "Kuan-Ju Wu"
 categories:
 - art

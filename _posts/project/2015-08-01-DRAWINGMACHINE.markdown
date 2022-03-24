@@ -2,6 +2,7 @@
 layout: project
 title:  "Drawing Machine"
 date:   2015-08-01
+realdate:	2015-08-01
 author: "Tellart, Mikhail Mansion, Kuan-Ju Wu"
 categories:
 - teaching

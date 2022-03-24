@@ -2,6 +2,7 @@
 layout: project
 title:  "Motion Sketch"
 date:   2009-09-01
+realdate:	2009-09-01
 author: "Kuan-Ju Wu"
 tag: "robotics"
 categories:

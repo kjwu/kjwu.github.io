@@ -1,7 +1,8 @@
 ---
 layout: project
 title:  "Signs of Life: Forest"
-date:   2019-12-07
+date:   	2019-12-07
+realdate:	2019-12-07	
 author: "Kuan-Ju Wu, Adam Hutz"
 categories:
 - art

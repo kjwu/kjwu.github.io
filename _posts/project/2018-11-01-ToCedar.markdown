@@ -1,7 +1,8 @@
 ---
 layout: project
 title:  "To Cedar"
-date:   2018-11-01
+date:   	2018-11-01
+realdate:	2018-11-01
 author: "Sungjae Lee, Kuan-Ju Wu"
 categories:
 - art

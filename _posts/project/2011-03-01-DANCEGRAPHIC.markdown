@@ -2,6 +2,7 @@
 layout: project
 title:  "Dance Graphic"
 date:   2011-03-01
+realdate:	2011-03-01
 author: "Kuan-Ju Wu"
 categories:
 - art

@@ -1,7 +1,8 @@
 ---
 layout: project
 title:  "Soft Robot Tutorial"
-date:   2017-06-15
+date:   	2017-06-15
+realdate:	2017-06-15
 author: "Kuan-Ju Wu, Yasuaki Kakehi Lab"
 categories:
 - art

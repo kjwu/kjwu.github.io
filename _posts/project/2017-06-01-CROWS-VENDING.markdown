@@ -1,7 +1,8 @@
 ---
 layout: project
 title:  "CROWS VENDING MACHINE"
-date:   2017-06-01
+date:   	2017-06-01
+realdate:	2017-06-01
 author: "Kuan-Ju Wu, Yasuaki Kakehi Lab"
 categories:
 - art

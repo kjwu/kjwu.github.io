@@ -2,6 +2,7 @@
 layout: project
 title:  "Robobug"
 date:   2011-08-01
+realdate:	2011-08-01
 author: "Kuan-Ju Wu, Eric Brockmeyer"
 categories:
 - teaching

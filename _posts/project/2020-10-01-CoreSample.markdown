@@ -1,7 +1,8 @@
 ---
 layout: project
 title:  "Core Sample"
-date:   2020-10-01
+date:   	2020-10-01
+realdate:	2020-10-01
 author: "Kuan-Ju Wu, Adam Hutz, Tina Piracci, Barrak Darweesh"
 categories:
 - art

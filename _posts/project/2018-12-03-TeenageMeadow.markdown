@@ -1,7 +1,8 @@
 ---
 layout: project
 title:  "Teenage Meadow"
-date:   2018-12-03
+date:   	2018-12-03
+realdate:	2018-12-03
 author: "Kuan-Ju Wu, Andrew McGregor"
 categories:
 - art

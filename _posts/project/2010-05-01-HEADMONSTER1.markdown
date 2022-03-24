@@ -2,6 +2,7 @@
 layout: project
 title:  "Head Monster"
 date:   2010-05-01
+realdate:	2010-05-01
 author: "Kuan-Ju Wu"
 categories:
 - art

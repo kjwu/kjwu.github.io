@@ -2,6 +2,7 @@
 layout: project
 title:  "GIFFI"
 date:   2011-01-01
+realdate:	2011-01-01
 author: "Kuan-Ju Wu"
 categories:
 - art

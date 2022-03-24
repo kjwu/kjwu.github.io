@@ -1,7 +1,8 @@
 ---
 layout: project
 title:  "Soundform No.1"
-date:   2019-09-03
+date:   	2019-09-03
+realdate:	2019-09-03
 author: "Yasuaki Kakehi, Mikhail Mansion, Kuan-Ju Wu"
 categories:
 - art

@@ -2,6 +2,7 @@
 layout: project
 title:  "Chocolate Chocolate Add Some Milk"
 date:   2010-03-01
+realdate:	2010-03-01
 author: "Kuan-Ju Wu"
 categories:
 - art

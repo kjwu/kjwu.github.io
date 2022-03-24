@@ -2,6 +2,7 @@
 layout: project
 title:  "Color Melody"
 date:   2013-07-01
+realdate:	2013-07-01
 author: "Meng-Ting, Kao, Kuan-Ju Wu"
 categories:
 - art

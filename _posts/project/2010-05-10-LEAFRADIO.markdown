@@ -2,6 +2,7 @@
 layout: project
 title:  "Leaf Radio"
 date:   2010-05-10
+realdate:	2010-05-10
 author: "Kuan-Ju Wu"
 categories:
 - art

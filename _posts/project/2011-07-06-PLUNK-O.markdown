@@ -2,6 +2,7 @@
 layout: project
 title:  "Plunk O"
 date:   2011-07-06
+realdate:	2011-07-06
 author: "Kuan-Ju Wu, Eric Brockmeyer"
 categories:
 - art
