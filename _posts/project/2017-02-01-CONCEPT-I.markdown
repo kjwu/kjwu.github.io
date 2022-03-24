@@ -48,9 +48,9 @@ In the hardware side there are about 15 displays embedded through out the vehicl
 
 For the blind spot alert system, we use a mirror to reflect the projection from a hidden projector.
 
-![img3]({{ site.url }}/assets/img/project/concept-i/c9.jepg)
+![img3]({{ site.url }}/assets/img/project/concept-i/c9.jpeg)
 
-![img3]({{ site.url }}/assets/img/project/concept-i/c10.jepg)
+![img3]({{ site.url }}/assets/img/project/concept-i/c10.jpeg)
 
 
 A lot of labor goes into physically solder and wire the LEDs, there are thousands of LED laid on the wheel hub,
