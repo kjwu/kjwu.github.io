@@ -59,11 +59,11 @@ Behind the Scene:
 
 ![img1]({{ site.url }}/assets/img/project/plantSonification/making1.gif)
 
-![img1]({{ site.url }}/assets/img/project/plantSonification/making3.gif)
 
 ![img1]({{ site.url }}/assets/img/project/plantSonification/making4.gif)
 
 
+![img1]({{ site.url }}/assets/img/project/plantSonification/making3.gif)
 
 
 
