@@ -26,15 +26,15 @@ Collabrated with the electronic musician [Nick Tsai](https://linktr.ee/nicktsai1
 
 In addition to the plant sensor, a set of audio-triggered LED driver module was developed for the Plant Sonification Show at @mugeneration191 Cafe in Chiayi, Taiwan.
 
-![img1]({{ site.url }}/assets/img/project/plantSonification/ps2.jpeg)
-![img1]({{ site.url }}/assets/img/project/plantSonification/ps3.jpeg)
-![img1]({{ site.url }}/assets/img/project/plantSonification/ps4.jpeg)
-![img1]({{ site.url }}/assets/img/project/plantSonification/ps5.jpeg)
-![img1]({{ site.url }}/assets/img/project/plantSonification/ps6.jpeg)
-![img1]({{ site.url }}/assets/img/project/plantSonification/ps7.jpeg)
-![img1]({{ site.url }}/assets/img/project/plantSonification/ps8.jpeg)
-![img1]({{ site.url }}/assets/img/project/plantSonification/ps9.jpeg)
-![img1]({{ site.url }}/assets/img/project/plantSonification/ps11.jpeg)
+![img1]({{ site.url }}/assets/img/project/plantSonification/ps2.jpg)
+![img1]({{ site.url }}/assets/img/project/plantSonification/ps3.jpg)
+![img1]({{ site.url }}/assets/img/project/plantSonification/ps4.jpg)
+![img1]({{ site.url }}/assets/img/project/plantSonification/ps5.jpg)
+![img1]({{ site.url }}/assets/img/project/plantSonification/ps6.jpg)
+![img1]({{ site.url }}/assets/img/project/plantSonification/ps7.jpg)
+![img1]({{ site.url }}/assets/img/project/plantSonification/ps8.jpg)
+![img1]({{ site.url }}/assets/img/project/plantSonification/ps9.jpg)
+![img1]({{ site.url }}/assets/img/project/plantSonification/ps11.jpg)
 *Photo credit: 林祐任,王人傑 @jayajaj, Yvonne Lai*
 
 
