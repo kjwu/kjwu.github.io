@@ -9,7 +9,7 @@ categories:
 img: thumbnail_plantSonification.png
 outline: outline_plantSonification.svg
 showVideo: "block"
-video_url: "https://www.youtube.com/embed/dHchx3v2ma8?rel=0&amp;controls=1&amp;showinfo=0"
+video_url: "https://www.youtube.com/embed/d3UkOYbt9eE?rel=0&amp;controls=1&amp;showinfo=0"
 showCarousel: "none"
 carousel:
 shortTitle: "Plant Sonification"
