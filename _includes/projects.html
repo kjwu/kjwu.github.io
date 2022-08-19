@@ -4,46 +4,19 @@
   <div class="intro">
     Hi! My name is Kuan-Ju Wu and I'm a creative technologist and new media artist.
     <br />
+    I design devices and narratives at the interaction of art, technology and ecology. 
+    For the past 10 years, I have been active in experiencial design industry (Tellart), HCI research and teaching (UC Berkeley), and new media art. My strengths are prototyping with both hardware and software, material exploration, and concept development. 
 
-    I love building interactive installation and tangible intefaces that connect people to each other and Nature.
+    Currently I'm interested in 3 things: 
+    1. Developing a library of morphing mechanism with soft materials for my creative practices. 
+    2. Creating speculative stories about the symbiotic relationship between human, machine and nature.
+    3. Building playful interactive experiences that sparks curiousity, raises ecological sensitivity, or cultivate joy in our daily life.
+
+    Please feel free to reach me for a chat or collabration!
     <br />
 
-    Please feel free to contact me for consulting or collabration!
   </div>
   <br />
-
-  <br />
-  <h4 class="a1">&nbspExperiential Design and Technology</h4>
-  <br />
-
-    <div class="work-centered">
-        {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
-        <div class="recentitems work">
-            {% for project in site.categories['tech'] limit:include.limit %}
-                <div class="work-item graphic-design">
-                    <div class="he-wrap tpl6">
-                    <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
-                        <div class="he-view">
-                          <a class="linkText" href="{{  project.url | prepend: site.baseurl }}">
-                            <div class="bg a0" data-animate="fadeIn">
-                                <!-- <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3> -->
-                                <img class="outline" src = "{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.outline }}" alt="">
-                                <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3>
-
-                                <!-- <a data-rel="prettyPhoto" href="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a> -->
-                                <!-- <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
-                            </div><!-- he bg -->
-                          </a>
-                        </div><!-- he view -->
-                    </div><!-- he wrap -->
-
-                    <div class="shortTitle">{{project.shortTitle}}</div>
-                    <div class="description">{{project.description}}</div>
-
-                </div><!-- end col-12 -->
-            {% endfor %}
-        </div><!-- work -->
-    </div><!-- work container -->
 
 
     <br />
@@ -78,6 +51,39 @@
           </div><!-- work -->
       </div><!-- work container -->
 
+
+  <br />
+  <h4 class="a1">&nbspExperiential Design and Technology</h4>
+  <br />
+
+    <div class="work-centered">
+        {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
+        <div class="recentitems work">
+            {% for project in site.categories['tech'] limit:include.limit %}
+                <div class="work-item graphic-design">
+                    <div class="he-wrap tpl6">
+                    <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
+                        <div class="he-view">
+                          <a class="linkText" href="{{  project.url | prepend: site.baseurl }}">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <!-- <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3> -->
+                                <img class="outline" src = "{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.outline }}" alt="">
+                                <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3>
+
+                                <!-- <a data-rel="prettyPhoto" href="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a> -->
+                                <!-- <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
+                            </div><!-- he bg -->
+                          </a>
+                        </div><!-- he view -->
+                    </div><!-- he wrap -->
+
+                    <div class="shortTitle">{{project.shortTitle}}</div>
+                    <div class="description">{{project.description}}</div>
+
+                </div><!-- end col-12 -->
+            {% endfor %}
+        </div><!-- work -->
+    </div><!-- work container -->
 
   <br />
   <h4 class="a1">&nbspTeaching</h4>
