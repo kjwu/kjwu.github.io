@@ -14,7 +14,7 @@ showCarousel: "block"
 carousel:
 - cv1.jpg
 shortTitle: "Crows Vending Machine"
-description: "Animal computer interfacet"
+description: "Animal computer interface"
 
 
 ---

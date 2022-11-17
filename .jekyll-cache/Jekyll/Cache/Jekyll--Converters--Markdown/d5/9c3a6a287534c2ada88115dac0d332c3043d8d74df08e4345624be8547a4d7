@@ -1,0 +1,29 @@
+I"�<h4 id="balance-table">Balance Table</h4>
+
+<p>Role - Technologist</p>
+
+<p>Responsibility</p>
+
+<ul>
+  <li>LED Control Firmware</li>
+  <li>Visualization Software</li>
+  <li>Audio Signal Processing</li>
+  <li>On site installation</li>
+</ul>
+
+<p><em>“Have you read the book Quiet by Susan Cain? When I did, I was stuck by the insight that the introverts and extroverts of an organization have the SAME amount of good ideas, but often the introverts’ ideas are drowned out and suppressed by the extroverts. A professional facilitator in meetings is effective but expensive, so why not embed a facilitator into furniture?
+The Balance Table hopes to subtly encourage more conversational mindfulness by illuminating a constellation of lights in front of the speakers using the most airtime. They glance down, see the imbalance on the table, and naturally encourage others to contribute.
+The Balance Table was created for software company SalesForce with collaborators Gensler Architects and a fantastic team from the design firm Tellart.”</em> <em>(<a href="https://www.media.mit.edu/projects/balance-table/overview/">David Rose, MIT Media Lab, Author of Enchanted Objects</a>)</em></p>
+
+<p>I had the pleasure of developing the Balance Table from early proof of concept to the latest version, for installation and long-term user testing at the MIT Media Lab. Working directly with David Rose, we developed the user interaction, industrial design &amp; hardware / software stack for the novel table concept.</p>
+
+<p>This version of the Balance Table was produced in a 3 week sprint, from design to final install at MIT.</p>
+
+<p><img src="http://localhost:4000/assets/img/project/balanceTable/bt0.JPG" alt="img2" /></p>
+
+<p><img src="http://localhost:4000/assets/img/project/balanceTable/bt1.JPG" alt="img2" /></p>
+
+<p><img src="http://localhost:4000/assets/img/project/balanceTable/bt2.JPG" alt="img2" /></p>
+
+<p><img src="http://localhost:4000/assets/img/project/balanceTable/bt3.JPG" alt="img2" /></p>
+:ET
