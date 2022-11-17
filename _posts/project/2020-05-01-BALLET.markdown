@@ -1,14 +1,14 @@
 ---
 layout: project
 title:  "Ballet of the Final Anthozoans"
-date:   2020-07-01
+date:   2020-09-11
 realdate:   2021-06-01
 author: "OVERGROWN group"
 categories:
 - art
 img: thumbnail_ballet.png
 outline: outline_ballet.svg
-showVideo: "none"
+showVideo: "block"
 video_url: "https://player.vimeo.com/video/772227443?color=ff9933&title=0&byline=0&portrait=0"
 showCarousel: "block"
 carousel:
@@ -24,7 +24,15 @@ Commissioned by Fairgrounds St. Pete
 From the electric colors, to the meditative ebbs and flows, to the great diversity of their denizens, the subsurface realms of Florida’s coastal reefs are as “Florida” as it gets. Every year in August during the start of a full moon, corals, anemones, and sponges release their eggs in a blizzard of white, pinks, yellows, and oranges. Ballet of the Final Anthozoans celebrates the mysterious and synchronized spawning events that maintain Florida’s vibrant coral ecosystems, bringing these explosive, life-giving affairs above water in order to generate surprise, excitement, and curiosity in Fairgrounds visitors. The fragility of the enigmatic bubbles produced by our sculpture, juxtaposed with our inevitable impulse to pop them as they rise, complements the narrative of the crisis happening in our oceans. Due to global warming, pollution, and other human-created catastrophes, coral spawning is becoming less and less successful, adding to the cumulative decline of our coral reefs. Ballet of the Final Anthozoans acts as both a tribute and a warning: we must protect these delicate environments, or else bear witness to their last dance.
 
 ![img1]({{ site.url }}/assets/img/project/ballet/ballet1.jpg)
+
+
 ![img2]({{ site.url }}/assets/img/project/ballet/ballet2.jpg)
+
+
 ![img3]({{ site.url }}/assets/img/project/ballet/ballet3.jpg)
+
+
 ![img4]({{ site.url }}/assets/img/project/ballet/ballet4.jpg)
+
+
 ![img5]({{ site.url }}/assets/img/project/ballet/ballet5.jpg)
