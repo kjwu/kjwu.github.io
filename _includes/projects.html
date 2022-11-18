@@ -41,7 +41,7 @@
       <div class="work-centered">
           {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
           <div class="recentitems work">
-              {% for project in site.categories['art'] limit:24 %}
+              {% for project in site.categories['art'] limit:28 %}
                   <div class="work-item graphic-design">
                       <div class="he-wrap tpl6">
                       <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
