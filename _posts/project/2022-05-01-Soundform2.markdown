@@ -36,13 +36,13 @@ The artwork was first exhibited at the Island of Senses - Island of Dark Art (æ„
 ![img3]({{ site.url }}/assets/img/project/soundfrom2/sfii5.jpg)
 
 
-![img4]({{ site.url }}/assets/img/project/soundfrom2/sfii3.jpg)
+![img4]({{ site.url }}/assets/img/project/soundfrom2/sfii3.webg)
 
 
-![img5]({{ site.url }}/assets/img/project/soundfrom2/sfii4.jpg)
+![img5]({{ site.url }}/assets/img/project/soundfrom2/sfii4.webg)
 
 
-![img6]({{ site.url }}/assets/img/project/soundfrom2/sfii6.jpg)
+![img6]({{ site.url }}/assets/img/project/soundfrom2/sfii6.webg)
 
 
 ![img7]({{ site.url }}/assets/img/project/soundfrom2/sfii7.png)
