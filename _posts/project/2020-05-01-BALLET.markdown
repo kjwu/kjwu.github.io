@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Ballet of the Final Anthozoans"
-date:   2020-09-11
+date:   1020-09-11
 realdate:   2021-06-01
 author: "OVERGROWN group"
 categories:
@@ -13,7 +13,7 @@ video_url: "https://player.vimeo.com/video/772227443?color=ff9933&title=0&byline
 showCarousel: "block"
 carousel:
 - ballet1.jpg
-shortTitle: "WBallet of the Final Anthozoans"
+shortTitle: "Ballet"
 description: "Ecological Art"
 
 ---
