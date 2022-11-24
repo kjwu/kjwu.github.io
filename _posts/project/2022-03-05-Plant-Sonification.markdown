@@ -5,7 +5,7 @@ date:		2010-03-05
 realdate:   2022-03-05
 author: "Nick Tsai, Kuan-Ju Wu"
 categories:
-- tech
+- art
 img: thumbnail_plantSonification.png
 outline: outline_plantSonification.svg
 showVideo: "block"

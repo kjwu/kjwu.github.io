@@ -5,7 +5,7 @@ date:   2015-07-01
 realdate:	2015-07-01
 author: "Kuan-Ju Wu"
 categories:
-- art
+- hide
 img: thumbnail_firepit.jpg
 outline: outline_firepit.svg
 showVideo: "none"
