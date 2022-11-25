@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Plant Sonification"
-date:		2010-03-05
+date:		2011-06-01
 realdate:   2022-03-05
 author: "Nick Tsai, Kuan-Ju Wu"
 categories:

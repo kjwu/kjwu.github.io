@@ -5,7 +5,7 @@ date:   2011-06-01
 realdate:	2011-06-01
 author: "Kuan-Ju Wu, Eric Brockmeyer"
 categories:
-- art
+- hide
 img: thumbnail_robbbutterfly.jpg
 outline: outline_robbbutterfly.svg
 showVideo: "none"
