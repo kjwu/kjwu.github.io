@@ -24,9 +24,7 @@ Elastomer, Cat Grass, Pumps, Micro Controller
 
 Symbiosis :  Interaction between two different organisms living in close physical association, typically to the advantage of both. - Oxford dictionary
 
-The work explores the symbiosis relationship between Machine and Nature. The 21st century will challenge everything we think we know about nature and technology. Can the line between biology and technology begin to blur? What if we could create a platform that is mutually beneficial for both robot and living things?
-
-Half plant half robot, Grass Bot is a symbiosis system between machine and nature.
+The work explores the symbiotic relationship between the mechanical and the natural. The 21st century will challenge everything we think we know about nature and technology. Will the line between biology and technology begin to blur? What if we could create a platform that is mutually beneficial for both robots and living things? Half-plant, half-robot, Grass Bot is a liminal exploration of this vision of hybridity.
 
 <!-- Story: -->
 

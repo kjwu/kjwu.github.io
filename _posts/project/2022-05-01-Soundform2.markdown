@@ -25,13 +25,11 @@ description: "A sonic sculpture in concert with nature"
 ![img1]({{ site.url }}/assets/img/project/soundfrom2/sfii1.jpeg)
 
 
-Soundform No.2 is a minimalistic soundscape and kinetic art installation that transforms heat energy into sound and creates a poetically evolving composition in conjunction with natural forces. Influenced by environmental conditions—such as wind and temperature—the artwork sonically explores an ecological crossroads between nature and culture.
+Soundform is a minimalistic soundscape and kinetic art installation that transforms heat energy into sound and creates a poetically evolving composition in conjunction with natural forces. Influenced by environmental conditions—such as wind and temperature—the artwork sonically explores an ecological crossroads between nature and culture.
 
 ![img2]({{ site.url }}/assets/img/project/soundfrom2/sfii2.jpeg)
 
-
-The artwork was first exhibited at the Island of Senses - Island of Dark Art (感覚の島- 暗闇の美術島), where visitors could take a local ferry across Tokyo Bay to explore artworks installed on the uninhabited island of Sarushima (猿島, "Monkey Island").
-
+The artwork was first exhibited at Ars Electronica, later at Japan Media Art Festival, and then the Island of Senses-Island of Dark Art (感覚の島- 暗闇の美術島), where visitors could take a local ferry across Tokyo Bay to explore artworks installed on the uninhabited island of Sarushima (猿島, “Monkey Island”). My roles include designing and fabricating the mounting of the sound tubes as well as the programming of the control circuits.
 
 ![img3]({{ site.url }}/assets/img/project/soundfrom2/sfii5.jpg)
 

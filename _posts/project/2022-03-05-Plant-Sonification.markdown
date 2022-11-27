@@ -18,14 +18,16 @@ description: "Plant-sensing synthesizer"
 ---
 #### Plant Sonification Project ####
 
-To listen to the full song, please visit Nick Tsai's [Playlist](https://soundcloud.com/nick-tsai-91907606/04-dendrobium-crumenatum/sets)
 
 ![img1]({{ site.url }}/assets/img/project/plantSonification/ps1.jpeg)
 
 
-Collabrated with the electronic musician [Nick Tsai](https://linktr.ee/nicktsai140), Plant Sonification is an onging R&D project exploring plant as a source of inspiration as well as an actual input signal for realtime music creation. 
+Plant Sonification is an onging R&D project collabrated with the electronic musician [Nick Tsai](https://linktr.ee/nicktsai140), to exploring plant as a source of inspiration as well as an actual input signal for realtime music creation.
 
-In addition to the plant sensor, a set of audio-triggered LED driver module was developed for the Plant Sonification Show at @mugeneration191 Cafe in Chiayi, Taiwan.
+I developed the plant sensor modules that turn the capacitance signals of plants into sound waves. In addition to the plant sensor, I developed a set of audio-triggered LED driver modules for the Plant Sonification Show at @mugeneration191 Cafe in Chiayi, Taiwan.
+
+To listen to the full song, please visit Nick Tsai's [Playlist](https://soundcloud.com/nick-tsai-91907606/04-dendrobium-crumenatum/sets)
+
 
 ![img1]({{ site.url }}/assets/img/project/plantSonification/ps2.jpg)
 

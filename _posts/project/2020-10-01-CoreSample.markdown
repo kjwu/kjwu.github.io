@@ -18,13 +18,20 @@ description: "Kinetic Sculpture in Nature"
 ---
 #### Core Sample ####
 
+Imagine a future of fragility and potential, where the balance of life depends on a single, elemental seed.
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c1.png)
 *核芯樣本提案模擬圖 Rendering of Core Sample Proposal*
 
-By the year 2100, all of the world’s biomes have endured chaotic shifts in climate: rising sea levels, changing weather patterns, and decades of mass extinction have rendered Earth less hospitable for more living species than during any era since the last ice age (IPCC 2018). In “Core Sample,” we respond to several speculative narratives of ecological collapse, like E. E. Cummings’ poem “pity this busy monster, manunkind,” and Jean Giono’s allegory “L'homme qui plantait des arbres,” imagining a portal that opens upon the future. In a distant time and place, hundreds of years beyond our catastrophic moment, natural life cohabitates with the new and exotic lifeforms that emerge after the holocene. Unlike typical core samples—archives of deep time that reveal the world’s intractable past—our core sample summons a future of fragility and potential, where the balance of life depends on a single, elemental seed.
+In 2020, rampant wildfires, the global pandemic, and the Black Lives Matter movement seemed for many to hint at a path toward a dystopian future. For me, however, these events were actually awakening calls, galvanizing my optimism about our future generations. Reacting to that realization, I invited three other collaborators to join me in creating a speculative sculpture—Core Sample, a pneumatic light sculpture installed in the wilderness. 
+
+
+By the year 2100, all of the world’s biomes have endured chaotic shifts in climate: rising sea levels, changing weather patterns, and decades of mass extinction have rendered Earth less hospitable for more living species than during any era since the last ice age (IPCC 2018). In Core Sample we respond to several narratives of ecological collapse, like E. E. Cummings’ poem “pity this busy monster, manunkind,” and Jean Giono’s allegory “L’homme qui plantait des arbres.” Through these lenses, we imagined a portal that opens into the future. In a distant time and place, hundreds of years beyond our catastrophic moment, natural life cohabitates with the new and exotic lifeforms that emerge after the Holocene. Unlike typical core samples—archives of deep time that reveal the world’s intractable past—our core sample summons a future of fragility and potential, where the balance of life depends on a single, elemental seed. 
 
 “Core Sample” takes the form of a two-meter-wide column of light. At its center, above a fiberglass shell containing wires, tubes, and pumps, levitates an acorn, glowing by virtue of its own inductive power. The shell is covered in a layer of soil, which supports an ecosystem of both living and pneumatic species. The longer “Core Sample” remains installed in an environment, the more its own ecosystem blends with the native flora around it. We imagine installations in different biomes, of increasing durations, each a unique inquiry into the relationships endemic between nature and technology, plantlife and humanity. As such, “Core Sample” explores what Natasha Myers has called the planthropocene, “an aspirational epoch in which people learn to collaborate with the plants” (Myers 2016), and offers the viewer a glimpse into the enigmatic future of our natural world—and our place within it.
+
+Throughout the project, I managed the budget and timeline and developed the silicone rubber-based pneumatic flowers, the electrical wiring, and cable harnessing, and eventually the programming of the control software. The work was selected from 71 other applications and funded by the Taiwan Ministry of Culture Arts and Technology: Creative Innovation and Counseling Project. 
+
 
 ![img1]({{ site.url }}/assets/img/project/coreSample/c2.jpg)
 

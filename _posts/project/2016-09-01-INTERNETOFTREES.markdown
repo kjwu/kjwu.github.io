@@ -24,9 +24,11 @@ description: "IOT and storytelling"
 
 [Course Site](https://sites.google.com/a/risd.edu/internet-of-trees/)
 
-Sensor Driven Story Telling - Internet of Trees is a 3 credit Special Topic Course at Rhode Island School of Design Industrial Design Department.
+“Internet of Trees: sensor driven storytelling”  was a special topic studio course I developed and taught for Industrial Design at Rhode Island School of Design. 
 
-In this course, we took simple examples of nature phenomena, and represent them into a world of storytelling and interaction design, through sensing technology and data visualization. Throughout the course students had the opportunity to design and build a monitoring device, while learning foundations of systems design, embedded electronics, software development, communications networking, and mechanical interaction. Starting from a simple system at the beginning of the course, students will embark on an iterative design journey in order to evolve their “internet of thing”, and consider the entire system, including its inputs, processing and outputs.
+In this course, students were introduced to various sensors and an IoT platform, and they would build a data-collecting system to be deployed in the wild. This system, as a storytelling apparatus, would represent data in the form of information visualization, poem, sculpture, performance, or game. Throughout the course, students had the opportunity to design and build a monitoring device, while learning the foundations of systems design, embedded electronics, software development, communications networking, and mechanical interaction.
+
+Starting from a simple system at the beginning of the course, students embarkED on an iterative design journey in order to evolve their “internet of thing”, and consider the entire system, including its inputs, outputs, and through-puts.
 
 ![sensor1]({{ site.url }}/assets/img/project/internetOfTrees/sensor1.jpg)
 

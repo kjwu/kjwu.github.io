@@ -23,9 +23,9 @@ Fabrics, LEDs, Stepper Motors, Electronics 12' x 12' x 16'
 
 Playform invites visitors to playfully interact while co-creating dynamic light forms with others. Using elements of repetition, light and motion, the sculpture takes simple materials and expressively activates the environment to create an ephemeral aesthetic experience. Through a shared interaction, the sculpture attempts to blur boundaries between personal and public space, and inspire fun, convivial moments between visitors.
 
-As visitors wander through the artwork they discover that their presence affects the motion of the sculpture: cylinders becomes taller or shorter, and colors start to morph and animate. The motion of people, fabric and light appears as a dynamic, colorful, organic form. When no one is interacting, the sculpture moves slowly on its own.
+As visitors wander through the artwork they discover that their presence affects the motion of the sculpture: cylinders become taller or shorter, and colors start to morph and animate. The motion of people, fabric and light appears as a dynamic, colorful, organic form. When no one is interacting, the sculpture moves slowly on its own.
 
-Playform consists of multiple cylindrical fabric modules, arranged in a grid, and lit by LEDs and black-light. Each cylinder measures ~35” diameter, and weighs ~30lbs. When in motion, cylinder height ranges from roughly ~5 to 10ft. Each cylinder is suspended by steel rope, and connected to series of large size stepper motors and pulleys that control movement. Interaction is detected through capacitance sensors embedded on the floor, causing cylinders to change height and color.
+Playform consists of multiple cylindrical fabric modules, arranged in a grid, and lit by LEDs and black-light. Each cylinder measures ~35” diameter, and weighs ~30lbs. When in motion, cylinder height ranges from roughly ~5 to 10ft. Each cylinder is suspended by steel rope, and connected to series of large stepper motors and pulleys that control movement. Interaction is detected through capacitance sensors embedded on the floor, causing cylinders to change height and color.
 
 同是共同城市的居住者，你是否覺得時常遇見熟悉卻又陌生的臉孔？
 一起等公車，一起在超市排隊，一同看著夜晚燦爛的霓虹燈，一起在乎著這個充滿知性與感性的土地
