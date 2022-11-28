@@ -22,13 +22,13 @@ description: "Interactive plant sculpture"
 *Abstract*
 
 Natura Machina: Teenage Meadow symbiotically combines plants and robotics in a harmonious relationship as part of a long-term goal of creating art that is simultaneously a new life form that can exist in nature.
-The work consists of silicone rubber elastomer, air pumps, sensors, and reindeer moss lichen. It inflates and deflates rhythmically like the movement of breathing. Similar to a teenager’s nature, it will react to a stranger’s presence, es- pecially when touched.
+The work consists of silicone rubber elastomer, air pumps, sensors, and reindeer moss lichen. It inflates and deflates rhythmically like the movement of breathing. Similar to a teenager’s nature, it will react to a stranger’s presence, especially when touched.
 
 ![img1]({{ site.url }}/assets/img/project/teenage/tm0.jpg)
 
 *Background*
 
-The work explores the symbiotic relationship between Nature and Machine. The 21st century will challenge pre- existing distinctions between nature and technology. How might the boundary between biology and technology begin to blur? Can we create a platform that is mutually beneficial for both robot and living things?
+The work explores the symbiotic relationship between Nature and Machine. The 21st century will challenge pre-existing distinctions between nature and technology. How might the boundary between biology and technology begin to blur? Can we create a platform that is mutually beneficial for both robot and living things?
 
 
 Artists consistantly merge art and technology to predict, explore, and shape the future. In 1995, Ken Goldberg and Joseph Santarromana created The Telegarden [3], a robotic art installation that allowed anyone on the Internet to inter- act with a remote garden. Users tele-operated a robot arm to plant, water, and monitor the progress of living plants. In Soichiro Mihara’s Blank Project #3 – A Corner of the Cosmos [4], a group of singing and dancing moss balls powered by microbial fuel cells (MFC) envisage a future where moss-generated electricity is used to power robots. Caravel [1], built by Ivan Henriques, is a symbiotic machine powered by anaerobic bacteria and organic components in the water, which in return drifts through the polluted water to clean and purify water. These machines are hybrid forms situated between living organisms and machines and they gesture toward an evolutionary vector between machines and nature.
