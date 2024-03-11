@@ -29,5 +29,5 @@ Addressing these challenges presents an opportunity to design immersive experien
 
 
 ![img1]({{ site.url }}/assets/img/project/signsOfWater/sow1.png)
-![img1]({{ site.url }}/assets/img/project/signsOfWater/sow2.PNG)
-![img1]({{ site.url }}/assets/img/project/signsOfWater/sow3.jpg)
+![img2]({{ site.url }}/assets/img/project/signsOfWater/sow2.png)
+![img3]({{ site.url }}/assets/img/project/signsOfWater/sow3.jpg)
