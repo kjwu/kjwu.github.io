@@ -21,9 +21,7 @@ description: "water surface activation with ultrasonics transducer"
 Signs of Water series
 
 Stream: A playful interaction with nature
-
 Tank: A dynamic water display
-
 Plate: An immersive tea experience
 
 
@@ -43,13 +41,9 @@ This piece raises a question: how can media technology be used to create (or rec
 
 Credits
 
-
 Artists: Kuan-Ju Wu, Yasuaki Kakehi
-
 Technical and Fabrication Support: Hiroki Kaimoto, Haruma Tasaki, Shun Kainuma, Junwei Ao, Hiroaki Takahashi, Kanon Aoyama, Takafumi Morita, Tomomi Imamura, Risa Nagata, Rei Sakura, Harpreet Sareen
-
 Video and Photography: Ziyuan Jiang
-
 Logistic Support: Hideka Hatoh
 
 
@@ -57,11 +51,8 @@ Logistic Support: Hideka Hatoh
 Support received from
 
 University of Tokyo International Graduate Program of Innovation for Intelligent World
-
 University of Tokyo Graduate School of Interdisciplinary Information Studies
-
 NTCRI National Taiwan Craft Research and Development Institute
-
 Ichikawa Art Festival
 
 
