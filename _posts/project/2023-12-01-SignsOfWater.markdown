@@ -3,7 +3,7 @@ layout: project
 title:  "Signs of Water"
 date:   2023-12-01
 realdate:   2023-12-01
-author: Kuan-Ju Wu, Hiroki Kaimoto, Yasuaki kakehi"
+author: Kuan-Ju Wu, Yasuaki kakehi"
 categories:
 - art
 img: thumbnail_sow.png
