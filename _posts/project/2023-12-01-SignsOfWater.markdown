@@ -35,9 +35,9 @@ Addressing these challenges presents an opportunity to craft immersive experienc
 This piece raises a question: how can media technology be used to create (or recreate) a rich interplay or relationship between nature and humans? Can we provide moments for encountering enchantment—a delightful interplay among humans, machines, and environments, evoking the fuzzy and ambiguous instinctive moments of our childhood memories: those intuitive, profound, and fulfilling experiences that bind us to each other and to our natural world.
 
 
-<sub><sup>1.	Soga, Masashi, and Kevin J. Gaston. 2016. "Extinction of experience: the loss of human–nature interactions." Frontiers in Ecology and the Environment 14.2 (2016): 94-101.
-2.	Sarah Webber, Ryan M. Kelly, Greg Wadley, and Wally Smith. 2023. Engaging with Nature through Technology: A Scoping Review of HCI Research. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23).
-</sub></sup>
+<sub><sup> 1.	Soga, Masashi, and Kevin J. Gaston. 2016. "Extinction of experience: the loss of human–nature interactions." Frontiers in Ecology and the Environment 14.2 (2016): 94-101.</sub></sup>
+<sub><sup> 2.	Sarah Webber, Ryan M. Kelly, Greg Wadley, and Wally Smith. 2023. Engaging with Nature through Technology: A Scoping Review of HCI Research. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). </sub></sup>
+
 
 Credits
 
@@ -60,4 +60,4 @@ Ichikawa Art Festival
 ![img2]({{ site.url }}/assets/img/project/signsOfWater/sow2.png)
 ![img3]({{ site.url }}/assets/img/project/signsOfWater/sow3.jpg)
 
-<iframe src="https://drive.google.com/file/d/180up7E7itq-mWFl7VxI4fsnXqQq2y-OU/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/180up7E7itq-mWFl7VxI4fsnXqQq2y-OU/preview" width="680" height="480" allow="autoplay"></iframe>
