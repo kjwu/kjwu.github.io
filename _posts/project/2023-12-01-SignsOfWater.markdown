@@ -21,7 +21,9 @@ description: "water surface activation with ultrasonics transducer"
 Signs of Water series
 
 Stream: A playful interaction with nature
+
 Tank: A dynamic water display
+
 Plate: An immersive tea experience
 
 
