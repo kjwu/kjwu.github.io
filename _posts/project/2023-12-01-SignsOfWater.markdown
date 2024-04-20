@@ -28,6 +28,7 @@ Plate: An immersive tea experience
 
 
 “Extinction of Experience” , presented by ecologist Dr. Masashi Soga[1], highlights the detrimental consequences of lacking human-nature interactions in daily life. Nature HCI researchers[2] aim to renew this relationship through technological mediation. However, when designing with digital technology, challenges include distractions from real nature, indirect digital interactions, exclusion of non-human entities in design, lack of in-situ engagement, and brevity of interactions.
+
 Addressing these challenges presents an opportunity to craft immersive experiences involving more-than-human beings, fostering serenity, immediacy, in-situ presence, and temporal depth. Importantly, these experiences should seamlessly integrate natural materials or phenomena to enhance authenticity and deepen connections to the natural world.
 
 
@@ -37,14 +38,17 @@ Addressing these challenges presents an opportunity to craft immersive experienc
 This piece raises a question: how can media technology be used to create (or recreate) a rich interplay or relationship between nature and humans? Can we provide moments for encountering enchantment—a delightful interplay among humans, machines, and environments, evoking the fuzzy and ambiguous instinctive moments of our childhood memories: those intuitive, profound, and fulfilling experiences that bind us to each other and to our natural world.
 
 
-<sub><sup> 1.	Soga, Masashi, and Kevin J. Gaston. 2016. "Extinction of experience: the loss of human–nature interactions." Frontiers in Ecology and the Environment 14.2 (2016): 94-101.</sub></sup>
-<sub><sup> 2.	Sarah Webber, Ryan M. Kelly, Greg Wadley, and Wally Smith. 2023. Engaging with Nature through Technology: A Scoping Review of HCI Research. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). </sub></sup>
+<sub> 1.	Soga, Masashi, and Kevin J. Gaston. 2016. "Extinction of experience: the loss of human–nature interactions." Frontiers in Ecology and the Environment 14.2 (2016): 94-101.</sup>
+
+<sub> 2.	Sarah Webber, Ryan M. Kelly, Greg Wadley, and Wally Smith. 2023. Engaging with Nature through Technology: A Scoping Review of HCI Research. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). </sup>
 
 
 Credits
 
 Artists: Kuan-Ju Wu, Yasuaki Kakehi
-Technical and Fabrication Support: Hiroki Kaimoto, Haruma Tasaki, Shun Kainuma, Junwei Ao, Hiroaki Takahashi, Kanon Aoyama, Takafumi Morita, Tomomi Imamura, Risa Nagata, Rei Sakura, Harpreet Sareen
+Technical and Fabrication 
+
+Support: Hiroki Kaimoto, Haruma Tasaki, Shun Kainuma, Junwei Ao, Hiroaki Takahashi, Kanon Aoyama, Takafumi Morita, Tomomi Imamura, Risa Nagata, Rei Sakura, Harpreet Sareen
 Video and Photography: Ziyuan Jiang
 Logistic Support: Hideka Hatoh
 
@@ -53,13 +57,18 @@ Logistic Support: Hideka Hatoh
 Support received from
 
 University of Tokyo International Graduate Program of Innovation for Intelligent World
+
 University of Tokyo Graduate School of Interdisciplinary Information Studies
+
 NTCRI National Taiwan Craft Research and Development Institute
+
 Ichikawa Art Festival
 
 
 ![img1]({{ site.url }}/assets/img/project/signsOfWater/sow1.png)
+
 ![img2]({{ site.url }}/assets/img/project/signsOfWater/sow2.png)
+
 ![img3]({{ site.url }}/assets/img/project/signsOfWater/sow3.jpg)
 
 <iframe src="https://drive.google.com/file/d/180up7E7itq-mWFl7VxI4fsnXqQq2y-OU/preview" width="680" height="480" allow="autoplay"></iframe>
