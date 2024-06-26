@@ -17,36 +17,14 @@ description: "water surface activation with ultrasonics transducer"
 ---
 #### The Ways of Water ####
 
-"The Ways of Water: Embody, Encalm, and Enliven" is a guiding metaphor for designing technologies that emphasize embodiment, mindfulness, and ecological awareness. By adapting Ursula K. Le Guin’s “the way of water” essay, Astrida Neimanis’s "Bodies of Water" feminist post-human phenomenology, Paul Dourish’s Embodied Interaction principles, and Weiser and Brown’s Calm Technology signs, we develop a framework for describing technologies that emphasize these qualities. Aligning with Astrida Neimanis's notion of embodied experiences to think as a body of water, we advocates for a more reflective approach to design, recognizing the sensibility, fluidity, and interconnectedness of humans and those of others. Through the creation of three technologically mediated water containers driven from the metaphor—a Water Tank Display, an Interactive Dish for Tea Tasting, and a Water Plant Terrarium—and their corresponding narratives, we speculate on the potential of these interfaces to engage users in rich sensory experiences, encouraging contemplation on the embodied meanings of the materials they interact with. This paper aims to inspire HCI researchers and designers to incorporate the principles of "The Ways of Water" into their work, leveraging new technologies to enhance embodiment, mindfulness, and ecological responsibility, ultimately contributing to a more harmonious and sustainable future.
 
-“Extinction of Experience” , presented by ecologist Dr. Masashi Soga[1], highlights the detrimental consequences of lacking human-nature interactions in daily life. Nature HCI researchers[2] aim to renew this relationship through technological mediation. However, when designing with digital technology, challenges include distractions from real nature, indirect digital interactions, exclusion of non-human entities in design, lack of in-situ engagement, and brevity of interactions.
+Science fiction has long embodied our visions of possible futures through its narratives, offering both cautionary tales and optimistic visions. Examples include the reality augmented with layers of highly saturated and vibrant digital information, as shown in Keiichi Matsuda's Merger, and sleek, minimalist interfaces seamlessly integrated into the environment, as depicted in the movie Her. What kind of interfaces do we want to encounter in the future? This question is at the forefront of the minds of HCI researchers and design practitioners.
 
-Addressing these challenges presents an opportunity to craft immersive experiences involving more-than-human beings, fostering serenity, immediacy, in-situ presence, and temporal depth. Importantly, these experiences should seamlessly integrate natural materials or phenomena to enhance authenticity and deepen connections to the natural world.
+Over the past few decades, researchers in HCI have advocated for decentralizing computation to integrate it into our daily lives and environments seamlessly. We envisioned a path toward Weiser’s vision of ubiquitous computing; however, we now find ourselves halfway to the future where interconnected devices far outnumber people, making colossal demands on our attention with constant beeps, buzzes, and blinks. Despite the proliferation of these smaller devices, this shift to peripheral computing has not fulfilled the promise of making computation disappear without distraction—a calm technology. Interaction remains confined to these representations, trapping us within the boundaries of attention-demanding systems.
 
+In our quest to investigate the calmness of technology, we introduce the concept of “The Ways of Water: Embody, Encalm, and Enliven” – a guiding metaphor inspired by Ursula K. Le Guin’s “the way of water” essay, Astrida Neimanis’s Bodies of Water feminist post-human phenomenology, Paul Dourish’s Embodied Interaction principles, and Weiser and Brown’s Calm Technology Signs, for describing technologies that emphasis embodiment, mindfulness, and ecological awareness. We also explore the implications of this approach through the design and making of three provocations in the form of water containers. Integrating “The Ways of Water” into our design practice illustrates how technology may foster tranquility and a deeper sense of connectedness in our daily lives.
 
 We engage with a variety of materials daily, but none are as pervasive and integral as water. From drinking and washing to swimming and fishing, our interactions with water are intrinsic and diverse. Its ubiquitous presence symbolizes purity and fluidity, making it an ideal medium for designing rich interactions. This project translates the concept of “The Ways of Water” into practice through the creation of three design artifacts in the form of a water container: a Water Tank Display, an Interactive Dish for Tea Tasting, and a Water Plant Terrarium and their corresponding narratives, that aim to provoke the embodied meaning of the water – to embody, encalm, and enliven its encounters. Water Tank Display is an ambient display that presents information about environmental conditions such as weather, time, or personal health data like water consumption through the emergence and disappearance of swelling crests on the water's surface. In Interactive Dish for Tea Tasting, we invite users to engage in a ritual-like, multi-sensory experience through mindfulness exercises by manipulating a floating leaf while tasting tea. The Water Plant Terrarium is a miniature aquatic ecosystem equipped with a user-controlled moving water crest to agitate water to create space for the floating weeds in their habitat. Each design uses the same water manipulation technique but applies it in different contexts, bringing unique qualities of engagement.
-
-
-The Ways of Water provocations
-
-Stream: A playful interaction with nature
-
-Water Tank Display
-
-Interactive Dish for Tea Tasting
-
-Water Plant Terrarium
-
-
-‘The Ways of Water’  utilizes water, a material essential for life and nature, to explore the integration of its materiality with computer-controlled expression. Ultrasonic vibrations applied from beneath the plate’s bottom surface create swells on the water. These elevations are dynamically and sensitively controlled by computational programming, forming a variety of movements on the water’s surface. Despite being under digital manipulation, the water retains its inherent properties through reflections and ripples, reverting quickly to its natural state after the swells subside. 
-
-
-This piece raises a question: how can media technology be used to create (or recreate) a rich interplay or relationship between nature and humans? Can we provide moments for encountering enchantment—a delightful interplay among humans, machines, and environments, evoking the fuzzy and ambiguous instinctive moments of our childhood memories: those intuitive, profound, and fulfilling experiences that bind us to each other and to our natural world.
-
-
-<sub> 1.	Soga, Masashi, and Kevin J. Gaston. 2016. "Extinction of experience: the loss of human–nature interactions." Frontiers in Ecology and the Environment 14.2 (2016): 94-101.</sup>
-
-<sub> 2.	Sarah Webber, Ryan M. Kelly, Greg Wadley, and Wally Smith. 2023. Engaging with Nature through Technology: A Scoping Review of HCI Research. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). </sup>
 
 
 Credits
