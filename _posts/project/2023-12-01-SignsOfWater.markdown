@@ -3,7 +3,7 @@ layout: project
 title:  "The Ways of Water"
 date:   2023-12-01
 realdate:   2023-12-01
-author: Kuan-Ju Wu, Harpreet Sareen, Yasuaki kakehi"
+author: "Kuan-Ju Wu, Harpreet Sareen, Yasuaki kakehi"
 categories:
 - art
 img: thumbnail_sow.png
@@ -17,6 +17,7 @@ description: "water surface activation with ultrasonics transducer"
 ---
 #### The Ways of Water ####
 
+(This work has been published as a [full paper](https://dl.acm.org/doi/10.1145/3686169.3686202) in Halfway to the Future 2024 )
 
 Science fiction has long embodied our visions of possible futures through its narratives, offering both cautionary tales and optimistic visions. Examples include the reality augmented with layers of highly saturated and vibrant digital information, as shown in Keiichi Matsuda's Merger, and sleek, minimalist interfaces seamlessly integrated into the environment, as depicted in the movie Her. What kind of interfaces do we want to encounter in the future? This question is at the forefront of the minds of HCI researchers and design practitioners.
 
