@@ -1,0 +1,28 @@
+---
+layout: project
+title:  "Wavy"
+date:   2023-04-01
+realdate:   2024-04-01
+author: "Kuan-Ju Wu and Yasuaki Kakehi"
+categories:
+- art
+img: thumbnail_wavy.png
+outline: outline_wavy.svg
+showVideo: "block"
+video_url: "https://www.youtube.com/embed/w62Nkh9IwOM?rel=0&amp;controls=0&amp;showinfo=0"
+showCarousel: "block"
+shortTitle: "Wavy"
+description: "A kinetic light sculpture"
+
+---
+#### Wavy ####
+
+Wavy is a kinetic light sculpture centered on the movement of a single line. An LED filament hangs from the ceiling and is animated by five-bar linkage mechanisms, producing dynamic motion. Visitors can engage with the sculpture through gestures, influencing the line's behavior in real time. The work investigates how a minimalist form—a single line—can communicate its expressive texture through movement and affect its relationship to the environment.
+
+
+
+![img1]({{ site.url }}/assets/img/project/wavy/wv1.jpg)
+
+
+
+
