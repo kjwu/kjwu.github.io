@@ -9,11 +9,10 @@ categories:
 img: thumbnail_mirror.png
 outline: outline_mirror.svg
 showVideo: "block"
-video_url: "https://www.youtube.com/embed/8BM1Ky5fWkA?rel=0&amp;controls=0&amp;showinfo=0"
+video_url: "https://www.youtube.com/embed/8BM1Ky5fWkA?rel=0&amp;controls=1&amp;showinfo=0"
 showCarousel: "block"
 shortTitle: "Signs of Water - Mirror"
-description: "A Reflection on Digital Narcissism and Extinction of
-Experience"
+description: "On Water Reflection"
 
 ---
 #### Signs of Water — Mirror ####

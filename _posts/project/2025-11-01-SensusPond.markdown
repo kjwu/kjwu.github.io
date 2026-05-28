@@ -9,10 +9,10 @@ categories:
 img: thumbnail_sensus.png
 outline: outline_sensus.svg
 showVideo: "block"
-video_url: "https://www.youtube.com/embed/gj-LgDoQlLg?rel=0&amp;controls=0&amp;showinfo=0"
+video_url: "https://www.youtube.com/embed/gj-LgDoQlLg?rel=0&amp;controls=1&amp;showinfo=0"
 showCarousel: "block"
 shortTitle: "Sensus Pond"
-description: "Water as a sensing medium for tracing encounters."
+description: "Sensing with Water"
 
 ---
 #### Sensus Pond ####

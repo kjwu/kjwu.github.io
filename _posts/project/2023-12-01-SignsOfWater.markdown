@@ -9,10 +9,10 @@ categories:
 img: thumbnail_sow.png
 outline: outline_sow.svg
 showVideo: "block"
-video_url: "https://www.youtube.com/embed/XmxaYCzb1-0?rel=0&amp;controls=0&amp;showinfo=0"
+video_url: "https://www.youtube.com/embed/XmxaYCzb1-0?rel=0&amp;controls=1&amp;showinfo=0"
 showCarousel: "block"
 shortTitle: "The Ways of Water"
-description: "water surface activation with ultrasonics transducer"
+description: "Metaphor for Calm Tech"
 
 ---
 #### The Ways of Water ####

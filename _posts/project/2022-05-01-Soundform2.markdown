@@ -14,7 +14,7 @@ showCarousel: "block"
 carousel:
 - ballet1.jpg
 shortTitle: "Soundform No.2"
-description: "A sonic sculpture in concert with nature"
+description: "A sonic sculpture in nature"
 
 ---
 #### Soundform No.2 ####

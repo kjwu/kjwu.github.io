@@ -9,7 +9,7 @@ categories:
 img: thumbnail_wavy.png
 outline: outline_wavy.svg
 showVideo: "block"
-video_url: "https://www.youtube.com/embed/w62Nkh9IwOM?rel=0&amp;controls=0&amp;showinfo=0"
+video_url: "https://www.youtube.com/embed/w62Nkh9IwOM?rel=0&amp;controls=1&amp;showinfo=0"
 showCarousel: "block"
 shortTitle: "Wavy"
 description: "A kinetic light sculpture"
