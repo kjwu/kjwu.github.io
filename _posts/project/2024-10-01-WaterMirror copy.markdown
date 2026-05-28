@@ -1,0 +1,36 @@
+---
+layout: project
+title:  "WETform"
+date:   2025-04-01
+realdate:   2025-04-01
+author: "Kuan-Ju Wu, Hiroki Kaimoto, Mikhail Mansion, and Yasuaki Kakehi"
+categories:
+- art
+img: thumbnail_WETform.png
+outline: outline_WETform.svg
+showVideo: "block"
+video_url: "https://www.youtube.com/embed/Se0MSYKyhqY?rel=0&amp;controls=0&amp;showinfo=0"
+showCarousel: "block"
+shortTitle: "WETform"
+description: "A Multimodal Water Experience Testbed with Surface Manipulation"
+
+---
+#### WETform ####
+
+(This work has been published as a [demo](https://drive.google.com/file/d/1tG-aSqpLsCMiOiUDrzf97ScAkwgnPVnc/view?usp=drive_link) in CHI 2025 )
+
+
+In recent years, HCI researchers have explored water as a medium for interactive experiences by integrating it with computational technologies. However, much of the existing research has focused on controlling single characteristics of water. To address this gap, we present WETform, a water surface manipulation testbed designed to explore multimodal interactive experiences. WETform introduces four distinct modalities—Pattern, Texture, Actuation, and Mist—each highlighting specific material properties and interaction affordances of shape-changing water surfaces. These modalities enable applications such as creating animated water pixel patterns, augmenting visual content with dynamic textures, manipulating objects on water surfaces, and engaging multiple senses, including scent, through the mist.
+
+
+By integrating water’s fluid, ephemeral, and multi-sensory qualities into an interactive system, WETform expands the design space of computational materials, offering new possibilities for dynamic, material-based interfaces in HCI. In line with the “Material Turn” framework, it demonstrates how natural materials—when computationally augmented—can be utilized not only for their functional capabilities but also for their aesthetic, sensory, and performative potentials in interaction design.
+![img1]({{ site.url }}/assets/img/project/WETform/wf1.jpg)
+
+![img1]({{ site.url }}/assets/img/project/WETform/wf2.JPG)
+
+![img1]({{ site.url }}/assets/img/project/WETform/wf3.jpg)
+
+![img1]({{ site.url }}/assets/img/project/WETform/wf4.png)
+
+![img1]({{ site.url }}/assets/img/project/WETform/wf5.png)
+
