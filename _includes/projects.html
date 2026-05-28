@@ -2,11 +2,7 @@
 
   <br />
   <div class="intro">
-    Kuan-Ju (KJ) Wu
-
-    
-    Artist, designer, and researcher creating devices and narratives at the intersection of art, technology, and ecology.
-
+    Kuan-Ju (KJ) Wu is an artist, designer, and researcher whose work explores the intersection of art, technology, and ecology through devices, systems, and narrative experiences.
 <!-- <br />
     <br />
 
@@ -25,7 +21,6 @@
  </ol>
 
 <br /> -->
-    Please feel free to reach me for a chat or collabration!
     <br />
 
   </div>
@@ -39,7 +34,7 @@
       <div class="work-centered">
           {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
           <div class="recentitems work">
-              {% for project in site.categories['art'] limit:20 %}
+              {% for project in site.categories['art'] limit:24 %}
                   <div class="work-item graphic-design">
                       <div class="he-wrap tpl6">
                       <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">

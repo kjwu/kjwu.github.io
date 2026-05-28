@@ -17,7 +17,7 @@ description: "A Multimodal Water Experience Testbed with Surface Manipulation"
 ---
 #### WETform ####
 
-(This work has been published as a [demo](https://drive.google.com/file/d/1tG-aSqpLsCMiOiUDrzf97ScAkwgnPVnc/view?usp=drive_link) in CHI 2025 )
+(This work was published as a [demo](https://drive.google.com/file/d/1tG-aSqpLsCMiOiUDrzf97ScAkwgnPVnc/view?usp=drive_link) at CHI 2025 )
 
 
 In recent years, HCI researchers have explored water as a medium for interactive experiences by integrating it with computational technologies. However, much of the existing research has focused on controlling single characteristics of water. To address this gap, we present WETform, a water surface manipulation testbed designed to explore multimodal interactive experiences. WETform introduces four distinct modalities—Pattern, Texture, Actuation, and Mist—each highlighting specific material properties and interaction affordances of shape-changing water surfaces. These modalities enable applications such as creating animated water pixel patterns, augmenting visual content with dynamic textures, manipulating objects on water surfaces, and engaging multiple senses, including scent, through the mist.
