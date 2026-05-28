@@ -12,7 +12,7 @@ showVideo: "block"
 video_url: "https://www.youtube.com/embed/19I2GWK7Kvo?rel=0&amp;controls=1&amp;showinfo=0"
 showCarousel: "block"
 shortTitle: "Water Theremin"
-description: ""
+description: "Water music instrument"
 
 ---
 #### Water Theremin ####
