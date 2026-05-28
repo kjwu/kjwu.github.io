@@ -9,7 +9,7 @@ categories:
 img: thumbnail_sensus.png
 outline: outline_sensus.svg
 showVideo: "block"
-video_url: "https://www.youtube.com/embed/gj-LgDoQlLg?rel=0&amp;controls=1&amp;showinfo=0"
+video_url: "https://www.youtube.com/embed/1zSM-P1v5DU?rel=0&amp;controls=1&amp;showinfo=0"
 showCarousel: "block"
 shortTitle: "Sensus Pond"
 description: "Sensing with Water"
